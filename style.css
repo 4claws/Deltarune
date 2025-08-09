@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family:"deltarune" ;
+    src: url(font/deltarune.ttf);
+}
+
+@font-face {
+    font-family: "crypt";
+    src: url(font/crypt-of-tomorrow-ut-font-no-rus.ttf);
+}
+@font-face {
+    font-family: "esteso" ;
+    src: url(font/undertale-deltarune-text-font-extended.otf.ttf);
+}
+body{background-color: rgba(7, 7, 8, 0.986);}
+h1{color: #d7d3d3;text-align: center; font-family: "deltarune"; font-size: 110px;}
+h2{color: aliceblue;font-family:  "crypt"; font-size: 130%;}
+  summary {color: aliceblue;font-family:  "crypt"; font-size: 130%;}
+em{color: crimson;}
+p{color: aliceblue;font-family: "esteso";font-size: 80%;}
+li{color: aliceblue;}
+
+body{margin: 0;
+height: 100vh;
+cursor: url("../images/cuore.svg"),auto;}
+header{background-image: url(fontana.gif);background-color: aquamarine; background-size: cover ; }
+audio {
+  width: 100px;
+}
+
+audio::-webkit-media-controls-volume-slider, 
+audio::-webkit-media-controls-timeline-container, 
+audio::-webkit-media-controls-time-remaining-display,  
+audio::-webkit-media-controls-timeline {
+  display: none !important;
+}
