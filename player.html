@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Audio Player con localStorage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #222;
+      color: white;
+    }
+    .player {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 15px;
+    }
+    .track-name {
+      flex: 1;
+    }
+    input[type="range"] {
+      width: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div class="player">
+    <button id="playPauseBtn">Play</button>
+    <span class="track-name" id="trackName">Caricamento...</span>
+    <select id="trackSelector">
+      <option value="audio/menu.mp3">Track 1</option>
+      <option value="profezia.mp3">Track 2</option>
+      <option value="track3.mp3">Track 3</option>
+    </select>
+    <input type="range" id="volumeSlider" min="0" max="1" step="0.01">
+  </div>
+
+  <audio id="audio" preload="auto"></audio>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const volumeSlider = document.getElementById('volumeSlider');
+    const trackSelector = document.getElementById('trackSelector');
+    const trackName = document.getElementById('trackName');
+
+    // === CARICAMENTO ===
+    // Carica volume e traccia da localStorage, se disponibili
+    const savedVolume = localStorage.getItem('volume');
+    const savedTrack = localStorage.getItem('track');
+
+    if (savedVolume !== null) {
+      audio.volume = parseFloat(savedVolume);
+      volumeSlider.value = savedVolume;
+    } else {
+      audio.volume = 0.5;
+      volumeSlider.value = 0.5;
+    }
+
+    if (savedTrack !== null) {
+      audio.src = savedTrack;
+      trackName.textContent = savedTrack;
+      trackSelector.value = savedTrack;
+    } else {
+      audio.src = 'track1.mp3';
+      trackName.textContent = 'track1.mp3';
+    }
+
+    // === EVENTI ===
+
+    playPauseBtn.addEventListener('click', () => {
+      if (audio.paused) {
+        audio.play();
+        playPauseBtn.textContent = 'Pausa';
+      } else {
+        audio.pause();
+        playPauseBtn.textContent = 'Play';
+      }
+    });
+
+    volumeSlider.addEventListener('input', () => {
+      audio.volume = volumeSlider.value;
+      localStorage.setItem('volume', volumeSlider.value);
+    });
+
+    trackSelector.addEventListener('change', () => {
+      const newTrack = trackSelector.value;
+      audio.src = newTrack;
+      audio.play();
+      playPauseBtn.textContent = 'Pausa';
+      trackName.textContent = newTrack;
+      localStorage.setItem('track', newTrack);
+    });
+
+    // Cambia bottone quando finisce la traccia
+    audio.addEventListener('ended', () => {
+      playPauseBtn.textContent = 'Play';
+    });
+  </script>
+</body>
+</html>

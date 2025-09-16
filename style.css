@@ -19,18 +19,46 @@ h2{color: aliceblue;font-family:  "crypt"; font-size: 130%;}
 em{color: crimson;}
 p{color: aliceblue;font-family: "esteso";font-size: 80%;}
 li{color: aliceblue;}
+span{color: aliceblue;font-family: "esteso";font-size: 80%;text-align:center; position: relative; top: -30px; left: 100;transform: translateY(-60px);}
 
 body{margin: 0;
 height: 100vh;
 cursor: url("../images/cuore.svg"),auto;}
 header{background-image: url(fontana.gif);background-color: aquamarine; background-size: cover ; }
-audio {
-  width: 100px;
+
+img.a {
+  vertical-align: baseline;
+}
+    .colonna-sinistra {
+      float: left;
+      width: 40%;
+      margin-right: 3px; /* Esempio di spazio tra le colonne */
+     margin-left: 3%;;
+      
+    }
+
+    .colonna-destra {
+      float: right;
+      width: 40%;
+      margin-right: 3%;
+    }
+
+    /* Per una versione responsive che impila le colonne su schermi piccoli */
+    @media screen and (max-width: 400px) {
+      .colonna-sinistra,
+      .colonna-destra {
+        float: none; /* Le colonne diventano una sotto l'altra */
+        width: 100%; /* Occupano tutta la larghezza */
+      }
+    }
+
+  img.c{margin-left:20%; margin-right: 10%; width: 800px;}
+
+  
+   audio {
+  display: block;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 400px;
 }
 
-audio::-webkit-media-controls-volume-slider, 
-audio::-webkit-media-controls-timeline-container, 
-audio::-webkit-media-controls-time-remaining-display,  
-audio::-webkit-media-controls-timeline {
-  display: none !important;
-}
