@@ -53,12 +53,5 @@ img.a {
     }
 
   img.c{margin-left:20%; margin-right: 10%; width: 800px;}
-
-  
-   audio {
-  display: block;
-  margin: 20px auto;
-  width: 100%;
-  max-width: 400px;
-}
-
+.a2{color: aliceblue;font-family:  "crypt"; font-size: 130%;}
+   
