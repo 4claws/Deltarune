@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Audio Player con localStorage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #222;
+      color: white;
+      padding: 20px;
+    }
+    .player {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .track-name {
+      flex: 1;
+    }
+    input[type="range"] {
+      width: 100px;
+    }
+    select {
+      background: #444;
+      color: white;
+      border: 1px solid #555;
+      padding: 5px;
+    }
+    button {
+      padding: 5px 10px;
+      background: #555;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #666;
+    }
+    #unmuteBtn {
+      display: none;
+      background: #aa0000;
+    }
+    /* Barra di progresso più in alto di 0.5 cm */
+    #progressBar {
+      width: 100%;
+      height: 10px;
+      background: #444;
+      border-radius: 5px;
+      margin-top: -5%;  /* Muove la barra più in alto */
+      margin-left: 20%;
+    }
+    #progressBar::-webkit-progress-bar {
+      background-color: #444;
+      border-radius: 5px;
+    }
+    #progressBar::-webkit-progress-value {
+      background-color: #76c7c0;
+      border-radius: 5px;
+    }
+    /* Barra di avanzamento interattiva (range) */
+    #seekbar {
+      width: 50%;
+      height: 5px;
+      background-color: #444;
+      border-radius: 20%;
+     margin-left: 20%;
+     margin-top: -20px;
+     
+    }
+    #seekbar input[type="range"] {
+      width: 100%;
+      background-color: transparent;
+      cursor: pointer;
+    }
+    #seekbar input[type="range"]::-webkit-slider-runnable-track {
+      background: #444;
+      height: 10px;
+      
+    }
+    #seekbar input[type="range"]::-webkit-slider-thumb {
+      background: #76c7c0;
+      border-radius: 50%;
+      width: 15px;
+      height: 15px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="player">
+    <button id="playPauseBtn">Play</button>
+    <span class="track-name" id="trackName">Caricamento traccia...</span>
+    <select id="trackSelector">
+      <option value="" disabled selected>Seleziona traccia...</option>
+      <option value="audio/1_Beginning.mp3">1. Beginning</option>
+      <option value="audio/2_School.mp3">2. School</option>
+      <option value="audio/3_The_Legend.mp3">3. The Legend</option>
+      <option value="audio/4_Lancer.mp3">4. Lancer</option>
+      <option value="audio/5_RudeBuster.mp3">5. Rude Buster</option>
+      <option value="audio/6_EmptyTown.mp3">6. Empty Town</option>
+      <option value="audio/7_Field_of_Hopes_and_Dreams.mp3">7. Field of Hopes and Dreams</option>
+      <option value="audio/8_Lantern.mp3">8. Lantern</option>
+      <option value="audio/9_Checker_Dance.mp3">9. Checker Dance</option>
+      <option value="audio/10_Scarlet_Forest.mp3">10. Scarlet Forest</option>
+      <option value="audio/11_Thrash_Machine.mp3">11. Thrash Machine</option>
+      <option value="audio/12_Vs.Susie.mp3">12. Vs. Susie</option>
+      <option value="audio/13_Chaos_King.mp3">13. Chaos King</option>
+      <option value="audio/14_Darkness_Falls.mp3">14. Darkness Falls</option>
+      <option value="audio/15_THE_WORLD_REVOLVING.mp3">15. The World Revolving</option>
+      <option value="audio/16_Friendship.mp3">16. Friendship</option>
+    </select>
+    <label for="vol">Volume:</label>
+    <input type="range" id="vol" min="0" max="1" step="0.01">
+    <button id="unmuteBtn">Attiva Audio</button>
+  </div>
+
+  <!-- Barra di avanzamento interattiva -->
+  <div id="seekbar">
+    <input type="range" id="progressSeek" value="0" min="0" max="100" step="0.1">
+  </div>
+
+  <audio id="audio" preload="auto" autoplay muted src="audio/1_Beginning.mp3">Beginning</audio>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const volSlider = document.getElementById('vol');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const trackSelector = document.getElementById('trackSelector');
+    const trackName = document.getElementById('trackName');
+    const unmuteBtn = document.getElementById('unmuteBtn');
+    const progressSeek = document.getElementById('progressSeek');
+
+    // === 1. Caricamento: volume, traccia, posizione ===
+    const savedVolume = localStorage.getItem('volume');
+    const savedTrack = localStorage.getItem('track');
+    const savedTime = localStorage.getItem('position');
+
+    console.log('[DEBUG] Caricamento player...');
+    if (savedVolume !== null) {
+      audio.volume = parseFloat(savedVolume);
+      volSlider.value = savedVolume;
+      console.log('[DEBUG] Volume caricato da localStorage:', savedVolume);
+    } else {
+      audio.volume = 0.5;
+      volSlider.value = 0.5;
+      console.log('[DEBUG] Volume predefinito impostato (0.5)');
+    }
+
+    if (savedTrack !== null) {
+      audio.src = savedTrack;
+      trackSelector.value = savedTrack;
+      console.log('[DEBUG] Traccia caricata da localStorage:', savedTrack);
+    } else {
+      trackSelector.value = audio.src;
+      console.log('[DEBUG] Traccia di default usata:', audio.src);
+    }
+
+    // Mostra solo il nome visibile
+    if (trackSelector.selectedOptions.length > 0) {
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+    } else {
+      trackName.textContent = "Nessuna traccia selezionata";
+    }
+
+    audio.addEventListener('loadedmetadata', () => {
+      if (savedTime !== null && !isNaN(savedTime)) {
+        if (savedTime < audio.duration) {
+          audio.currentTime = parseFloat(savedTime);
+          console.log('[DEBUG] Posizione ripristinata:', savedTime);
+        }
+      }
+    });
+
+    // === 2. Controlli UI ===
+    playPauseBtn.addEventListener('click', () => {
+      if (audio.paused) {
+        audio.play().then(() => {
+          console.log('[DEBUG] Riproduzione avviata manualmente');
+          playPauseBtn.textContent = 'Pausa';
+        }).catch(e => {
+          console.warn('[ERROR] Riproduzione fallita:', e);
+        });
+      } else {
+        audio.pause();
+        playPauseBtn.textContent = 'Play';
+        console.log('[DEBUG] Riproduzione messa in pausa');
+      }
+    });
+
+    volSlider.addEventListener('input', () => {
+      audio.volume = volSlider.value;
+      localStorage.setItem('volume', audio.volume);
+      console.log('[DEBUG] Volume aggiornato:', audio.volume);
+    });
+
+    trackSelector.addEventListener('change', () => {
+      const newTrack = trackSelector.value;
+      audio.src = newTrack;
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+      localStorage.setItem('track', newTrack);
+      localStorage.removeItem('position');
+      console.log('[DEBUG] Traccia cambiata:', newTrack);
+      audio.play().then(() => {
+        playPauseBtn.textContent = 'Pausa';
+      }).catch(e => {
+        console.warn('[ERROR] Riproduzione dopo cambio traccia fallita:', e);
+      });
+    });
+
+    // === Funzione per passare alla traccia successiva con loop ===
+    function playNextTrack() {
+      let currentIndex = trackSelector.selectedIndex;
+      let nextIndex = currentIndex + 1;
+
+      if (nextIndex >= trackSelector.options.length) {
+        nextIndex = 0; // Torna alla prima traccia (loop)
+      }
+
+      trackSelector.selectedIndex = nextIndex;
+      const nextTrack = trackSelector.value;
+
+      audio.src = nextTrack;
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+      localStorage.setItem('track', nextTrack);
+      localStorage.removeItem('position'); // reset posizione
+
+      audio.play().then(() => {
+        playPauseBtn.textContent = 'Pausa';
+        console.log('[DEBUG] Passato automaticamente alla traccia successiva:', nextTrack);
+      }).catch(e => {
+        console.warn('[ERROR] Riproduzione fallita nella traccia successiva:', e);
+      });
+    }
+
+    // === 3. Salvataggio posizione ===
+    setInterval(() => {
+      if (!audio.paused) {
+        localStorage.setItem('position', audio.currentTime);
+      }
+    }, 1000);
+
+    // Quando finisce la traccia, passa alla successiva automaticamente
+    audio.addEventListener('ended', () => {
+      playNextTrack();
+    });
+
+    // === 4. Autoplay workaround per browser "difficili" ===
+    audio.addEventListener('canplay', () => {
+      console.log('[DEBUG] Evento canplay: audio.muted =', audio.muted);
+      if (audio.muted) {
+        try {
+          audio.muted = false;
+          audio.play().then(() => {
+            console.log('[DEBUG] Autoplay riuscito dopo rimozione mute');
+          }).catch(e => {
+            console.warn('[ERROR] Autoplay bloccato dal browser:', e);
+            unmuteBtn.style.display = 'inline-block';
+          });
+        } catch (e) {
+          console.warn('[ERROR] Impossibile togliere mute:', e);
+          unmuteBtn.style.display = 'inline-block';
+        }
+      }
+    });
+
+    // Se autoplay fallisce, l’utente può attivare l’audio manualmente
+    unmuteBtn.addEventListener('click', () => {
+      audio.muted = false;
+      audio.play().then(() => {
+        console.log('[DEBUG] Audio attivato manualmente');
+        unmuteBtn.style.display = 'none';
+        playPauseBtn.textContent = 'Pausa';
+      }).catch(e => {
+        console.warn('[ERROR] Riproduzione dopo click fallita:', e);
+      });
+    });
+
+    // === Aggiornamento della posizione della traccia ===
+    audio.addEventListener('timeupdate', () => {
+      const progress = (audio.currentTime / audio.duration) * 100;
+      progressSeek.value = progress;
+    });
+
+    // === Funzione per cambiare il punto di progresso ===
+    progressSeek.addEventListener('input', () => {
+      const newTime = (progressSeek.value / 100) * audio.duration;
+      audio.currentTime = newTime;
+      console.log('[DEBUG] Nuovo tempo impostato:', newTime);
+    });
+
+  </script>
+
+</body>
+</html>
