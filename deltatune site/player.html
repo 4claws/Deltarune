@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Audio Player con localStorage</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background-color: #222;
+      color: white;
+      padding: 1%;
+    }
+    .player {
+      display: flex;
+      align-items: center;
+      justify-content: space-between; /* Sposta i gruppi agli estremi */
+      gap: 1%;
+    }
+    .left-controls {
+      display: flex;
+      align-items: center;
+      gap: 1%;
+    }
+    .right-controls {
+      display: flex;
+      align-items: center;
+      gap: 1%;
+    }
+    .track-name {
+      flex: 1;
+    }
+    input[type="range"] {
+      width: 100px;
+    }
+    select {
+      background: #444;
+      color: white;
+      border: 1px solid #555;
+      padding: 5px;
+      
+    }
+    button {
+      padding: 5px 10px;
+      background: #555;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    button:hover {
+      background: #666;
+    }
+    #unmuteBtn {
+      display: none;
+      background: #aa0000;
+    }
+    /* Barra di progresso più in alto di 0.5 cm */
+    #progressBar {
+      width: 100%;
+      height: 1.5rem;
+      background: #444;
+      border-radius: 5px;
+      
+    }
+    #progressBar::-webkit-progress-bar {
+      background-color: #444;
+      border-radius: 5px;
+        
+    }
+    #progressBar::-webkit-progress-value {
+      background-color: #76c7c0;
+      border-radius: 5px;
+        
+    }
+   #seekbar {
+  width: 25%;
+  margin-left: 20%;
+  margin-top: -25px;
+
+}
+
+#seekbar input[type="range"] {
+  width: 100%;
+  height: 10px;
+  background-color: #444;
+  border-radius: 10px;
+  cursor: pointer;
+  appearance: none;
+}
+
+/* Stile per la barra (track) */
+#seekbar input[type="range"]::-webkit-slider-runnable-track {
+  background: #444;
+  height: 10px;
+  border-radius: 10px;
+}
+
+#seekbar input[type="range"]::-moz-range-track {
+  background: #444;
+  height: 10px;
+  border-radius: 10px;
+}
+
+/* Stile per il thumb (pallino) */
+#seekbar input[type="range"]::-webkit-slider-thumb {
+  background: #76c7c0;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  border: none;
+  margin-top: -3px; /* allinea il thumb verticalmente */
+  appearance: none;
+}
+
+#seekbar input[type="range"]::-moz-range-thumb {
+  background: #76c7c0;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  border: none;
+}
+
+ .track-name {
+  display:none
+  
+}
+
+  
+  </style>
+</head>
+<body>
+
+  <div class="player">
+    <div class="left-controls">
+      <button id="playPauseBtn" aria-label="Play/Pausa" title="Play/Pausa">▶️</button>
+      <span class="track-name" id="trackName">Caricamento traccia...</span>
+    
+      <select id="trackSelector">
+        <option value="" disabled selected>Seleziona traccia...</option>
+        <option value="audio/1_Beginning.mp3">1. Beginning</option>
+        <option value="audio/2_School.mp3">2. School</option>
+        <option value="audio/3_The_Legend.mp3">3. The Legend</option>
+        <option value="audio/4_Lancer.mp3">4. Lancer</option>
+        <option value="audio/5_RudeBuster.mp3">5. Rude Buster</option>
+        <option value="audio/6_EmptyTown.mp3">6. Empty Town</option>
+        <option value="audio/7_Field_of_Hopes_and_Dreams.mp3">7. Field of Hopes and Dreams</option>
+        <option value="audio/8_Lantern.mp3">8. Lantern</option>
+        <option value="audio/9_Checker_Dance.mp3">9. Checker Dance</option>
+        <option value="audio/10_Scarlet_Forest.mp3">10. Scarlet Forest</option>
+        <option value="audio/11_Thrash_Machine.mp3">11. Thrash Machine</option>
+        <option value="audio/12_Vs.Susie.mp3">12. Vs. Susie</option>
+        <option value="audio/13_Chaos_King.mp3">13. Chaos King</option>
+        <option value="audio/14_Darkness_Falls.mp3">14. Darkness Falls</option>
+        <option value="audio/15_THE_WORLD_REVOLVING.mp3">15. The World Revolving</option>
+        <option value="audio/16_Friendship.mp3">16. Friendship</option>
+      </select>
+    </div>
+
+    <div class="right-controls">
+      <button id="muteBtn" aria-label="Mute/Unmute" title="Mute/Unmute">🔊</button>
+      <input type="range" id="vol" min="0" max="1" step="0.01" />
+    </div>
+  </div>
+
+  <!-- Barra di avanzamento interattiva -->
+  <div id="seekbar">
+    <input type="range" id="progressSeek" value="0" min="0" max="100" step="0.1" />
+  </div>
+
+  <audio id="audio" preload="auto" autoplay muted src="audio/1_Beginning.mp3">Beginning</audio>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const volSlider = document.getElementById('vol');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const muteBtn = document.getElementById('muteBtn');
+    const trackSelector = document.getElementById('trackSelector');
+    const trackName = document.getElementById('trackName');
+    const progressSeek = document.getElementById('progressSeek');
+
+    // Caricamento stato da localStorage
+    const savedVolume = localStorage.getItem('volume');
+    const savedTrack = localStorage.getItem('track');
+    const savedTime = localStorage.getItem('position');
+    const savedMuted = localStorage.getItem('muted');
+    const savedPlaying = localStorage.getItem('playing');
+
+    // Imposta volume
+    if (savedVolume !== null) {
+      audio.volume = parseFloat(savedVolume);
+      volSlider.value = savedVolume;
+    } else {
+      audio.volume = 0.5;
+      volSlider.value = 0.5;
+    }
+
+    // Imposta traccia
+    if (savedTrack !== null) {
+      audio.src = savedTrack;
+      trackSelector.value = savedTrack;
+    } else {
+      trackSelector.value = audio.src;
+    }
+
+    // Imposta nome traccia visibile
+    if (trackSelector.selectedOptions.length > 0) {
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+    } else {
+      trackName.textContent = "Nessuna traccia selezionata";
+    }
+
+    // Imposta posizione
+    audio.addEventListener('loadedmetadata', () => {
+      if (savedTime !== null && !isNaN(savedTime)) {
+        if (savedTime < audio.duration) {
+          audio.currentTime = parseFloat(savedTime);
+        }
+      }
+    });
+
+    // Imposta mute
+    if (savedMuted === 'true') {
+      audio.muted = true;
+      muteBtn.textContent = "🔇";
+    } else {
+      audio.muted = false;
+      muteBtn.textContent = "🔊";
+    }
+
+    // Imposta play/pausa
+    function updatePlayPauseButton(isPlaying) {
+      playPauseBtn.textContent = isPlaying ? '⏸️' : '▶️';
+    }
+    if (savedPlaying === 'true') {
+      audio.play().catch(() => {});
+      updatePlayPauseButton(true);
+    } else {
+      audio.pause();
+      updatePlayPauseButton(false);
+    }
+
+    // Controllo play/pause
+    playPauseBtn.addEventListener('click', () => {
+      if (audio.paused) {
+        audio.play().then(() => {
+          updatePlayPauseButton(true);
+          localStorage.setItem('playing', 'true');
+        }).catch(() => {});
+      } else {
+        audio.pause();
+        updatePlayPauseButton(false);
+        localStorage.setItem('playing', 'false');
+      }
+    });
+
+    // Controllo mute/unmute
+    muteBtn.addEventListener('click', () => {
+      audio.muted = !audio.muted;
+      muteBtn.textContent = audio.muted ? "🔇" : "🔊";
+      localStorage.setItem('muted', audio.muted.toString());
+    });
+
+    // Volume slider
+    volSlider.addEventListener('input', () => {
+      audio.volume = volSlider.value;
+      localStorage.setItem('volume', audio.volume.toString());
+      if (audio.muted && audio.volume > 0) {
+        audio.muted = false;
+        muteBtn.textContent = "🔊";
+        localStorage.setItem('muted', 'false');
+      }
+    });
+
+    // Cambio traccia
+    trackSelector.addEventListener('change', () => {
+      const newTrack = trackSelector.value;
+      audio.src = newTrack;
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+      localStorage.setItem('track', newTrack);
+      localStorage.removeItem('position');
+      audio.play().then(() => {
+        updatePlayPauseButton(true);
+        localStorage.setItem('playing', 'true');
+      }).catch(() => {});
+    });
+
+    // Passa alla traccia successiva con loop
+    function playNextTrack() {
+      let currentIndex = trackSelector.selectedIndex;
+      let nextIndex = currentIndex + 1;
+      if (nextIndex >= trackSelector.options.length) {
+        nextIndex = 0;
+      }
+      trackSelector.selectedIndex = nextIndex;
+      const nextTrack = trackSelector.value;
+      audio.src = nextTrack;
+      trackName.textContent = trackSelector.selectedOptions[0].textContent;
+      localStorage.setItem('track', nextTrack);
+      localStorage.removeItem('position');
+      audio.play().then(() => {
+        updatePlayPauseButton(true);
+        localStorage.setItem('playing', 'true');
+      }).catch(() => {});
+    }
+
+    // Salvataggio posizione ogni secondo
+    setInterval(() => {
+      if (!audio.paused) {
+        localStorage.setItem('position', audio.currentTime);
+      }
+    }, 1000);
+
+    // Alla fine della traccia, passa alla successiva
+    audio.addEventListener('ended', playNextTrack);
+
+    // Aggiorna barra di progresso
+    audio.addEventListener('timeupdate', () => {
+      const progress = (audio.currentTime / audio.duration) * 100;
+      progressSeek.value = progress;
+    });
+
+    // Cambia posizione audio dalla barra
+    progressSeek.addEventListener('input', () => {
+      const newTime = (progressSeek.value / 100) * audio.duration;
+      audio.currentTime = newTime;
+    });
+
+  </script>
+
+</body>
+</html>
