@@ -23,7 +23,7 @@ span{color: aliceblue;font-family: "esteso";font-size: 80%;text-align:center; po
 
 body{margin: 0;
 height: 100vh;
-cursor: url("../images/cuore.svg"),auto;}
+cursor: url("./images/cuore.svg"),auto;}
 header{background-image: url(fontana.gif);background-color: aquamarine; background-size: cover ; }
 
 img.a {

@@ -28,33 +28,50 @@
   </style>
 
 </head>
-<header>
-<body > 
+<body>
    <!-- PLAYER PERSISTENTE -->
   <iframe id="audioPlayer" src="player.html" autoplay></iframe>
 
-   <h1>DELTARUNE</h1> 
-   
-</body>
-</header>
+  <div data-barba="wrapper">
+      <div data-barba="container" data-barba-namespace="home">
+      <h1>DELTARUNE</h1>
+      <h2> Welcome Back Fellow Lightners</h2>
+      <br>
+      <br>
+      <a class="a2" href="La Profezia.html"> La Profezia</a>
+      <br>
+      <br>
+      <a class="a2" href="Plotprincipale.html"> Plot Principale </a>
+      <br>
+      <br>
+      <a class="a2" href="BossOpzionali.html">Boss Opzionali</a>
+      <br>
+      <br>
+      <a class="a2" href="snowgrave.html">Diventare piu' forti</a>
+    </div>
+  </div>
 
+    <script src="https://unpkg.com/@barba/core"></script>
 
-<body>
+    <script src="https://unpkg.com/gsap@latest/dist/gsap.min.js"></script>
 
- <h2> Welcome Back Fellow Lightners</h2>
-   
- <br>
- <br>
-<a class="a2" href="La Profezia.html"> La Profezia</a>
-<br>
-<br>
-<a class="a2" href="Plotprincipale.html"> Plot Principale </a>
-<br>
-<br>
-<a class="a2" href="BossOpzionali.html">Boss Opzionali</a>
-<br>
-<br>
-<a  class="a2"   href="snowgrave.html">Diventare più forti</a>
-
-</body>
+    <!-- init barba with a simple opacity transition -->
+    <script type="text/javascript">
+      barba.init({
+        transitions: [{
+          name: 'opacity-transition',
+          leave(data) {
+            return gsap.to(data.current.container, {
+              opacity: 0
+            });
+          },
+          enter(data) {
+            return gsap.from(data.next.container, {
+              opacity: 0
+            });
+          }
+        }],
+      });
+    </script>
+  </body>
 </html>
