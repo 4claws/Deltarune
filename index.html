@@ -134,9 +134,7 @@
    <!-- PLAYER PERSISTENTE -->
   <div class="player">
     <div id="seekbar"><div class="progress"></div></div>
-<!--
     <div class="track-info" id="trackInfo">Loading...</div>
--->
     <div class="controls">
       <div class="buttons">
         <button id="prevBtn" title="Previous Track">&#9664;&#9664;</button>
@@ -267,10 +265,16 @@
 
     function nextTrack() {
       loadTrack(currentTrackIndex + 1);
+      audio.play();
+      isPlaying = true;
+      playPauseBtn.innerHTML = "&#10073;&#10073;";
     }
 
     function prevTrack() {
       loadTrack(currentTrackIndex - 1);
+      audio.play();
+      isPlaying = true;
+      playPauseBtn.innerHTML = "&#10073;&#10073;";
     }
 
     function updateProgress() {
@@ -338,7 +342,10 @@
     volumeSlider.addEventListener('input', changeVolume);
     audio.addEventListener('timeupdate', updateProgress);
     seekbar.addEventListener('click', seek);
-    audio.addEventListener('ended', nextTrack);
+    audio.addEventListener('ended', () => {
+      isPlaying = true;
+      nextTrack();
+    });
   </script>
   </body>
 </html>
