@@ -400,6 +400,12 @@
         e.preventDefault();
       }
     });
+  document.querySelectorAll('.accordion-header').forEach(button => {
+    button.addEventListener('click', () => {
+      const content = button.nextElementSibling;
+      content.classList.toggle('show');
+    });
+  });
   </script>
   </body>
 </html>
