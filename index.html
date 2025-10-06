@@ -190,10 +190,26 @@
             return gsap.from(data.next.container, {
               opacity: 0
             });
+          },
+          once(data) {
+            return gsap.from(data.next.container, {
+              opacity: 0
+            });
           }
         }],
       });
     </script>
+    <script>
+    // Se la pagina viene caricata direttamente (refresh su pagina interna), reindirizza alla home
+    document.addEventListener('DOMContentLoaded', () => {
+      const barbaContainer = document.querySelector('[data-barba="container"]');
+      const isIndex = window.location.pathname.endsWith('index.html') || window.location.pathname.endsWith('/');
+
+      if (!isIndex && (!barbaContainer || !barba.history.previous)) {
+        window.location.href = 'index.html';
+      }
+    });
+  </script>
 
   <script>
     const audio = document.getElementById('audio');
@@ -350,7 +366,16 @@
       nextTrack();
     });
   </script>
+  <script>
+    // Blocca refresh con F5 o Ctrl/Cmd + R
+    window.addEventListener('keydown', function (e) {
+      if (e.key === 'F5') {
+        e.preventDefault();
+      }
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'r') {
+        e.preventDefault();
+      }
+    });
+  </script>
   </body>
 </html>
-
-
