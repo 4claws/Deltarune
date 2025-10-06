@@ -17,7 +17,7 @@ h2{color: aliceblue;font-family:  "crypt"; font-size: 130%;}
   summary {color: aliceblue;font-family:  "crypt"; font-size: 130%;}
 em{color: crimson;}
 p{color: aliceblue;font-family: "esteso";font-size: 80%;}
-li{color: aliceblue;}
+li{color: aliceblue;font-family: "esteso";font-size: 80%;}
 span{color: aliceblue;font-family: "esteso";font-size: 80%;text-align:center; position: relative; top: -30px; left: 100;transform: translateY(-60px);}
 
 body{margin: 0;
@@ -78,3 +78,4 @@ img.a {
   justify-content: center;
   overflow: visible;
 }
+
