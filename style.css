@@ -61,3 +61,20 @@ img.a {
 .track-info{
     display: none;
 }
+
+.zoom-on-hover {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  display: block;
+  transform-origin: center;
+}
+
+.zoom-on-hover:hover {
+  transform: scale(1.4);
+}
+
+.zoom-container {
+  display: flex;
+  justify-content: center;
+  overflow: visible;
+}
