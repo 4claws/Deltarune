@@ -1,0 +1,50 @@
+{
+  "name": "deltarune-electron",
+  "version": "1.0.0",
+  "description": "DELTARUNE site packaged with Electron + Barba.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "author": "Gab",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.gab.deltarune",
+    "productName": "Light-Run",
+    "files": [
+      "!node_modules/**/*",
+      "!**/*.map",
+      "index.html",
+      "style.css",
+      "audio/**/*",
+      "preload.js",
+      "main.js",
+      "BossOpzionali.html",
+      "Plotprincipale.html",
+      "snowgrave.html",
+      "dettagli.html",
+      "crediti.html",
+      "La Profezia.html"
+    ],
+    "mac": { "category": "public.app-category.entertainment" },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        },
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ]
+    },
+    "linux": { "target": "AppImage" }
+  }
+}
