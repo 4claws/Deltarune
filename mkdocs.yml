@@ -1,0 +1,40 @@
+site_name: Sabaku's Deltarune Wiki
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - content.tooltips
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: black
+markdown_extensions:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.caret
+  - footnotes 
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+watch:
+  - includes
+extra:
+  generator: false
+extra_css:
+  - style.css
+extra_javascript:
+  - javascript.js
+nav:
+  - 'Home': index.md
+
+plugins:
+  - glightbox
