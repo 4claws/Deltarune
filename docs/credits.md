@@ -1,8 +1,8 @@
-## Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
+### Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
 - 4Claws
 - Shitberk
-- Simone Aronica
 - Gab
+- Simone Aronica
 - xShader1374_
 - Alex
 - Andrea Pedrali
