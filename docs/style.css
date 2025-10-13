@@ -4,7 +4,7 @@
     --secondary-color: #121212;
 }
 
-* {
+*, a {
     color: var(--primary-color) !important;
     scroll-behavior: smooth !important;
 }
