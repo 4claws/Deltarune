@@ -9,7 +9,7 @@
     scroll-behavior: smooth !important;
 }
 
-.body {
+body {
     background-color: var(--secondary-color) !important;
 }
 
