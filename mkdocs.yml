@@ -35,6 +35,7 @@ extra_javascript:
   - javascript.js
 nav:
   - 'Home': index.md
+  - 'Plot Principale': plot.md
 
 plugins:
   - glightbox
