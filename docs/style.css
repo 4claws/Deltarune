@@ -49,3 +49,7 @@ a[rel="next"]{
 } a[rel="prev"]{
     display: none !important;
 }
+
+#component-footer {
+   display: none;
+}
