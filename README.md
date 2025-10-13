@@ -17,6 +17,6 @@ Per aggiungere una pagina alla barra di navigazione modifica la sezione `nav` di
 Basta aggiungere un altro punto alla lista in formato: `- '<nome visualizzato>': <nomefile>`.
 
 ### Posso modificare qualcosa senza dover ribuildare il sito?
-Si! Nel titolo del commit, metti all'inizio `[Skip CI]`.
+Si! Nel titolo del commit, metti all'inizio `[skip ci]`.
 
-Ad esempio: `[Skip CI] Caricata immagine per dopo`.
+Ad esempio: `[skip ci] Caricata immagine per dopo`.
