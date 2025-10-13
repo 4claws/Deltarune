@@ -2,7 +2,7 @@
 - 4Claws
 - Shitberk
 - Gab
-- Simone Aronica
+- Nicklaj (Simone Aronica)
 - xShader1374_
 - Alex
 - Andrea Pedrali
