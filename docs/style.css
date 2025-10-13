@@ -1,0 +1,11 @@
+.md-search-icon{
+    display: none !important;
+}
+
+a[rel="next"]{
+    display: none !important;
+}
+
+a[rel="prev"]{
+    display: none !important;
+}

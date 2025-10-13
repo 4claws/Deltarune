@@ -1,13 +1,6 @@
 site_name: Sabaku's Deltarune Wiki
 theme:
-  name: material
-  features:
-    - navigation.expand
-    - content.tooltips
-  custom_dir: overrides
-  palette:
-    scheme: slate
-    primary: black
+  name: simple-blog
 markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
