@@ -17,3 +17,9 @@ Quindi il plot è incentrato su:
 Questo subplot parla di queste cose
 
 AAAA
+
+---
+
+![Immagine Prova 1](https://nintendoeverything.com/wp-content/uploads/deltarune-z.jpg)
+
+![Immagine Prova 1](assets/img/test.png)
