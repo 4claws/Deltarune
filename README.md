@@ -15,3 +15,8 @@ Tutti i file media possono essere messi dentro `docs/assets/` e referenziati cos
 Per aggiungere una pagina alla barra di navigazione modifica la sezione `nav` di `mkdocs.yml`.
 
 Basta aggiungere un altro punto alla lista in formato: `- '<nome visualizzato>': <nomefile>`.
+
+### Posso modificare qualcosa senza dover ribuildare il sito?
+Si! Nel titolo del commit, metti all'inizio `[Skip CI]`.
+
+Ad esempio: `[Skip CI] Caricata immagine per dopo`.
