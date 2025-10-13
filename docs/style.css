@@ -1,9 +1,16 @@
 :root {
     --bg-image: url();
+    --primary-color: #fafafa;
+    --secondary-color: #121212;
+}
+
+* {
+    color: var(--primary-color) !important;
+    scroll-behavior: smooth !important;
 }
 
 .body {
-    background-color: #121212 !important;
+    background-color: var(--secondary-color) !important;
 }
 
 .md-search-icon{
