@@ -1,5 +1,5 @@
 :root {
-    --bg-image: url(https://nintendoeverything.com/wp-content/uploads/deltarune-z.jpg);
+    --bg-image: url(https://i.pinimg.com/originals/a1/fd/20/a1fd204bff5e5fa57f1b75b6077f5824.gif);
     --bg-color: #03030395;
     --primary-color: #fafafa;
     --secondary-color: #05fffe;
@@ -23,7 +23,7 @@ body {
     display: table;
 } body, body > .container {
     background-color: var(--bg-color) !important;
-    backdrop-filter: blur(5px) !important;
+    backdrop-filter: blur(6px) !important;
     height: 100% !important;
     width: 100% !important;
     justify-self: center;
@@ -37,6 +37,7 @@ body {
     flex-wrap: nowrap;
     margin: 2rem;
     box-shadow: 0 0 1.5rem var(--primary-color);
+    height: calc(100% - 4rem) !important;
 }
 
 .md-search-icon{
