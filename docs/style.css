@@ -19,12 +19,24 @@
     color: var(--secondary-color) !important;
 }
 
-body, body > .container {
+body {
+    display: table;
+} body, body > .container {
     background-color: var(--bg-color) !important;
     backdrop-filter: blur(5px) !important;
     height: 100% !important;
+    width: 100% !important;
+    justify-self: center;
 } body > .container {
     border: 1px solid var(--primary-color);
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    margin: 2rem;
+    box-shadow: 0 0 1.5rem var(--primary-color);
 }
 
 .md-search-icon{
@@ -33,8 +45,6 @@ body, body > .container {
 
 a[rel="next"]{
     display: none !important;
-}
-
-a[rel="prev"]{
+} a[rel="prev"]{
     display: none !important;
 }
