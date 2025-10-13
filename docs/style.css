@@ -1,16 +1,19 @@
 :root {
     --bg-image: url();
+    --bg-color: #121212;
     --primary-color: #fafafa;
-    --secondary-color: #121212;
+    --secondary-color: #05fffe;
 }
 
 *, a {
     color: var(--primary-color) !important;
     scroll-behavior: smooth !important;
+} a:hover {
+    color: var(--secondary-color) !important;
 }
 
 body {
-    background-color: var(--secondary-color) !important;
+    background-color: var(--bg-color) !important;
 }
 
 .md-search-icon{
