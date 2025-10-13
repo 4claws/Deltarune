@@ -1,3 +1,11 @@
+:root {
+    --bg-image: url();
+}
+
+.body {
+    background-color: #121212 !important;
+}
+
 .md-search-icon{
     display: none !important;
 }
