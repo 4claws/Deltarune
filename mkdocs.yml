@@ -29,6 +29,7 @@ extra_javascript:
 nav:
   - 'Home': index.md
   - 'Plot Principale': plot.md
+  - 'Superboss': superboss.md
 
 plugins:
   - glightbox
