@@ -1,7 +1,7 @@
 ### Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
 - 4Claws
 - Shitberk
-- Gab
+- GabSam
 - Nicklaj (Simone Aronica)
 - xShader1374_
 - Alex
