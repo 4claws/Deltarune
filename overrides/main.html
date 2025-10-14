@@ -2,12 +2,6 @@
 
 {% block container %}
     {{ super() }}
-    <div id="ost-player">
-    <select id="track-selector" style="width: 50%;"><option value="0">01 - Beginning</option><option value="1">02 - My Castle Town</option><option value="2">03 - A CYBER'S WORLD</option></select>
-    <div>Trackbar</div>
-    <audio id="audio" src="docs/assets/audio/osts/1_Beginning.mp3" equalizer-state="attached"></audio>
-    </div>
-    
     <audio id="click-audio"></audio>
     <audio muted="true" id="hover-audio"></audio>
 {% endblock %}
