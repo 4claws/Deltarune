@@ -1,6 +1,6 @@
 :root {
     --bg-image: url(https://i.pinimg.com/originals/a1/fd/20/a1fd204bff5e5fa57f1b75b6077f5824.gif);
-    --bg-color: #0303038c;
+    --bg-color: #030303d9;
     --primary-color: #fafafa;
     --secondary-color: #05fffe;
 
@@ -50,6 +50,7 @@
 } h2, h3, h4, h5, h6 {
     font-family: "crypt", sans-serif !important;
     text-align: center;
+    line-height: 8.5rem !important;
     text-transform: capitalize !important;
 } p, li, a {
     font-family: "esteso", sans-serif !important;
