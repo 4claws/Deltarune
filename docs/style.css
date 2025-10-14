@@ -4,6 +4,7 @@
     --primary-color: #fafafa;
     --secondary-color: #05fffe;
 
+    cursor: url("assets/img/cuore.svg"), auto;
     background-image: var(--bg-image);
     background-size: cover;
     background-attachment: fixed;
