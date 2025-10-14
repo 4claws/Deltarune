@@ -127,8 +127,14 @@ a[rel="next"]{
     transform: scale(1.5);
     animation: pulseHeart 1.25s infinite cubic-bezier(0.22, 0.61, 0.36, 1);
     filter: drop-shadow(0 0 0.4rem red);
+    user-select: none;
+    pointer-events: none;
+    cursor: auto;
 } .glightbox:has(> #heart-image){
     vertical-align: middle !important;
+    user-select: none;
+    pointer-events: none;
+    cursor: auto;
 }
 
 #component-footer {
