@@ -59,6 +59,13 @@
     font-family: "esteso", sans-serif !important;
     line-height: 2.5rem;
     font-size: 0.8rem !important;
+} ul, ol {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 } #component-site-name {
     font-family: "deltarune", sans-serif !important;
     font-size: 3.5rem !important;
