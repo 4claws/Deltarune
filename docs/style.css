@@ -148,6 +148,27 @@ a[rel="next"]{
    display: none;
 }
 
+.ost-player {
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 7.5rem;
+    background-color: var(--bg-color);
+    backdrop-filter: blur(16px);
+    border: 1px solid var(--primary-color);
+    z-index: 1000;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+
 @keyframes pulseHeart {
     0% {
         transform: scale(1.5);
