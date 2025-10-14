@@ -26,6 +26,7 @@ extra_css:
   - style.css
 extra_javascript:
   - javascript.js
+
 nav:
   - 'Home': index.md
   - 'Plot Principale': plot.md
