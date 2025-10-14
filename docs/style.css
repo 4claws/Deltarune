@@ -155,10 +155,13 @@ a[rel="next"]{
     right: 0;
     height: 10rem;
     background-color: var(--bg-color);
+    text-shadow: 0 0 0.75rem var(--primary-color);
+    box-shadow: 0 0 0.75rem var(--primary-color);
     backdrop-filter: brightness(0.25);
     border: 1px solid var(--primary-color);
     z-index: 1000;
     padding: 1.5rem;
+    margin: 1.5rem;
     box-sizing: border-box;
     overflow: auto;
     display: flex;
@@ -167,6 +170,7 @@ a[rel="next"]{
     justify-content: center;
     align-items: center;
     align-content: space-around;
+    gap: 0.5rem;
 } .ost-player-track-selector {
     width: 25%;
     font-family: 'esteso';
