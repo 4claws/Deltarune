@@ -41,8 +41,8 @@
     text-transform: capitalize !important;
 } p, li, a {
     font-family: "esteso", sans-serif !important;
-    line-height: normal;
-    font-size: 0.8rem;
+    line-height: 2.5rem;
+    font-size: 0.8rem !important;
 } #component-site-name {
     font-family: "deltarune", sans-serif !important;
     font-size: 2.5rem !important;
