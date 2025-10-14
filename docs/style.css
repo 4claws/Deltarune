@@ -1,6 +1,6 @@
 :root {
     --bg-image: url(https://i.pinimg.com/originals/a1/fd/20/a1fd204bff5e5fa57f1b75b6077f5824.gif);
-    --bg-color: #03030395;
+    --bg-color: #030303d9;
     --primary-color: #fafafa;
     --secondary-color: #05fffe;
 
@@ -28,11 +28,11 @@
     width: 0.75rem;
     height: 0.75rem;
 } ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner {
-    background: var(--bg-color);
+    background: var(--bg-color) !important;
 } ::-webkit-scrollbar-thumb {
-    background: var(--primary-color);
+    background: var(--primary-color) !important;
 } ::-webkit-scrollbar-thumb:hover {
-    background: var(--secondary-color);
+    background: var(--secondary-color) !important;
 }
 
 *, a {
