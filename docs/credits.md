@@ -1,14 +1,14 @@
 ### Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
-#### Scrittura:
+##### Scrittura:
 - Shitberk
-#### Sito Web
+##### Sito Web
 - 4Claws
 - xShader1374_
 - Nicklaj (Simone Aronica)
-#### Rielaborazioni e altri controlli
+##### Rielaborazioni e altri controlli
 - 4Claws
 - GabSam
-#### Suggerimenti e aiuti generali
+##### Suggerimenti e aiuti generali
 - Luca Fosforo
 - ArkanaMundi
 - GabSam
