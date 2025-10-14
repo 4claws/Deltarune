@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function addOstPLayer() {
     const body = document.body;
     const player = document.createElement('div');
-    player.class = 'ost-player';
+    player.classList.add('ost-player');
     player.id = 'ost-player';
     player.innerHTML =
     `
