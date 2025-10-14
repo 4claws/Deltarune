@@ -92,6 +92,10 @@ body {
     background-color: var(--bg-color) !important;
     backdrop-filter: blur(6px) !important;
     text-shadow: 0 0 0.75rem var(--primary-color);
+    box-shadow: 0 0 0.75rem var(--primary-color);
+    border: 1px solid;
+} .container > header > .border-bottom {
+    border: none !important;
 }
 
 .navbar > .container-fluid {
