@@ -8,9 +8,7 @@ player.classList.add('ost-player');
 player.id = 'ost-player';
 player.innerHTML = 
 `
-<div class="player">
-    <select id="track-selector" style="width: 50%;"></select>
-    <audio id="audio" src="assets/audio/osts/11_Thrash_Machine.mp3" equalizer-state="attached"></audio>
-</div>
+<select id="track-selector" style="width: 50%;"></select>
+<audio id="audio" src="assets/audio/osts/11_Thrash_Machine.mp3" equalizer-state="attached"></audio>
 `;
 body.appendChild(player);
