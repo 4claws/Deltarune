@@ -177,6 +177,7 @@ body {
     cursor: pointer;
 } .ost-player-trackbar {
     width: 75%;
+    cursor: pointer;
 }
 
 @keyframes pulseHeart {
