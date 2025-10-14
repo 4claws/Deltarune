@@ -121,7 +121,7 @@ body {
     filter: invert(1);
     width: 100%;
 } .nav-link {
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.2rem;
 }
 
 a[rel="next"]{
@@ -172,9 +172,9 @@ a[rel="next"]{
     align-content: space-around;
     gap: 0.5rem;
 } .ost-player-track-selector {
-    width: 25%;
+    width: 75%;
     font-family: 'esteso';
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     text-align-last: center;
     background-color: var(--bg-color);
     cursor: pointer;
