@@ -1,10 +1,12 @@
-// Wait for content to load first
-document.addEventListener("DOMContentLoaded", function() {
-    // Adds a player
+// Adding the OST player
+addOstPLayer();
+
+// Adds the OST player
+function addOstPLayer() {
     const body = document.body;
     const player = document.createElement('div');
     player.id = 'ost-player';
-    player.innerHTML = 
+    player.innerHTML =
     `
     <select id="track-selector" style="width: 50%;"></select>
     <div>Trackbar</div>
@@ -31,9 +33,14 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     // Change track on selection
-    trackSelector.addEventListener('change', function() {
+    trackSelector.addEventListener('change', function () {
         const selectedTrack = tracks[this.value];
         audioElement.src = `${selectedTrack.file}`;
         audioElement.play();
     });
+}
+
+// Wait for content to load first
+document.addEventListener("DOMContentLoaded", function() {
+    
 });
