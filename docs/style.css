@@ -24,6 +24,17 @@
     src: url(assets/fonts/undertale-deltarune-text-font-extended.otf.ttf);
 }
 
+::-webkit-scrollbar {
+    width: 0.75rem;
+    height: 0.75rem;
+} ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner {
+    background: var(--bg-color);
+} ::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+} ::-webkit-scrollbar-thumb:hover {
+    background: var(--secondary-color);
+}
+
 *, a {
     color: var(--primary-color) !important;
     scroll-behavior: smooth !important;
@@ -111,8 +122,8 @@ a[rel="next"]{
         filter: drop-shadow(0 0 0.1rem red);
     }
     25% {
-        transform: scale(1.75);
-        filter: drop-shadow(0 0 0.75rem red);
+        transform: scale(1.8);
+        filter: drop-shadow(0 0 0.8rem red);
     }
     100% {
         transform: scale(1.5);
