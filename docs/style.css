@@ -27,10 +27,13 @@
 ::-webkit-scrollbar {
     width: 0.75rem;
     height: 0.75rem;
+    background: var(--bg-color) !important;
 } ::-webkit-scrollbar-track, ::-webkit-scrollbar-corner {
     background: var(--bg-color) !important;
 } ::-webkit-scrollbar-thumb {
     background: var(--primary-color) !important;
+    cursor: pointer;
+    transition: all 1.5s ease;
 } ::-webkit-scrollbar-thumb:hover {
     background: var(--secondary-color) !important;
 }
