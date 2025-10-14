@@ -1,2 +1,4 @@
-- [Plot](plot.md)
-- [Superboss](superboss.md)
+- [Home] index.md
+- [Plot Principale] plot.md
+- [Superboss] superboss.md
+- [Crediti] credits.md
