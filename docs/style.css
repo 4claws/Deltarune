@@ -35,12 +35,10 @@
     line-height: 8.5rem !important;
 } h2, h3, h4, h5, h6 {
     font-family: "crypt", sans-serif !important;
-} p {
+} p, li, a {
     font-family: "esteso", sans-serif !important;
-} li {
-    font-family: "esteso", sans-serif !important;
-} a {
-    font-family: "esteso", sans-serif !important;
+    line-height: normal;
+    font-size: 0.8rem;
 } .title {
     text-align: center;
 }
