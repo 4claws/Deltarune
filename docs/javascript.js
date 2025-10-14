@@ -7,6 +7,9 @@ document.addEventListener("DOMContentLoaded", function() {
         // Adding the OST player
         addOstPLayer();
         is_page_loaded = true;
+
+        document.getElementById('component-footer').remove(); // Remove the footer
+        document.getElementById('component-preview').remove(); // Remove the preview banner
     }
 });
 

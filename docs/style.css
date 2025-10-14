@@ -124,12 +124,6 @@ body {
     letter-spacing: 0.2rem;
 }
 
-a[rel="next"]{
-    display: none !important;
-} a[rel="prev"]{
-    display: none !important;
-}
-
 #heart-image {
     transform: scale(1.5);
     animation: pulseHeart 1.25s infinite cubic-bezier(0.22, 0.61, 0.36, 1);
@@ -144,9 +138,13 @@ a[rel="next"]{
     cursor: auto;
 }
 
-#component-footer {
+/*a[rel="next"]{
+    display: none !important;
+} a[rel="prev"]{
+    display: none !important;
+} #component-footer {
    display: none;
-}
+}*/
 
 .ost-player {
     position: sticky;
