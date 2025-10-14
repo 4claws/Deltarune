@@ -12,11 +12,28 @@
     height: 100% !important;
 }
 
+@font-face {
+    font-family:"deltarune" ;
+    src: url(assets/fonts/deltarune.ttf);
+} @font-face {
+    font-family: "crypt";
+    src: url(assets/fonts/crypt-of-tomorrow-ut-font-no-rus.ttf);
+} @font-face {
+    font-family: "esteso" ;
+    src: url(assets/fonts/undertale-deltarune-text-font-extended.otf.ttf);
+}
+
 *, a {
     color: var(--primary-color) !important;
     scroll-behavior: smooth !important;
 } a:hover {
     color: var(--secondary-color) !important;
+} h1 {
+    font-family: "deltarune", sans-serif !important;
+} h2 {
+    font-family: "crypt", sans-serif !important;
+} p {
+    font-family: "esteso", sans-serif !important;
 } .title {
     text-align: center;
 }
