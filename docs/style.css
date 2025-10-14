@@ -17,6 +17,8 @@
     scroll-behavior: smooth !important;
 } a:hover {
     color: var(--secondary-color) !important;
+} .title {
+    text-align: center;
 }
 
 body {
