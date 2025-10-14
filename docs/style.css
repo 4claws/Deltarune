@@ -100,8 +100,9 @@ body {
     align-items: center;
 } .md-search-icon {
     display: none !important;
-} .navbar-toggler-icon {
-    filter: invert(1) !important;
+} .navbar-toggler {
+    filter: invert(1);
+    width: 100%;
 } .nav-link {
     letter-spacing: 0.3rem;
 }
