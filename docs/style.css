@@ -95,8 +95,8 @@ a[rel="next"]{
 
 #heart-image {
     transform: scale(1.5);
-} #heart-image:has(> .glightbox){
-    vertical-align: middle;
+} .glightbox:has(> #heart-image){
+    vertical-align: middle !important;
 }
 
 #component-footer {
