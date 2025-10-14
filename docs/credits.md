@@ -3,8 +3,8 @@
 - Shitberk
 #### Sito Web
 - 4Claws
-- Nicklaj (Simone Aronica)
 - xShader1374_
+- Nicklaj (Simone Aronica)
 #### Rielaborazioni e altri controlli
 - 4Claws
 - GabSam
