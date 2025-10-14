@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", function() {
 // Adds the OST player
 function addOstPLayer() {
     const body = document.body;
+    const firstChild = body.firstChild;
+
+    // Create player container
     const player = document.createElement('div');
     player.classList.add('ost-player');
     player.id = 'ost-player';
@@ -22,7 +25,7 @@ function addOstPLayer() {
     <input id="ost-player-trackbar" type="range" min="0" max="100" value="0" step="0.00001" class="ost-player-trackbar">
     <audio id="ost-player-audio" preload="none" equalizer-state="attached"></audio>
     `;
-    body.appendChild(player);
+    firstChild.appendChild(player);
 
     // List of tracks
     const tracks = [
