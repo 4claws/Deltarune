@@ -34,9 +34,11 @@
     font-size: 7.5rem !important;
     line-height: 8.5rem !important;
     text-align: center;
+    text-transform: capitalize !important;
 } h2, h3, h4, h5, h6 {
     font-family: "crypt", sans-serif !important;
     text-align: center;
+    text-transform: capitalize !important;
 } p, li, a {
     font-family: "esteso", sans-serif !important;
     line-height: normal;
@@ -45,7 +47,7 @@
     font-family: "deltarune", sans-serif !important;
     font-size: 2.5rem !important;
     line-height: 3.5rem !important;
-    text-transform: capitalize;
+    text-transform: capitalize !important;
 }
 
 body {
@@ -67,6 +69,7 @@ body {
     margin: 2rem;
     box-shadow: 0 0 1.5rem var(--primary-color);
     height: calc(100% - 4rem) !important;
+    padding: 1.5rem !important;
 } .container > header {
     position: sticky;
     top: 0;
