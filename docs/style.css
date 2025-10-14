@@ -95,10 +95,27 @@ a[rel="next"]{
 
 #heart-image {
     transform: scale(1.5);
+    animation: pulseHeart 1.25s infinite cubic-bezier(0.22, 0.61, 0.36, 1);
+    filter: drop-shadow(0 0 0.4rem red);
 } .glightbox:has(> #heart-image){
     vertical-align: middle !important;
 }
 
 #component-footer {
    display: none;
+}
+
+@keyframes pulseHeart {
+    0% {
+        transform: scale(1.5);
+        filter: drop-shadow(0 0 0.1rem red);
+    }
+    25% {
+        transform: scale(1.75);
+        filter: drop-shadow(0 0 0.75rem red);
+    }
+    100% {
+        transform: scale(1.5);
+        filter: drop-shadow(0 0 0.1rem red);
+    }
 }
