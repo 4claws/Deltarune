@@ -29,9 +29,18 @@ extra_javascript:
 
 nav:
   - 'Home': index.md
+  - 'La Profezia': profezia.md
   - 'Plot Principale': plot.md
   - 'Superboss': superboss.md
+  - 'Diventare Più Forti': becomestronger.md
+  - 'I Dettagli': dettagli.md
   - 'Crediti': credits.md
+
+validation:
+  links:
+    absolute_links: relative_to_docs
+    anchors: warn
+    unrecognized_links: warn
 
 plugins:
   - glightbox
