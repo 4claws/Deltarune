@@ -33,14 +33,19 @@
     font-family: "deltarune", sans-serif !important;
     font-size: 7.5rem !important;
     line-height: 8.5rem !important;
+    text-align: center;
 } h2, h3, h4, h5, h6 {
     font-family: "crypt", sans-serif !important;
+    text-align: center;
 } p, li, a {
     font-family: "esteso", sans-serif !important;
     line-height: normal;
     font-size: 0.8rem;
-} .title {
-    text-align: center;
+} #component-site-name {
+    font-family: "deltarune", sans-serif !important;
+    font-size: 2.5rem !important;
+    line-height: 3.5rem !important;
+    text-transform: capitalize;
 }
 
 body {
@@ -74,6 +79,8 @@ body {
     display: none !important;
 } .navbar-toggler-icon {
     filter: invert(1) !important;
+} .nav-link {
+    letter-spacing: 0.3rem;
 }
 
 a[rel="next"]{
