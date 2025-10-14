@@ -1,6 +1,6 @@
 :root {
     --bg-image: url(https://i.pinimg.com/originals/a1/fd/20/a1fd204bff5e5fa57f1b75b6077f5824.gif);
-    --bg-color: #03030379;
+    --bg-color: #0303036b;
     --primary-color: #fafafa;
     --secondary-color: #05fffe;
 
@@ -90,7 +90,7 @@ body {
     position: sticky;
     top: 0;
     background-color: var(--bg-color) !important;
-    backdrop-filter: blur(6px) !important;
+    backdrop-filter: blur(16px) !important;
     text-shadow: 0 0 0.75rem var(--primary-color);
     box-shadow: 0 0 0.75rem var(--primary-color);
     border: 1px solid;
