@@ -1,7 +1,13 @@
+let is_page_loaded = false;
+
 // Wait for content to load first
 document.addEventListener("DOMContentLoaded", function() {
-    // Adding the OST player
-    addOstPLayer();
+    // Forcing the player to be added only once (i noticed that DOMContentLoaded was firing multiple times)
+    if (!is_page_loaded) {
+        // Adding the OST player
+        addOstPLayer();
+        is_page_loaded = true;
+    }
 });
 
 // Adds the OST player
@@ -20,8 +26,8 @@ function addOstPLayer() {
     // List of tracks
     const tracks = [
         { name: "01 - Beginning", file: "https://github.com/4claws/Deltarune/blob/main/docs/assets/audio/osts/1_Beginning.mp3" },
-        { name: "02 - My Castle Town", file: "1.03 Toby Fox - DELTARUNE Chapter 2 OST - 03 My Castle Town.mp3" },
-        { name: "03 - A CYBER'S WORLD", file: "1.06 Toby Fox - DELTARUNE Chapter 2 OST - 06 A CYBER'S WORLD-.mp3" }
+        { name: "02 - My Castle Town", file: "https://github.com/4claws/Deltarune/blob/main/docs/assets/audio/osts/1.03%20Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2003%20My%20Castle%20Town.mp3" },
+        { name: "03 - A CYBER'S WORLD", file: "https://github.com/4claws/Deltarune/blob/main/docs/assets/audio/osts/1.06%20Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2006%20A%20CYBER'S%20WORLD-.mp3" }
     ];
 
     const trackSelector = document.getElementById('track-selector');
