@@ -1,4 +1,4 @@
-### Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
+### Fatto con ![deltarune-heart](assets/img/cuore.svg){#heart-image} da:
 ##### Scrittura
 - Shitberk
 ##### Sito Web

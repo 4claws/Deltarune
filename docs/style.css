@@ -29,6 +29,7 @@
     scroll-behavior: smooth !important;
 } a:hover {
     color: var(--secondary-color) !important;
+    text-shadow: 0 0 0.75rem var(--secondary-color);
 } h1 {
     font-family: "deltarune", sans-serif !important;
     font-size: 7.5rem !important;
@@ -90,6 +91,12 @@ a[rel="next"]{
     display: none !important;
 } a[rel="prev"]{
     display: none !important;
+}
+
+#heart-image {
+    transform: scale(1.5);
+} #heart-image:has(> .glightbox){
+    vertical-align: middle;
 }
 
 #component-footer {
