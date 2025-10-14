@@ -161,7 +161,6 @@ a[rel="next"]{
     border: 1px solid var(--primary-color);
     z-index: 1000;
     padding: 1.5rem;
-    margin: 1.5rem;
     box-sizing: border-box;
     overflow: auto;
     display: flex;
