@@ -20,7 +20,7 @@ function addOstPLayer() {
     `
     <select id="ost-player-track-selector" class="ost-player-track-selector"></select>
     <div>Trackbar</div>
-    <audio id="audio" src="" equalizer-state="attached"></audio>
+    <audio id="ost-player-audio" equalizer-state="attached"></audio>
     `;
     body.appendChild(player);
 
@@ -31,8 +31,8 @@ function addOstPLayer() {
         { name: "03 - A CYBER'S WORLD", file: "https://github.com/4claws/Deltarune/raw/refs/heads/main/docs/assets/audio/osts/1.06%20Toby%20Fox%20-%20DELTARUNE%20Chapter%202%20OST%20-%2006%20A%20CYBER'S%20WORLD-.mp3" }
     ];
 
-    const trackSelector = document.getElementById('track-selector');
-    const audioElement = document.getElementById('audio');
+    const trackSelector = document.getElementById('ost-player-track-selector');
+    const audioElement = document.getElementById('ost-player-audio');
 
     // Populate the track selector
     tracks.forEach((track, index) => {
