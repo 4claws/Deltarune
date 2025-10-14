@@ -30,9 +30,15 @@
     color: var(--secondary-color) !important;
 } h1 {
     font-family: "deltarune", sans-serif !important;
-} h2 {
+    font-size: 7.5rem !important;
+    line-height: 8.5rem !important;
+} h2, h3, h4, h5, h6 {
     font-family: "crypt", sans-serif !important;
 } p {
+    font-family: "esteso", sans-serif !important;
+} li {
+    font-family: "esteso", sans-serif !important;
+} a {
     font-family: "esteso", sans-serif !important;
 } .title {
     text-align: center;
