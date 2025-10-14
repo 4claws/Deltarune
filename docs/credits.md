@@ -5,5 +5,5 @@
 - Nicklaj (Simone Aronica)
 - xShader1374_
 - Alex
-- Andrea Pedrali
+- ArkanaMundi
 - Luca Fosforo
