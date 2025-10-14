@@ -155,7 +155,7 @@ a[rel="next"]{
     right: 0;
     height: 10rem;
     background-color: var(--bg-color);
-    backdrop-filter: blur(16px);
+    backdrop-filter: brightness(0.25);
     border: 1px solid var(--primary-color);
     z-index: 1000;
     padding: 1.5rem;
@@ -168,11 +168,14 @@ a[rel="next"]{
     align-items: center;
     align-content: space-around;
 } .ost-player-track-selector {
-    width: 50%;
+    width: 25%;
     font-family: 'esteso';
     font-size: 0.75rem;
     text-align-last: center;
-    background-color: black;
+    background-color: var(--bg-color);
+    cursor: pointer;
+} .ost-player-trackbar {
+    width: 75%;
 }
 
 @keyframes pulseHeart {

@@ -19,7 +19,7 @@ function addOstPLayer() {
     player.innerHTML =
     `
     <select id="ost-player-track-selector" class="ost-player-track-selector"></select>
-    <div>Trackbar</div>
+    <input id="ost-player-trackbar" type="range" min="0" max="100" value="0" step="0" class="ost-player-trackbar">
     <audio id="ost-player-audio" equalizer-state="attached"></audio>
     `;
     body.appendChild(player);
@@ -46,6 +46,31 @@ function addOstPLayer() {
     trackSelector.addEventListener('change', function () {
         const selectedTrack = tracks[this.value];
         audioElement.src = `${selectedTrack.file}`;
+        audioElement.ondurationchange = function() {
+            document.getElementById('ost-player-trackbar').max = audioElement.duration;
+        };
         audioElement.play();
+    });
+
+    // Update trackbar as the audio plays
+    audioElement.addEventListener('timeupdate', function () {
+        document.getElementById('ost-player-trackbar').value = audioElement.currentTime;
+    });
+
+    // Seek audio when trackbar is changed
+    document.getElementById('ost-player-trackbar').addEventListener('input', function () {
+        audioElement.currentTime = this.value;
+    });
+
+    // Auto-play the first track
+    trackSelector.value = 0;
+    const event = new Event('change');
+    trackSelector.dispatchEvent(event);
+
+    // Play/pause on player click
+    player.addEventListener('click', function () {
+        if (!audioElement.src) return; // No track loaded
+        if (audioElement.paused) audioElement.play();
+        else audioElement.play();
     });
 }
