@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // Adds the OST player
 function addOstPLayer() {
     const body = document.body;
-    const firstChild = body.firstChild;
+    const firstChild = body.children[0];
 
     // Create player container
     const player = document.createElement('div');
