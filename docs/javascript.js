@@ -20,7 +20,7 @@ function addOstPLayer() {
     `
     <select id="ost-player-track-selector" class="ost-player-track-selector"></select>
     <input id="ost-player-trackbar" type="range" min="0" max="100" value="0" step="0.00001" class="ost-player-trackbar">
-    <audio id="ost-player-audio" equalizer-state="attached"></audio>
+    <audio id="ost-player-audio" preload="none" equalizer-state="attached"></audio>
     `;
     body.appendChild(player);
 
