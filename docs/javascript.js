@@ -1,6 +1,3 @@
-// Set the viewport to be responsive
-document.getElementsByName("viewport")[0].setAttribute('content', 'width=device-width, initial-scale=1.0, maximum-scale=1.0');
-
 // Adds a player
 const body = document.body;
 const player = document.createElement('div');
