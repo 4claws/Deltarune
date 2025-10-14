@@ -1,5 +1,5 @@
 ### Fatto con ![deltarune-heart](assets/img/cuore.svg) da:
-##### Scrittura:
+##### Scrittura
 - Shitberk
 ##### Sito Web
 - 4Claws
