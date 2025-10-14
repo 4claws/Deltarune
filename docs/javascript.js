@@ -14,12 +14,13 @@ document.addEventListener("DOMContentLoaded", function() {
 function addOstPLayer() {
     const body = document.body;
     const player = document.createElement('div');
+    player.class = 'ost-player';
     player.id = 'ost-player';
     player.innerHTML =
     `
-    <select id="track-selector" style="width: 50%;"></select>
+    <select id="ost-player-track-selector" class="ost-player-track-selector"></select>
     <div>Trackbar</div>
-    <audio id="audio" src="https://github.com/4claws/Deltarune/raw/refs/heads/main/docs/assets/audio/osts/1_Beginning.mp3" equalizer-state="attached"></audio>
+    <audio id="audio" src="" equalizer-state="attached"></audio>
     `;
     body.appendChild(player);
 

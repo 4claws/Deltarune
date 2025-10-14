@@ -153,7 +153,7 @@ a[rel="next"]{
     bottom: 0;
     left: 0;
     right: 0;
-    height: 7.5rem;
+    height: 10rem;
     background-color: var(--bg-color);
     backdrop-filter: blur(16px);
     border: 1px solid var(--primary-color);
@@ -163,10 +163,16 @@ a[rel="next"]{
     overflow: auto;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
     align-content: space-around;
+} .ost-player-track-selector {
+    width: 50%;
+    font-family: 'esteso';
+    font-size: 0.75rem;
+    text-align-last: center;
+    background-color: black;
 }
 
 @keyframes pulseHeart {
