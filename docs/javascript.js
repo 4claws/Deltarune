@@ -1,5 +1,8 @@
-// Adding the OST player
-addOstPLayer();
+// Wait for content to load first
+document.addEventListener("DOMContentLoaded", function() {
+    // Adding the OST player
+    addOstPLayer();
+});
 
 // Adds the OST player
 function addOstPLayer() {
@@ -39,8 +42,3 @@ function addOstPLayer() {
         audioElement.play();
     });
 }
-
-// Wait for content to load first
-document.addEventListener("DOMContentLoaded", function() {
-    
-});
