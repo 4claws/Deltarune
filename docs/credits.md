@@ -1,4 +1,4 @@
-### Fatto con ![deltarune-heart](assets/img/cuore.svg){#heart-image} da:
+## Fatto con ![deltarune-heart](assets/img/cuore.svg){#heart-image}
 ##### Scrittura
 - Shitberk
 ##### Sito Web
@@ -8,6 +8,7 @@
 ##### Rielaborazioni e altri controlli
 - 4Claws
 - GabSam
+- xShader1374_
 ##### Suggerimenti e aiuti generali
 - Luca Fosforo
 - ArkanaMundi
