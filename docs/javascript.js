@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Change track on selection
     trackSelector.addEventListener('change', function() {
         const selectedTrack = tracks[this.value];
-        audioElement.src = `assets/audio/osts/${selectedTrack.file}`;
+        audioElement.src = `${selectedTrack.file}`;
         audioElement.play();
     });
 });
