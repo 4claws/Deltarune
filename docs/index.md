@@ -1,4 +1,4 @@
-## Welcome Back, Fellow Lightners! ![deltarune-heart](assets/img/cuore.svg){#heart-image}
+### Welcome Back, Fellow Lightners! ![deltarune-heart](assets/img/cuore.svg){#heart-image}
 - [Home](index.md)
 - [La Profezia](profezia.md)
 - [Plot Principale](plot.md)
