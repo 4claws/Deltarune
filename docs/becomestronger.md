@@ -37,7 +37,8 @@ Svegliati nel Light World, Noelle è sollevata di essersi finalmente svegliata d
 L'ultima differenza è un dialogo molto impattante, consiglio vivamente di riguardare la scena intera:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=3207&amp;end=3468" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Piccola nota finale su quel dialogo: In questa route la preoccupazione principale e Kris, che è la prima persona che nota quando finisce di parlare col padre; al contrario nella route normale nota per prima Susie. Infine, nel dialogo con Kris ci sono diverse interazioni possibili, come ad esempio Noelle che nota Kris indossi il suo orologio (se lo equipaggi nel Dark World), ma persino muoverti durante il dialogo, cosa che la fa spaventare tantissimo.
+Piccola nota finale su quel dialogo: In questa route la preoccupazione principale e Kris, che è la prima persona che nota quando finisce di parlare col padre; al contrario nella route normale nota per prima Susie. Infine, nel dialogo con Kris ci sono diverse interazioni possibili, ad esempio Noelle che nota Kris indossi il suo orologio (se lo equipaggi nel Dark World), ma persino muoverti durante il dialogo, cosa che la fa spaventare tantissimo.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKagCHlTxTs?start=25&amp;end=40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Questo è quanto per quanto riguarda la Weird Route. Ora, **procedi.**
