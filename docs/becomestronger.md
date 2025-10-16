@@ -22,10 +22,17 @@ Noelle è talmente sconvolta dagli eventi che neanche Queen si sente a suo agio 
 Verso la fine della battaglia, Spamton la mette in stallo usando la funzione più famosa del corpo NEO, la sua invincible difesa (proprio come Mettaton NEO nella geno di UT…?). Kris non può fare altro che chiamare aiuto, prova a chiamare Susie senza successo, prova a chiamare Ralsei senza successo, e infine noi sussurriamo il nome di Noelle e… in uno schermo nero sentiamo solo il suono familiare di IceShock, con dei numeri gialli a schermo che indicano danni altissimi. Nel silenzio e nel buio la fontana viene quindi sigillata.
 
 Se vuoi rileggere i dialoghi durante la battaglia, eccoli qui:
-Pre-battaglia
+Pre-battaglia:
 ![dialogo spamton pre battaglia](assets/img/weird_route_spamton_pre-battle.png) 
 
-Battaglia
-![Dialogo spamton battaglia 1](assets/img/weird_route_spamton_battle_1.png) ![Dialogo spamton battaglia 2](assets/img/weird_route_spamton_battle_2.png)
+Battaglia:
 
-Svegliati nel Light World, Noelle è sollevata di essersi finalmente svegliata da quell’incubo, in pieno contrasto alla route normale. Peccato solo che Berdly rimanga addormentato sul tavolo… analizzando il suo corpo, appare semplicemente il messaggio “He doesn’t seem to be awake.”L’esplorazione di Hometown e gli eventi finali sono pressochè identici eccetto per la visita in ospedale. Nella sala principale vi è un gioco Consiglio vivamente di riguardare la scena perché è molto impattante (nota interessante: per ovvie ragioni qui Noelle nota Kris prima di Susie, l’opposto che nella route normale). Ci sono anche diverse interazioni se indossi o meno l’orologio di Noelle che puoi ciullare nel dark world, o puoi anche spaventarla muovendoti mid-cutscene; ma come sempre, il risultato è lo stesso
+![Dialogo spamton battaglia 1](assets/img/weird_route_spamton_battle_1.png) 
+![Dialogo spamton battaglia 2](assets/img/weird_route_spamton_battle_2.png)
+
+Svegliati nel Light World, Noelle è sollevata di essersi finalmente svegliata da quell’incubo, in pieno contrasto alla route normale. Peccato solo che Berdly rimanga addormentato sul tavolo… analizzando il suo corpo, appare semplicemente il messaggio “He doesn’t seem to be awake.”. L’esplorazione di Hometown e gli eventi finali sono pressochè identici eccetto per la visita in ospedale. Nella sala principale vi è un giocattolo, di cui normalmente la descrizione recita ***"(It's one of those sliding bead toys that naturally spawns inside doctors' offices.)" "(The beads march grimly along their path.)"*** e nel ch2 continua: ***"(The beads march on)"*** ma dopo gli eventi della weird route il dialogo cambia in ***"(One of the blue beads is broken and torn off.)"***
+
+L'ultima differenza è un dialogo molto impattante, consiglio vivamente di riguardare la scena intera:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=3207&amp;end=3468" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Questo è quanto per quanto riguarda la Weird Route. Ora, **procedi**
