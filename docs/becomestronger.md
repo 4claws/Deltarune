@@ -29,6 +29,7 @@ Pre-battaglia:
 Battaglia:
 
 ![Dialogo spamton battaglia 1](assets/img/weird_route_spamton_battle_1.png) 
+
 ![Dialogo spamton battaglia 2](assets/img/weird_route_spamton_battle_2.png)
 
 Svegliati nel Light World, Noelle è sollevata di essersi finalmente svegliata da quell’incubo, in pieno contrasto alla route normale. Peccato solo che Berdly rimanga addormentato sul tavolo… analizzando il suo corpo, appare semplicemente il messaggio “He doesn’t seem to be awake.”. L’esplorazione di Hometown e gli eventi finali sono pressochè identici eccetto per la visita in ospedale. Nella sala principale vi è un giocattolo, di cui normalmente la descrizione recita ***"(It's one of those sliding bead toys that naturally spawns inside doctors' offices.)" "(The beads march grimly along their path.)"*** e nel ch2 continua: ***"(The beads march on)"*** ma dopo gli eventi della weird route il dialogo cambia in ***"(One of the blue beads is broken and torn off.)"***
