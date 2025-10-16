@@ -29,12 +29,15 @@ Pre-battaglia:
 Battaglia:
 
 ![Dialogo spamton battaglia 1](assets/img/weird_route_spamton_battle_1.png) 
-
+‎ 
 ![Dialogo spamton battaglia 2](assets/img/weird_route_spamton_battle_2.png)
 
 Svegliati nel Light World, Noelle è sollevata di essersi finalmente svegliata da quell’incubo, in pieno contrasto alla route normale. Peccato solo che Berdly rimanga addormentato sul tavolo… analizzando il suo corpo, appare semplicemente il messaggio “He doesn’t seem to be awake.”. L’esplorazione di Hometown e gli eventi finali sono pressochè identici eccetto per la visita in ospedale. Nella sala principale vi è un giocattolo, di cui normalmente la descrizione recita ***"(It's one of those sliding bead toys that naturally spawns inside doctors' offices.)" "(The beads march grimly along their path.)"*** e nel ch2 continua: ***"(The beads march on)"*** ma dopo gli eventi della weird route il dialogo cambia in ***"(One of the blue beads is broken and torn off.)"***
 
 L'ultima differenza è un dialogo molto impattante, consiglio vivamente di riguardare la scena intera:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=3207&amp;end=3468" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Piccola nota finale su quel dialogo: In questa route la preoccupazione principale e Kris, che è la prima persona che nota quando finisce di parlare col padre; al contrario nella route normale nota per prima Susie. Infine, nel dialogo con Kris ci sono diverse interazioni possibili, come ad esempio Noelle che nota Kris indossi il suo orologio (se lo equipaggi nel Dark World), ma persino muoverti durante il dialogo, cosa che la fa spaventare tantissimo.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKagCHlTxTs?start=25&amp;end=40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Questo è quanto per quanto riguarda la Weird Route. Ora, **procedi.**
