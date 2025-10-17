@@ -18,11 +18,11 @@ A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incante
 
 Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag:
 
-Noelle è talmente sconvolta dagli eventi che neanche Queen si sente a suo agio a tirarla in ballo come fa nella route normale, e non finiamo neanche per combatterla normalmente. Al posto dei normali eventi Queen salta immediatamente nel suo mech, ma stavolta Ralsei parla in anticipo del Ruggito, scioccando Queen e facendola smettere prima che inizi il combattimento. Il boss finale di questa route è invece Spamton NEO stesso, che è particolarmente frustrato perché proprio quando è riuscito a prendere il controllo, Kris si approccia a sigillare la fontana.
+Noelle è talmente sconvolta dagli eventi che neanche Queen si sente a suo agio a tirarla in ballo come fa nella route normale, e non finiamo neanche per combatterla normalmente. Al posto dei normali eventi Queen salta immediatamente nel suo mech, ma stavolta Ralsei parla in anticipo del Ruggito, scioccando Queen e facendola smettere prima che inizi il combattimento. Il boss finale di questa route è invece Spamton NEO stesso, che è particolarmente frustrato perché proprio quando è riuscito a prendere il controllo, Kris si approccia a sigillare la fontana. Parte la lotta, e stavolta Kris deve affrontare senza l'aiuto di Susie e Ralsei il burattino.
 
 Verso la fine della battaglia, Spamton la mette in stallo usando la funzione più famosa del corpo NEO, la sua invincible difesa (proprio come Mettaton NEO nella geno di UT…?). Kris non può fare altro che chiamare aiuto, prova a chiamare Susie senza successo, prova a chiamare Ralsei senza successo, e infine noi sussurriamo il nome di Noelle e… in uno schermo nero sentiamo solo il suono familiare di IceShock, con dei numeri gialli a schermo che indicano danni altissimi. Nel silenzio e nel buio la fontana viene quindi sigillata.
 
-Se vuoi rileggere i dialoghi durante la battaglia, eccoli qui:
+Se vuoi rileggere i dialoghi, eccoli qui:
 Pre-battaglia:
 ![dialogo spamton pre battaglia](assets/img/weird_route_spamton_pre-battle.png) 
 
