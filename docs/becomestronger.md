@@ -1,5 +1,7 @@
 <h1>Weird Route</h1>
 
+***nota extr, aggiungere un paio di dettagli, come il percorso del manhole simile a quello del gioco del mantello, o il dialogo di Noelle che pensa di fulminare kris -shitberk
+
 La weird route chiamata anche “Snowgrave” dai fan (“Weird Route” è comunque il nome a livello "ufficiale", siccome i file che si riferiscono a questi strani eventi sono definiti così), è una serie di eventi che è possibile intraprendere a partire da quando Noelle si unisce a Kris a metà del capitolo 2. È necessario congelare tutti i nemici attraverso l’incantesimo Iceshock di Noelle, facendo persino backtracking nell'area precedente (dove non avresti motivo di andare altrimenti). Ad ogni fine di battaglia apparirà il messaggio “Noelle became stronger.”, i suoi HP e quelli di Kris iniziano ad aumentare ed eventualmente lo farà anche il loro livello. 
 
 **Nota: a prescindere da tutto questo, il livello nei Dark World sembra essere diverso dal LV/LOVE di UT e il Light World (Dove infatti il LV di Kris rimane sempre 1). Sconfiggendo i nemici con la violenza appare il messaggio “You became stronger” e anche lì gli HP e il Livello aumentano, ma in questa route sembra il focus stia diventando Noelle. Inoltre, il livello nel Dark World aumenta automaticamente nel corso dei capitoli: nel capitolo 2 siamo di Livello 2, alla fine di esso saliamo a livello 3 dove rimarrà così per tutto il capitolo 3, e infine nel ch4 saremo di livello 4.**
