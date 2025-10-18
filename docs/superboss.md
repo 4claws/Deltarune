@@ -20,7 +20,7 @@ Bisogna raccogliere tre pezzi di chiave da riparare. Una di queste e l’unica d
 Riparata la chiave, possiamo tornare da Jevil che ci farà finalmente giocare al suo “gioco di numeri”: se i nostri hp si azzerano, perdiamo; molto semplice. Dipendentemente da come viene sconfitto (Tramite gli ACT o il FIGHT), Jevil si trasformerà in uno di due oggetti equipaggiabili (Devilsknife FTW), e darà anche due dialoghi diversi, eccoli qui. <br>
 <br>
 <br>
-![dialoghi jevil](assets/img/jevil dialogue.png)
+![dialoghi jevil](assets/img/jevil_dialogue.png)
 <br>
 <br>
 
