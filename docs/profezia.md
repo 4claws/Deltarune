@@ -5,8 +5,7 @@
 <div data-barba="wrapper">
       <div data-barba="container" data-barba-namespace="la-profezia">
 
-<img class="c"  src="profezia/cap 1/1.png">
-  <div class="container-colonne">
+<img class="c"  src="profezia/cap 1/1.png">   ![image] (https://github.com/4claws/Deltarune/blob/2e43b12a75a3a10fab800b09a96c502da291dda5/old/profezia/cap%201/1.png)
       <div class="colonna-sinistra">
         <!-- Contenuto della prima colonna -->
        <p>Once upon a time, a LEGEND <BR> was whispered among shadows. </p>
