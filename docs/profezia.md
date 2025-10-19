@@ -5,266 +5,146 @@
      Once upon a time, a LEGEND was whispered among shadows. 
       
     Tanto tempo fa, una LEGGENDA  era sussurata fra le ombre
-      
+   
+
 
 <img class="c"  src="./profezia/cap 1/2.png"/>
 
- <div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p>It was a legend of HOPE. <br> It was a LEGEND of DREAMS.</p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Era una LEGGENDA di SPERANZA. <br>
-            Era una LEGGENDA di SOGNI.</p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
-<br>
-<br>
+    It was a legend of HOPE.  It was a LEGEND of DREAMS.
+    
+     Era una LEGGENDA di SPERANZA. 
+            Era una LEGGENDA di SOGNI.
+
 
 <img class="c" src="./profezia/cap 1/3.png"/>
 
- <div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p>It was a legend of LIGHT. <br> It was a LEGEND of DARK.</p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Era una LEGGENDA di LUCE. <br>
-            Era una LEGGENDA di BUIO.</p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
 
-    <br>
-    <br>
+ It was a legend of LIGHT. <br> It was a LEGEND of DARK.
+
+  Era una LEGGENDA di LUCE. 
+            Era una LEGGENDA di BUIO.
+    
 
 <img class="c" src="./profezia/cap 1/4.png"/>
 
- <div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p>This is the legend of   <br> DELTA RUNE</p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Questa è la leggenda di  <br>
-            DELTA RUNE</p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
-<br>
-<br>
+ This is the legend of   DELTA RUNE
+   
+Questa è la leggenda di  
+            DELTA RUNE
+
 
 <img class="c" src="./profezia/cap 1/5.png"/>
- <div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p>For millenia, LIGHT and Dark<br> have lived in balance, <br> <br> <br> Bringing peace to the WORLD </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Per millenni, LUCE e BUIO   <br> hanno vissuto in equilibrio,
-            <br> <br> <br> Portando pace nel MONDO.</p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
 
-<br>
-<br>
+      For millenia, LIGHT and Dark have lived in balance, Bringing peace to the WORLD 
+ 
+     Per millenni, LUCE e BUIO   hanno vissuto in equilibrio,
+           Portando pace nel MONDO
+ 
 
 <img class="c"src="./profezia/cap 1/7.png"/>
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> But if this harmony <br> were to shatter... <br> <br> <br> A terrible calamity would occur. </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Ma se questo equilibrio <br> si dovesse rompere... <br> <br> <br> Avverrebbe una terribile calamità.
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
-<br>
-<br>
+
+But if this harmony <br> were to shatter... A terrible calamity would occur. 
+ 
+ Ma se questo equilibrio  si dovesse rompere...  Avverrebbe una terribile calamità.
+         
+      
 
 <img class="c" src="./profezia/cap 1/9.png"/>
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> The sky will run <br> black with terror
-        <br> <br> <br> And the land will <br> crack with fear.
-        <br> <br> <br> Then, her heart pounding...
-        <br> <br> <br> The EARTH will draw <br> her final breath.  </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Il cielo diventerà <br>
+
+ The sky will run <br> black with terror
+ And the land will <br> crack with fear.
+Then, her heart pounding...
+    The EARTH will draw <br> her final breath.  
+ 
+
+ Il cielo diventerà
            nero di terrore
-        <br> <br> <br> E il terreno <br> si spezzerà di paura.
-        <br> <br> <br> E poi, con il suo cuore battente...
-        <br> <br> <br> La TERRA esalerà  <br> il suo ultimo respiro. </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
-<br>
-<br>
+    E il terreno si spezzerà di paura.
+        E poi, con il suo cuore battente...
+        La TERRA esalerà  <br> il suo ultimo respiro.
+
+    
 
 <img class="c" src="./profezia/cap 1/14.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> Only then, shining with hope... </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Solo allora, splendenti di speranza... <br>
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
-<br>
-<br>
+
+ Only then, shining with hope... 
+    
+Solo allora, splendenti di speranza...
+          
 
 <img class="c" src="./profezia/cap 1/15.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> Three HEROES appear at WORLDS' edge </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Apparriranno tre EROI al confine dei MONDI <br>
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
 
+      
+        Three HEROES appear at WORLDS' edge 
+     
+        Apparriranno tre EROI al confine dei MONDI 
+         
+  
 <img class="c" src="./profezia/cap 1/16.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> A HUMAN, A MONSTER, And a PRINCE FROM THE DARK. </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Un UMANO, Un MOSTRO, E un PRINCIPE DAL BUIO <br>
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
+
+ A HUMAN, A MONSTER, And a PRINCE FROM THE DARK. 
+ 
+ Un UMANO, Un MOSTRO, E un PRINCIPE DAL BUIO 
+           
+ 
 
   <img class="c" src="./profezia/cap 1/17.png" alt="">
 
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> Only they can seal the fountains
-        <br>
-        <br>
-        <br> And banish the ANGEL'S HEAVEN
-        <br>
-        <br>
-        <br>Only then will balance <br> be restored,
-        <br>
-        <br>
-        <br> And the WORLD saved <br> from destruction. </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Solo loro possono sigillare le fontane
-          <br>
-          <br>
-          <br>E bandire il PARADISO DELL'ANGELO
-          <br>
-          <br>
-          <br> Solo allora l'equilibrio  <br> sarà ristabilito,
-          <br>
-          <br>
-          <br> E il MONDO salvato  <br> dalla distruzione.
-          </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
 
+ Only they can seal the fountains
+  
+And banish the ANGEL'S HEAVEN
+    
+Only then will balance <br> be restored,
+    
+And the WORLD saved <br> from destruction. 
+Solo loro possono sigillare le fontane
+     
+   E bandire il PARADISO DELL'ANGELO
+    
+ Solo allora l'equilibrio  <br> sarà ristabilito,
+       
+E il MONDO salvato  <br> dalla distruzione.
+     
 
 
 <img class="c" src="./profezia/cap 1/21.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> Today, the FOUNTAIN OF DARKNESS- </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Oggi, la FONTANA DI OSCURITÀ-  <br>
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
+
+ Today, the FOUNTAIN OF DARKNESS- 
+     
+ Oggi, la FONTANA DI OSCURITÀ-  
+    
 <img class="c" src="./profezia/cap 1/22.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> The geyser that <br> gives this land form-
-        <br>
-        <br>
-        <br>Stands tall at the <br> center of the kingdom.</p>
-          </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Il geyser che <br> dà forma a questa terra
-        <br>
-        <br>
-        <br>Sta in in piedi al <br> centro del regno.
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
+
+  The geyser that <br> gives this land form-
+      
+Stands tall at the <br> center of the kingdom.
+         
+   
+   
+Il geyser che <br> dà forma a questa terra
+      
+Sta in in piedi alcentro del regno.
+           
+  
 
 <img class="c" src="./profezia/cap 1/24.png" alt="">
-<div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p> But recently, another fountain <br> has appeared on the horizon...
-      <br>
-        <br>
-        <br>And with it, the balance of <br> LIGHT and DARK begins to shift. </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p> Ma di recente, un'altra fontana <br> è apparsa all'orizzonte...
-          <br>
-        <br>
-        <br>E con essa, l'equilibrio tra <br>  LUCE e BUIO inizia a cambiare...
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
 
-          <div class="container-colonne">
-      <div class="colonna-sinistra">
-        <!-- Contenuto della prima colonna -->
-       <p>
-      <br>
-        <br>
-        <br> </p>
-      </div>
-      <div class="colonna-destra">
-        <!-- Contenuto della seconda colonna -->
-        <p>
-          <br>
-        <br>
-        <br>
-            </p>
-      </div>
-      <div style="clear: both;"></div> <!-- Pulisce i float -->
-    </div>
+But recently, another fountain <br> has appeared on the horizon...
+  
+    
+And with it, the balance of <br> LIGHT and DARK begins to shift. 
+ 
+
+    
+Ma di recente, un'altra fontana è apparsa all'orizzonte...
+         
+         
+E con essa, l'equilibrio tra <br>  LUCE e BUIO inizia a cambiare...
+           
+  
+
+      
 
 
     </div>
