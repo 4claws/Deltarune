@@ -21,9 +21,9 @@ A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incante
 Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente inacessibile che (piccolo spoiler per i capitoli già giocati da Mike nella route normale): 
 <details> 
   <summary>Assumeranno un significato particolare, oserei dire ***strano***</summary>
-![sword alley 1](assets/img/sword alley.png)
-![sword alley 2](assets/img/sword alley 2.png)
-![sword alley 3](assets/img/sword alley 3.png)
+![sword alley 1](assets/img/sword_alley.png)
+![sword alley 2](assets/img/sword_alley_2.png)
+![sword alley 3](assets/img/sword_alley_3.png)
 </details>
 
 
