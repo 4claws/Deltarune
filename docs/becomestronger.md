@@ -1,42 +1,50 @@
-<h1>Weird Route</h1>
-
-***nota extr, aggiungere un paio di dettagli, come il percorso del manhole simile a quello del gioco del mantello, o il dialogo di Noelle che pensa di fulminare kris -shitberk
+# Weird Route
 
 La weird route chiamata anche “Snowgrave” dai fan (“Weird Route” è comunque il nome a livello "ufficiale", siccome i file che si riferiscono a questi strani eventi sono definiti così), è una serie di eventi che è possibile intraprendere a partire da quando Noelle si unisce a Kris a metà del capitolo 2. È necessario congelare tutti i nemici attraverso l’incantesimo Iceshock di Noelle, facendo persino backtracking nell'area precedente (dove non avresti motivo di andare altrimenti). Ad ogni fine di battaglia apparirà il messaggio “Noelle became stronger.”, i suoi HP e quelli di Kris iniziano ad aumentare ed eventualmente lo farà anche il loro livello. 
 
-**Nota: a prescindere da tutto questo, il livello nei Dark World sembra essere diverso dal LV/LOVE di UT e il Light World (Dove infatti il LV di Kris rimane sempre 1). Sconfiggendo i nemici con la violenza appare il messaggio “You became stronger” e anche lì gli HP e il Livello aumentano, ma in questa route sembra il focus stia diventando Noelle. Inoltre, il livello nel Dark World aumenta automaticamente nel corso dei capitoli: nel capitolo 2 siamo di Livello 2, alla fine di esso saliamo a livello 3 dove rimarrà così per tutto il capitolo 3, e infine nel ch4 saremo di livello 4.**
+**Nota: a prescindere da tutto questo, il livello nei Dark World sembra essere diverso dal LV/LOVE di UT e il Light World (Dove infatti il LV di Kris rimane sempre 1). Sconfiggendo i nemici con la violenza (solo a partire dal ch2) appare il messaggio “You became stronger” e anche lì gli HP e altre stats aumentao, ma in questa route sembra il focus stia diventando Noelle. Inoltre, il livello nel Dark World aumenta automaticamente nel corso dei capitoli: nel capitolo 2 siamo di Livello 2, alla fine di esso saliamo a livello 3 dove rimarrà così per tutto il capitolo 3, e infine nel ch4 saremo di livello 4.**
 
 Una volta che si è diventati abbastanza forti, bisognerà acquistare il FreezeRing da un Addison (uno dei vecchi amici di Spamton). Chiederà se Kris e Noelle stiano insieme, e si potrà rispondere “Siamo solo amici” o “Siamo qualcosa di più”; nel gioco base è una scelta innoqua, ma per continuare questa route diventa obbligatoria la seconda scelta. L’Addison ci offrirà quindi il FreezeRing, al modico prezzo di tutti i nostri soldi + 1. Essendo fisicamente impossibile acquistarlo, tormentiamo e costringiamo Noelle a **procedere** e congelarlo per prendere l’anello gratuitamente. <sup>Vorrei poter fare lo stesso con certi venditori online.<sup>
 
 Scherzi a parte, questi eventi sembrano confusi per la povera ragazza. Lo schermo va a nero e sembra quasi non rendersi conto di quello che compie, come se fosse in una trance. Con l'Addison che scompare nel nulla e la descrizione dell anello ***"A ring with a snowglobe on it. ... is that someone inside?"***, è possibile concludere che l'Addison sia stato in qualche modo congelato e miniaturizzato all'interno di esso.
 
+Questo evento arriva a turbare la ragazza così tanto, che nei momenti successivi arriverà a considerare di fare seriamente male a Kris (e potremo tormentarla ulteriormente facendole realizzare che possiamo leggerle nel pensiero)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=609&amp;end=656" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Nota interessante: ogni volta che si esegue con successo uno step per proseguire la route, suonerà in maniera ricorrente un certo suono abbastanza minaccioso. Allo stesso modo, è possibile "fallire" questi eventi. Se si avanza senza comprare l'anello, se si sconfigge anche un solo nemico senza congelarlo, o se si fanno certe scelte meno aggressive o altro, suonerà un jingle felice che indica l'uscita permanente dalla route, ecco entrambi i suoni:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tyGHbmlMOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Procedendo a congelare i nemici e forzando Noelle in maniera aggressiva ad aggirare i puzzle per noi, congelandoli al posto di risolverli, incontreremo anche Spamton nascosto in un cassonetto della spazzatura. Anche lui ha un anello da offrirci, ma prima di farlo dobbiamo congelare tutti i nemici presenti nella mappa. In maniera reminescente alla genocide di UT, Spamton ci specificherà quanti nemici sono rimasti. Una volta congelati tutti, potremo acquistare il ThornRing al prezzo di D$1997.
 
 A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incantesimo fatale chiamato “Snowgrave”; il suo costo è di ben 200 TP, ma l’anello appena acquistato riduce della metà il costo degli incantesimi di ghiaccio, al costo di assorbire in battaglia gli HP di Noelle fino ad un massimo di 55 HP. Dettaglio: che sia una coincidenza o no, "55" in numeri romani si scrive "LV". Al contrario del FreezeRing che ha solo bisogno di essere ottenuto, per **procedere** è obbligatorio far indossare a Noelle il ThornRing, per renderere utilizzabile l'incantesimo Snowgrave contro l’unico ***nemico*** rimasto. Se ne hai voglia, guarda questa bellissima animazione di quel momento: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XFurx0yrHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente inacessibile che (piccolo spoiler per i capitoli già giocati da Mike nella route normale): 
+Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente inacessibile che: 
 <details> 
-  <summary>Assumeranno un significato particolare, oserei dire ***strano***</summary>
-![sword alley 1](assets/img/sword_alley.png)
-![sword alley 2](assets/img/sword_alley_2.png)
+  <summary>(piccolo spoiler per i capitoli già giocati da Mike nella route normale)</summary>
+Assumeranno un significato particolare, oserei dire ***strano***
+
+  ![sword alley 1](assets/img/sword_alley.png)
+
+![sword alley 2](docs/assets/img/sword_alley_2.png)
+
 ![sword alley 3](assets/img/sword_alley_3.png)
 </details>
 
 
+Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag. Nella scena dove Susie visita in privato Noelle, stavolta noi giocatori non vediamo la scena, senza che neanche ci sia offerta la scelta, cosa che sciocca parecchio Ralsei
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=2119&amp;end=2158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag:
 
 Noelle è talmente sconvolta dagli eventi che neanche Queen si sente a suo agio a tirarla in ballo come fa nella route normale, e non finiamo neanche per combatterla normalmente. Al posto dei normali eventi Queen salta immediatamente nel suo mech, ma stavolta Ralsei parla in anticipo del Ruggito, scioccando Queen e facendola smettere prima che inizi il combattimento. Il boss finale di questa route è invece Spamton NEO stesso, che è particolarmente frustrato perché proprio quando è riuscito a prendere il controllo, Kris si approccia a sigillare la fontana. Parte la lotta, e stavolta Kris deve affrontare senza l'aiuto di Susie e Ralsei il burattino.
 
 Verso la fine della battaglia, Spamton la mette in stallo usando la funzione più famosa del corpo NEO, la sua invincible difesa (proprio come Mettaton NEO nella geno di UT…?). Kris non può fare altro che chiamare aiuto, prova a chiamare Susie senza successo, prova a chiamare Ralsei senza successo, e infine noi sussurriamo il nome di Noelle e… in uno schermo nero sentiamo solo il suono familiare di IceShock, con dei numeri gialli a schermo che indicano danni altissimi. Nel silenzio e nel buio la fontana viene quindi sigillata.
 
 Se vuoi rileggere i dialoghi, eccoli qui:
+
 Pre-battaglia:
+
 ![dialogo spamton pre battaglia](assets/img/weird_route_spamton_pre-battle.png) 
 
 Battaglia:
@@ -53,5 +61,17 @@ L'ultima differenza è un dialogo molto impattante nell'ospedale, consiglio viva
 Piccolo appunto finale su quel dialogo: In questa route la preoccupazione principale di Noelle è Kris, che è la prima persona che nota quando finisce di parlare col padre; al contrario nella route normale nota per prima Susie; infine, nel suo ultimo dialogo ci sono diverse interazioni possibili, ad esempio Noelle che nota Kris indossi il suo orologio (se lo equipaggi nel Dark World), ma persino muoverti durante il dialogo, cosa che la fa spaventare tantissimo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKagCHlTxTs?start=25&amp;end=40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# ***ELIMINARE QUESTO MESSAGGIO SE SABAKU DECIDE DI FARE LA SNOWGRAVE DAL CH4, SE DECIDE DI RIGIOCARE IL CH3 IN WEIRD ROUTE ELIMINARE SIA QUESTO MESSAGGIO CHE LE DESCRIZIONI DEGLI UNICI CAMBIAMENTI DEL CH3***
+
+Siccome hai deciso di evitare di continuare la route saltando il ch3, ecco le uniche tre differenze che (io e gli altri del gruppo del sito) conosciamo di questo capitolo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FbR-eSwNqiI?start=1&amp;end=183" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+C'è un dialogo di Susie che scherza sul "tryhardare" e di come "finiremo come Berdly continuando così". Kris reagisce piuttosto male nella weird route
+
+![berdly](deltarune_spoiler.png)
+
+
 
 Questo è quanto per quanto riguarda la Weird Route. Ora, **procedi.**
