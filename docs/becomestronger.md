@@ -18,7 +18,13 @@ Procedendo a congelare i nemici e forzando Noelle in maniera aggressiva ad aggir
 A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incantesimo fatale chiamato “Snowgrave”; il suo costo è di ben 200 TP, ma l’anello appena acquistato riduce della metà il costo degli incantesimi di ghiaccio, al costo di assorbire in battaglia gli HP di Noelle fino ad un massimo di 55 HP. Dettaglio: che sia una coincidenza o no, "55" in numeri romani si scrive "LV". Al contrario del FreezeRing che ha solo bisogno di essere ottenuto, per **procedere** è obbligatorio far indossare a Noelle il ThornRing, per renderere utilizzabile l'incantesimo Snowgrave contro l’unico ***nemico*** rimasto. Se ne hai voglia, guarda questa bellissima animazione di quel momento: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XFurx0yrHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag:
+Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente inacessibile che (spoiler per il ch3 normale) >!nel ch3 sarà particolarmente familiare
+
+<summary>![sword alley 1](assets/img/sword alley.png)</summary>
+<summary>![sword alley 2](assets/img/sword alley 2.png)</summary>
+<summary>![sword alley 3](assets/img/sword alley 3.png)</summary>
+
+Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag:
 
 Noelle è talmente sconvolta dagli eventi che neanche Queen si sente a suo agio a tirarla in ballo come fa nella route normale, e non finiamo neanche per combatterla normalmente. Al posto dei normali eventi Queen salta immediatamente nel suo mech, ma stavolta Ralsei parla in anticipo del Ruggito, scioccando Queen e facendola smettere prima che inizi il combattimento. Il boss finale di questa route è invece Spamton NEO stesso, che è particolarmente frustrato perché proprio quando è riuscito a prendere il controllo, Kris si approccia a sigillare la fontana. Parte la lotta, e stavolta Kris deve affrontare senza l'aiuto di Susie e Ralsei il burattino.
 
