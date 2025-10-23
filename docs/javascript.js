@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Forcing the player to be added only once (i noticed that DOMContentLoaded was firing multiple times)
     if (!is_page_loaded) {
         // Adding the OST player
-        addOstPLayer();
+        //addOstPLayer(); Add only when fixed!
         is_page_loaded = true;
 
         document.getElementById('component-footer').remove(); // Remove the footer
