@@ -1,14 +1,14 @@
 # Weird Route
 
-La weird route chiamata anche “Snowgrave” dai fan (“Weird Route” è comunque il nome a livello "ufficiale", siccome i file che si riferiscono a questi strani eventi sono definiti così), è una serie di eventi che è possibile intraprendere a partire da quando Noelle si unisce a Kris a metà del capitolo 2. È necessario congelare tutti i nemici attraverso l’incantesimo Iceshock di Noelle, facendo persino backtracking nell'area precedente (dove non avresti motivo di andare altrimenti). Ad ogni fine di battaglia apparirà il messaggio “Noelle became stronger.”, i suoi HP e quelli di Kris iniziano ad aumentare ed eventualmente lo farà anche il loro livello. 
+La weird route chiamata anche “Snowgrave” dai fan (“Weird Route” è comunque il nome a livello "ufficiale", siccome i file che si riferiscono a questi strani eventi sono definiti così), è una serie di eventi che è possibile intraprendere a partire da quando Noelle si unisce a Kris a metà del capitolo 2. È necessario congelare tutti i nemici attraverso l’incantesimo Iceshock di Noelle, facendo persino backtracking nell'area precedente (dove non avresti motivo di andare altrimenti). Ad ogni fine di battaglia apparirà il messaggio “Noelle became stronger.”, il suo livello sale da 1 a 2, e le sue stats come HP, Magia etc aumentano, insieme alle statistiche flavour "Boldness" e "Coldness".
 
-**Nota: a prescindere da tutto questo, il livello nei Dark World sembra essere diverso dal LV/LOVE di UT e il Light World (Dove infatti il LV di Kris rimane sempre 1). Sconfiggendo i nemici con la violenza (solo a partire dal ch2) appare il messaggio “You became stronger” e anche lì gli HP e altre stats aumentao, ma in questa route sembra il focus stia diventando Noelle. Inoltre, il livello nel Dark World aumenta automaticamente nel corso dei capitoli: nel capitolo 2 siamo di Livello 2, alla fine di esso saliamo a livello 3 dove rimarrà così per tutto il capitolo 3, e infine nel ch4 saremo di livello 4.**
+**Nota sui livelli: a prescindere da tutto questo, il livello nei Dark World sembra essere diverso dal LV/LOVE di UT e il Light World (Dove infatti il LV di Kris rimane sempre 1). Sconfiggendo i nemici con la violenza fuori dalla weird route (solo a partire dal ch2) appare il messaggio “You became stronger” e anche lì gli HP e altre stats aumentano, ma in questa route sembra il focus stia diventando Noelle. Inoltre, il livello nel Dark World aumenta automaticamente nel corso dei capitoli: nel capitolo 2 siamo di Livello 2, alla fine di esso saliamo a livello 3 dove rimarrà così per tutto il capitolo 3, e infine nel ch4 saremo di livello 4.**
 
 Una volta che si è diventati abbastanza forti, bisognerà acquistare il FreezeRing da un Addison (uno dei vecchi amici di Spamton). Chiederà se Kris e Noelle stiano insieme, e si potrà rispondere “Siamo solo amici” o “Siamo qualcosa di più”; nel gioco base è una scelta innoqua, ma per continuare questa route diventa obbligatoria la seconda scelta. L’Addison ci offrirà quindi il FreezeRing, al modico prezzo di tutti i nostri soldi + 1. Essendo fisicamente impossibile acquistarlo, tormentiamo e costringiamo Noelle a **procedere** e congelarlo per prendere l’anello gratuitamente. <sup>Vorrei poter fare lo stesso con certi venditori online.<sup>
 
 Scherzi a parte, questi eventi sembrano confusi per la povera ragazza. Lo schermo va a nero e sembra quasi non rendersi conto di quello che compie, come se fosse in una trance. Con l'Addison che scompare nel nulla e la descrizione dell anello ***"A ring with a snowglobe on it. ... is that someone inside?"***, è possibile concludere che l'Addison sia stato in qualche modo congelato e miniaturizzato all'interno di esso.
 
-Questo evento arriva a turbare la ragazza così tanto, che nei momenti successivi arriverà a considerare di fare seriamente male a Kris (e potremo tormentarla ulteriormente facendole realizzare che possiamo leggerle nel pensiero)
+Questo evento arriva a turbare la ragazza così tanto, che nei momenti successivi arriverà a considerare di fare seriamente male a Kris (e la tormeteremo ulteriormente facendole realizzare che possiamo leggerle nel pensiero)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=609&amp;end=656" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Nota interessante: ogni volta che si esegue con successo uno step per proseguire la route, suonerà in maniera ricorrente un certo suono abbastanza minaccioso. Allo stesso modo, è possibile "fallire" questi eventi. Se si avanza senza comprare l'anello, se si sconfigge anche un solo nemico senza congelarlo, o se si fanno certe scelte meno aggressive o altro, suonerà un jingle felice che indica l'uscita permanente dalla route, ecco entrambi i suoni:
@@ -20,16 +20,19 @@ Procedendo a congelare i nemici e forzando Noelle in maniera aggressiva ad aggir
 A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incantesimo fatale chiamato “Snowgrave”; il suo costo è di ben 200 TP, ma l’anello appena acquistato riduce della metà il costo degli incantesimi di ghiaccio, al costo di assorbire in battaglia gli HP di Noelle fino ad un massimo di 55 HP. Dettaglio: che sia una coincidenza o no, "55" in numeri romani si scrive "LV". Al contrario del FreezeRing che ha solo bisogno di essere ottenuto, per **procedere** è obbligatorio far indossare a Noelle il ThornRing, per renderere utilizzabile l'incantesimo Snowgrave contro l’unico ***nemico*** rimasto. Se ne hai voglia, guarda questa bellissima animazione di quel momento: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XFurx0yrHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente inacessibile che: 
+Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente innacessibile che: 
 <details> 
-  <summary>(piccolo spoiler per i capitoli già giocati da Mike nella route normale)</summary>
-Assumeranno un significato particolare, oserei dire ***strano***
+  <summary>(piccolo spoiler per il capitolo 3 già giocato da Mike nella route normale)</summary>
 
-  ![sword alley 1](assets/img/sword_alley.png)
+  Assumeranno un significato particolare, oserei dire ***strano***
 
-![sword alley 2](docs/assets/img/sword_alley_2.png)
 
-![sword alley 3](assets/img/sword_alley_3.png)
+
+<img src="assets/img/sword_alley.png" /> 
+
+<img src="assets/img/sword_alley_2.png" /> 
+
+<img src="assets/img/sword_alley_3.png" /> 
 </details>
 
 
@@ -61,17 +64,6 @@ L'ultima differenza è un dialogo molto impattante nell'ospedale, consiglio viva
 Piccolo appunto finale su quel dialogo: In questa route la preoccupazione principale di Noelle è Kris, che è la prima persona che nota quando finisce di parlare col padre; al contrario nella route normale nota per prima Susie; infine, nel suo ultimo dialogo ci sono diverse interazioni possibili, ad esempio Noelle che nota Kris indossi il suo orologio (se lo equipaggi nel Dark World), ma persino muoverti durante il dialogo, cosa che la fa spaventare tantissimo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZKagCHlTxTs?start=25&amp;end=40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-# ***ELIMINARE QUESTO MESSAGGIO SE SABAKU DECIDE DI FARE LA SNOWGRAVE DAL CH4, SE DECIDE DI RIGIOCARE IL CH3 IN WEIRD ROUTE ELIMINARE SIA QUESTO MESSAGGIO CHE LE DESCRIZIONI DEGLI UNICI CAMBIAMENTI DEL CH3***
-
-Siccome hai deciso di evitare di continuare la route saltando il ch3, ecco le uniche tre differenze che (io e gli altri del gruppo del sito) conosciamo di questo capitolo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FbR-eSwNqiI?start=1&amp;end=183" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-C'è un dialogo di Susie che scherza sul "tryhardare" e di come "finiremo come Berdly continuando così". Kris reagisce piuttosto male nella weird route
-
-![berdly](deltarune_spoiler.png)
-
 
 
 Questo è quanto per quanto riguarda la Weird Route. Ora, **procedi.**
