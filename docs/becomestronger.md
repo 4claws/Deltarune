@@ -28,11 +28,11 @@ Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e i
 
 
 
-<img src="../assets/img/sword_alley.png" width="500" /> 
+<img src="../assets/img/sword_alley.png" width="700" /> 
 
 <img src="../assets/img/sword_alley_2.png" width="700" /> 
 
-<img src="../assets/img/sword_alley_3.png" width="900" /> 
+<img src="../assets/img/sword_alley_3.png" width="700" /> 
 </details>
 
 Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route
