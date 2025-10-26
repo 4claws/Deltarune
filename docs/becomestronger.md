@@ -25,12 +25,15 @@ Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e i
   <summary>(piccolo spoiler per il capitolo 3 già giocato da Mike nella route normale)</summary>
 
   Assumerà un significato particolare, oserei dire ***strano***
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
 <img src="../assets/img/sword_alley.png" width="700" /> 
+‎ ‎ 
 
 <img src="../assets/img/sword_alley_2.png" width="700" /> 
+‎ ‎ ‎ 
 
 <img src="../assets/img/sword_alley_3.png" width="700" /> 
 </details>
