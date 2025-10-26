@@ -1,4 +1,20 @@
 
+# AA
+
+
+|  |  |  |
+| - | :-: | - |
+| | ![immagine 1](assets/img/Profezia_1_1.png) | |
+| Once upon a time, a LEGEND | | Tanto tempo fa, una LEGGENDA |
+| was whispered among shadows. | | era sussurata fra le ombre | 
+| | <img src="../assets/img/Profezia_1_2.png" style="width: 500px"/> | |
+| It was a legend of HOPE. | | Era una LEGGENDA di SPERANZA. |
+| It was a LEGEND of DREAMS. | | Era una LEGGENDA di SOGNI. | 
+
+
+
+
+
 
 ![image](https://github.com/4claws/Deltarune/blob/2e43b12a75a3a10fab800b09a96c502da291dda5/old/profezia/cap%201/1.png)
     

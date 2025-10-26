@@ -194,3 +194,9 @@ body {
         filter: drop-shadow(0 0 0.1rem red);
     }
 }
+table th {
+    border: 0px;
+}
+table td {
+    border: 0px;
+}
