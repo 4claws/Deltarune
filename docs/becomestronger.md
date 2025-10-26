@@ -28,11 +28,11 @@ Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e i
 
 
 
-<img src="assets/img/sword_alley.png" /> 
+<img src="../assets/img/sword_alley.png" /> 
 
-<img src="assets/img/sword_alley_2.png" /> 
+<img src="../assets/img/sword_alley_2.png" /> 
 
-<img src="assets/img/sword_alley_3.png" /> 
+<img src="../assets/img/sword_alley_3.png" /> 
 </details>
 
 
