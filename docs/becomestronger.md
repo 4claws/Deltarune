@@ -6,37 +6,40 @@ La weird route chiamata anche “Snowgrave” dai fan (“Weird Route” è comu
 
 Una volta che si è diventati abbastanza forti, bisognerà acquistare il FreezeRing da un Addison (uno dei vecchi amici di Spamton). Chiederà se Kris e Noelle stiano insieme, e si potrà rispondere “Siamo solo amici” o “Siamo qualcosa di più”; nel gioco base è una scelta innoqua, ma per continuare questa route diventa obbligatoria la seconda scelta. L’Addison ci offrirà quindi il FreezeRing, al modico prezzo di tutti i nostri soldi + 1. Essendo fisicamente impossibile acquistarlo, tormentiamo e costringiamo Noelle a **procedere** e congelarlo per prendere l’anello gratuitamente. <sup>Vorrei poter fare lo stesso con certi venditori online.<sup>
 
-Scherzi a parte, questi eventi sembrano confusi per la povera ragazza. Lo schermo va a nero e sembra quasi non rendersi conto di quello che compie, come se fosse in una trance. Con l'Addison che scompare nel nulla e la descrizione dell anello ***"A ring with a snowglobe on it. ... is that someone inside?"***, è possibile concludere che l'Addison sia stato in qualche modo congelato e miniaturizzato all'interno di esso.
+Scherzi a parte, questi eventi sembrano confusi per la povera ragazza. Lo schermo va a nero e sembra quasi non rendersi conto di quello che compie, come se fosse in una trance. Con l'Addison che scompare nel nulla e la descrizione dell'anello che recita ***"A ring with a snowglobe on it. ... is that someone inside?"***, è possibile concludere che l'Addison sia stato in qualche modo congelato e miniaturizzato all'interno di esso.
 
-Questo evento arriva a turbare la ragazza così tanto, che nei momenti successivi arriverà a considerare di fare seriamente male a Kris (e la tormeteremo ulteriormente facendole realizzare che possiamo leggerle nel pensiero)
+Questo evento arriva a turbare la ragazza così tanto, che nei momenti successivi arriverà a considerare di fare seriamente male a Kris (e la tormenteremo ulteriormente facendole realizzare che possiamo leggerle nel pensiero)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=609&amp;end=656" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Nota interessante: ogni volta che si esegue con successo uno step per proseguire la route, suonerà in maniera ricorrente un certo suono abbastanza minaccioso. Allo stesso modo, è possibile "fallire" questi eventi. Se si avanza senza comprare l'anello, se si sconfigge anche un solo nemico senza congelarlo, o se si fanno certe scelte meno aggressive o altro, suonerà un jingle felice che indica l'uscita permanente dalla route, ecco entrambi i suoni:
+Nota relativamente importante: ogni volta che si esegue con successo uno step per proseguire la route, suonerà in maniera ricorrente un certo suono abbastanza minaccioso. Allo stesso modo, è possibile "fallire" questi eventi. Se si avanza senza comprare l'anello, se si sconfigge anche un solo nemico senza congelarlo, o se si fanno certe scelte meno aggressive o altro, suonerà un jingle felice che indica l'uscita permanente dalla route, ecco entrambi i suoni:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tyGHbmlMOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Procedendo a congelare i nemici e forzando Noelle in maniera aggressiva ad aggirare i puzzle per noi, congelandoli al posto di risolverli, incontreremo anche Spamton nascosto in un cassonetto della spazzatura. Anche lui ha un anello da offrirci, ma prima di farlo dobbiamo congelare tutti i nemici presenti nella mappa. In maniera reminescente alla genocide di UT, Spamton ci specificherà quanti nemici sono rimasti. Una volta congelati tutti, potremo acquistare il ThornRing al prezzo di D$1997.
+Procedendo a congelare i nemici e forzando Noelle in maniera aggressiva ad aggirare i puzzle per noi, congelandoli al posto di risolverli, incontreremo anche Spamton nascosto in un cassonetto della spazzatura. Anche lui ha un anello da offrirci, ma prima di vendercelo dobbiamo congelare tutti i nemici presenti nella mappa. In maniera reminescente alla genocide di UT, Spamton ci specificherà quanti nemici sono rimasti. Una volta congelati tutti, potremo acquistare il ThornRing al prezzo di D$1997.
 
 A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incantesimo fatale chiamato “Snowgrave”; il suo costo è di ben 200 TP, ma l’anello appena acquistato riduce della metà il costo degli incantesimi di ghiaccio, al costo di assorbire in battaglia gli HP di Noelle fino ad un massimo di 55 HP. Dettaglio: che sia una coincidenza o no, "55" in numeri romani si scrive "LV". Al contrario del FreezeRing che ha solo bisogno di essere ottenuto, per **procedere** è obbligatorio far indossare a Noelle il ThornRing, per renderere utilizzabile l'incantesimo Snowgrave contro l’unico ***nemico*** rimasto. Se ne hai voglia, guarda questa bellissima animazione di quel momento: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XFurx0yrHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un corridoio normalmente innacessibile che: 
+Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un vicolo normalmente innacessibile che nel ch3: 
 <details> 
   <summary>(piccolo spoiler per il capitolo 3 già giocato da Mike nella route normale)</summary>
 
-  Assumeranno un significato particolare, oserei dire ***strano***
+  Assumerà un significato particolare, oserei dire ***strano***
 
 
 
-<img src="../assets/img/sword_alley.png" /> 
+<img src="../assets/img/sword_alley.png" width="500" /> 
 
-<img src="../assets/img/sword_alley_2.png" /> 
+<img src="../assets/img/sword_alley_2.png" width="700" /> 
 
-<img src="../assets/img/sword_alley_3.png" /> 
+<img src="../assets/img/sword_alley_3.png" width="900" /> 
 </details>
 
+Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route
 
-Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag. Nella scena dove Susie visita in privato Noelle, stavolta noi giocatori non vediamo la scena, senza che neanche ci sia offerta la scelta, cosa che sciocca parecchio Ralsei
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TSSLNcDpng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag. Nella scena dove Susie visita in privato Noelle, stavolta noi giocatori non vediamo il loro incontro, senza che neanche ci sia offerta la scelta, cosa che scuote parecchio Ralsei
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=2119&amp;end=2158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
