@@ -36,3 +36,17 @@ quello di prima era un errore
 
 Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fipV6YES6BU?si=q2UfllWtIvMuYKuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **QUASI NON A CASO**
+La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo.
+https://imgur.com/a/xc2l1ni
+
+. **Mantle**
+Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia, ma è comunque possibile vedere che originariamente il nome fosse in maniera molto probabile "Mantle".
+https://imgur.com/a/tYkoeXk
+
+.**Il Sentiero Ghiacciato**
+  Durante la board 2, è possibile provare a dirigersi verso i ghiacciai dell'Ice Palace. Se Tenna è presente, questo impedirà al party di proseguire, "censurerà" la scena e bloccherà l'accesso. Se ci si va in sua assenza sarà invece possibile raggiungere quel luogo e il party commenterà la cosa.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wptBrUqnyIc?si=3uXbjlqyBa5tq7mi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  
