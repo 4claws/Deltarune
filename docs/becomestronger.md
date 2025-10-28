@@ -23,19 +23,12 @@ A questo punto Noelle è diventata abbastanza forte da aver sbloccato un incante
 Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e irrevocabile. Attraversiamo un vicolo normalmente innacessibile che nel ch3: 
 <details> 
   <summary>(piccolo spoiler per il capitolo 3 già giocato da Mike nella route normale)</summary>
+  <p>Assumerà un significato particolare, oserei dire <b>Strano</b></p>
 
-  Assumerà un significato particolare, oserei dire ***strano***
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-
-
-<img src="../assets/img/sword_alley.png" width="700" /> 
-‎ ‎ 
-
-<img src="../assets/img/sword_alley_2.png" width="700" /> 
-‎ ‎ ‎ 
-
-<img src="../assets/img/sword_alley_3.png" width="700" /> 
+  <img src="../assets/img/sword_alley.png" width="700" /> <br/>
+  <img src="../assets/img/sword_alley_2.png" width="700" /> <br/>
+  <img src="../assets/img/sword_alley_3.png" width="700" /> <br/>
+  </summary>
 </details>
 
 Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route
