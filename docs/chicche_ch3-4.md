@@ -32,16 +32,26 @@ Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
 
 . **QUASI NON A CASO**
 
-La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo.
+<div style="display:flex; align-items:center;">
+  <img 
+    src="https://github.com/user-attachments/assets/a2281ca5-bff9-4b1e-a8f5-9379cbefba7c" 
+    alt="img"
+    style="width:300px; margin-right:15px;"
+  >
+  <p>
+    La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo.
+  </p>
+</div>
 
-<img width="942" height="790" alt="image" src="https://github.com/user-attachments/assets/a2281ca5-bff9-4b1e-a8f5-9379cbefba7c" />
 
 . **Mantle**
 
 Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia, ma è comunque possibile vedere che originariamente il nome fosse in maniera molto probabile "Mantle".
 https://imgur.com/a/tYkoeXk
-<img width="955" height="715" alt="image" src="https://github.com/user-attachments/assets/12d3f44e-fca8-42ff-b398-8259e5f48823" />
-<img width="952" height="716" alt="image" src="https://github.com/user-attachments/assets/3035df63-3fcf-498c-96c9-9c8343748216" />
+
+|  |  |
+|-----------|------------|
+| <img  alt="image" src="https://github.com/user-attachments/assets/12d3f44e-fca8-42ff-b398-8259e5f48823" />  | <img  alt="image" src="https://github.com/user-attachments/assets/3035df63-3fcf-498c-96c9-9c8343748216" />|
 
 .**Il Sentiero Ghiacciato**
 
