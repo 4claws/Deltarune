@@ -33,9 +33,10 @@ Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
 . **QUASI NON A CASO**
 
 
-| Immagine | Testo |
+|  |  |
 |---------|-------|
-| src="https://github.com/user-attachments/assets/a2281ca5-bff9-4b1e-a8f5-9379cbefba7c"  | Questo testo è accanto all'immagine |
+| <img width="943" height="787" alt="image" src="https://github.com/user-attachments/assets/b536fd86-dc17-4c77-9789-046b6c182c86" />
+  | la ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo |
 
 . **MANTLE**
 
