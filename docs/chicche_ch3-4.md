@@ -60,7 +60,7 @@ Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia
 
 . **SUSIE E RALSEI NEL CORRIDOIO DELLE TV**
   
-Qui c'è un dialogo specifico per la weird route, solo se dici a Ralsei che andrai al festival con Noelle (probabile che lo faremo vedere a Sab in live)
+Qui c'è un dialogo specifico per la weird route, solo se dici a Ralsei che andrai al festival con Noelle.
   
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8gIMStHSf00?si=zO-z3DKMOmluDnUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
