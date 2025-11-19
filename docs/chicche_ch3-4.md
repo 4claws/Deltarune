@@ -35,7 +35,7 @@ Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
 
 |  |  |
 |---------|-------|
-| <img width="943" height="787" alt="image" src="https://github.com/user-attachments/assets/b536fd86-dc17-4c77-9789-046b6c182c86" />
+| <img  alt="image" src="https://github.com/user-attachments/assets/b536fd86-dc17-4c77-9789-046b6c182c86" />
   | la ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo |
 
 . **MANTLE**
@@ -75,7 +75,7 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 . **IL SEGRETO DELLE RENNE**
 
 All'interno della Sword Route sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde lo sprite delle renne si chiama  "toriel" nel codice.
-src="https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/"
+https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/
 
 . **ATTACCARE KRIS E SUSIE CON MINI-KRIS** 
 
@@ -103,7 +103,7 @@ Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio specia
 
 Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partie dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
 
-src="https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/"
+https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/
 
-src="https://toby.fangamer.com/newsletters/summer23/"
+https://toby.fangamer.com/newsletters/summer23/
 
