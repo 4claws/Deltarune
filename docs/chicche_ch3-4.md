@@ -1,11 +1,4 @@
-test test
-quello di prima era un errore
 
-<details> 
-  <summary>(avviso spoiler)</summary>
-  <img src="../assets/img/kris_wiki.png" /> 
-
-</details>
 
 #Chicche e Secreti#
 
@@ -74,7 +67,7 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 **Il segreto delle renne**
 
 All'interno della Sword Route sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde lo sprite delle renne si chiama  "toriel" nel codice.
-https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/
+src="https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/"
 
 **Attaccare Kris e Susie con Mini-Kris** 
 
@@ -102,11 +95,7 @@ Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio specia
 
 Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partie dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
 
-https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/
+src="https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/"
 
-https://toby.fangamer.com/newsletters/summer23/
-
-**design originale di tenna a formica**
-blabla design, trivia divertente il  "culo" delle formiche si chiama "Gaster"
-https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Ffirst-drawings-of-tenna-via-toby-fox-v0-qsrcxoxlijef1.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D3dad07c8bbcdc4b1a4c39b4cd7c5ae47e52b8733
+src="https://toby.fangamer.com/newsletters/summer23/"
 
