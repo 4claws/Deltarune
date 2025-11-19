@@ -32,22 +32,15 @@ Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
 
 . **QUASI NON A CASO**
 
-<div style="display:flex; align-items:center;">
-  <img 
-    src="https://github.com/user-attachments/assets/a2281ca5-bff9-4b1e-a8f5-9379cbefba7c" 
-    alt="img"
-    style="width:300px; margin-right:15px;"
-  >
-  <p>
-    La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo.
-  </p>
-</div>
 
+| Immagine | Testo |
+|---------|-------|
+| src="https://github.com/user-attachments/assets/a2281ca5-bff9-4b1e-a8f5-9379cbefba7c"  | Questo testo è accanto all'immagine |
 
 . **Mantle**
 
 Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia, ma è comunque possibile vedere che originariamente il nome fosse in maniera molto probabile "Mantle".
-https://imgur.com/a/tYkoeXk
+
 
 |  |  |
 |-----------|------------|
