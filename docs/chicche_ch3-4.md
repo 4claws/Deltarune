@@ -103,7 +103,44 @@ Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio specia
 
 Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partie dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
 
-(https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
+[reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
-(https://toby.fangamer.com/newsletters/summer23/)
+[newsletter](https://toby.fangamer.com/newsletters/summer23/)
+
+
+##CAPITOLO 4##
+
+. **BERDLY PERDE IL BRACCIO**
+
+Nel capitolo 2, se si sconfigge Queen con la violenza (O anche se si attacca Berdly in entrambe le due battaglie contro di lui e poi si usano gli ACT contro Queen), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale.
+
+. **DIALOGO ALTERNATIVO DI BERDLY**
+
+Quando prendi il telefono di Noelle per ascoltare la chiamata di Berdly, hai due scelte, ecco quella che MIke non ha preso
+
+. **LA "WRONG NUMBER SONG"**
+
+A proposito della chiamata con Berdly, l'opzione di "cantare la canzone del numero sbagliato" è un riferimento ad un possibile evento randomico in Undertale dettato dal FUN Value che è capitato proprio a Mike nella genocide insieme a Cydo (e tra l'altro è meno raro di quanto Sabaku fosse stato portato a credere all'epoca, è letteralmente il più comune di tutti i FUN event con una percentuale del 38%). Se questo non è destino...
+
+. **LA CAMERA DA LETTO DI CAROL E RUDY**
+
+Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, invesigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
+
+. **YOUR NOT TAKING TOO LONG**
+
+La battaglia contro Jackenstein e le sue apparizioni non sono su un timer, ma si attivano una volta che raggiungi certi punti della mappa.
+
+. **ORGANO AZZURRO- TUTTI I "PEZZI"**
+ Nell'organo della story è possibile suonare alcuni pezzi "familiari"
+
+. **DIALOGHI "SEGRETI" DI GERSON**
+
+Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti (che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale) e affrontare degli attacchi extra particolarmente difficili.
+
+. **LE DONAZIONI DELLA FONTANA**
+
+Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
+
+
+. 
 
