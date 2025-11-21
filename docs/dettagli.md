@@ -59,6 +59,25 @@ Interessante notare come nascosti nel codice di gioco di entrambi i capitoli ci 
 
 Si teorizza che si tratti proprio Dess, che in qualche modo si è persa nei file di gioco e questo è il suo unico modo di comunicare. Ci sono forse altri messaggi nei capitoli che stai per giocare? Lo scoprirai nel documento di chicche post capitoli, hehehe.
 
+## GASTER ##
+
+Sarai familiare con Gaster, una strana entità di cui conosciamo solo indizi sparsi nel tempo e nello spazio, quindi facciamo solo lista abbastanza complete degli elementi che mostrano la sua esistenza e importanza per DT:
+
+. I dialoghi dei suoi “followers”. Altri NPC segreti grigi e “strani” che non parlano di Gaster, come Monster Kid nel video linkato, sono chiamati Goner; è presumibile che anche i “follower” siano dei goner, e come si chiama nei file il nostro vessel che creiamo a inizio DT e viene scartato? “Goner”. Da qui in poi mi riferirò alla creazione del vessel come “Goner Maker”.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2g6AmJ4u4SM?si=Yk3myZwr5fn1Ym1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. Lo sprite del “Mystery Man” che appare anche nel link del video precedente.
+<img width="800" height="666" alt="image" src="https://github.com/user-attachments/assets/a6db289a-34d5-42dc-9a81-f8f91593cf16" />
+
+
+Si presume che sia Gaster perché appare solo se il FUN value (la variabile che decide gli eventi randomici) di UT è 66; “666” ripetuto sono le sue statistiche di battaglia inutilizzate e anche il “typeface value” del suo font nella Entry 17 (La Voce Misteriosa a inizio DT ha lo stesso value). 
+<img width="1321" height="438" alt="image" src="https://github.com/user-attachments/assets/34bb118c-9bd0-48d6-840d-9343540529ba" />
+
+
+Non solo, il suono di quando scompare quando ci interagisci, se suonato al contrario e rallentato è molto simile al suo tema musicale. A proposito:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1FKARE9omc?si=utb5bseMULXJNOtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
