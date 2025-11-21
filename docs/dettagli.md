@@ -80,6 +80,46 @@ Non solo, il suono di quando scompare quando ci interagisci, se suonato al contr
 
 
 
+. Gaster’s theme. Nella stanza del sound test è possibile sentire questa traccia intitolata in quel modo. Il nome del file è “mus_st_him” e siccome il tema che suona durante il “Goner Maker” in DT si chiama “Another Him” è molto probabile che sia un’altra prova che la Voce Misteriosa si tratti di Gaster. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n0dgaYe2LZw?si=ZTdgTYLM364iqnWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. Un noto youtuber (nella community DT intendo)  di teorie ben scritte, Andrew Cunningham, ha fatto un’analisi musicale approfondita di pressoché tutte le canzoni del gioco e sostiene che il tema originale di Gaster appaia per davvero in alcune canzoni, specificamente nel tema di battaglia di Jevil e nell iconico “Freedom leitmotiv”. Una breve clip del video in questione, che mostra che eccetto per una singola nota aggiuntiva, il leitmotiv è identico al tema di Gaster; entrambi i boss sono stati presumibilmente visitati dal Dottore, quindi è molto probabile sia vero.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H89ZT0jjiO8?si=mOyXRIw95djRIqUn&amp;start=1912" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. Il sito ufficiale di DT (deltarune.com), possiede due salvataggi sulla wayback machine nel 2015 pochi mesi dopo la release di UT e l’altro nel 2016. [Il primo è un messaggio in wingdings](https://web.archive.org/web/20151209013205/http://www.deltarune.com/him.png)  quasi illeggibile senza alzare la luminosità che recita “THIS NEXT EXPERIMENT SEEMS VERY VERY INTERESTING” (stessa frase presente nella entry 17, che appare nel prossimo punto), il [secondo](https://web.archive.org/web/20160817183540/http://www.deltarune.com/) è un altro messaggio ancora più buio sempre in wingdings che recita “THREE HEROES APPEAR TO BANISH THE ANGELS HEAVEN”, parte della profezia. Considerando che solo Toby e chi lavora con lui potevano sapere di DT, è molto probabile che sia stato lui stesso a fare questi backup. Questo perché come probabilmente saprai,  aveva in mente DT da ben prima di UT, il quale è quasi considerabile “solo” un esercizio di stile, e ha anche parlato di come abbia avuto un sogno febbrile sul finale di DT. Ne approfitto per ricordare che Toby sostiene che DT “avrà un solo finale”
+
+. Entry 17, dark, darker, yet darker. Messaggio segreto recuperabile smanettando con i file in UT ed entrando nella stanza “room_gaster”. Qui è possibile udire lo stesso suono che suona quando proviamo a usare il cellulare in un Dark World. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg3dUMeXV_g?si=rD_P-wHWAnB-9xLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. Velocizzando del 666% il suono che si sente vicino al bunker in DT, si sente ancora quel suono inquietante della Entry 17. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPQYXiUEpPk?si=8bHXr6Eeo451RfOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Ricordiamo che nel ch2 c’è un’interessante scena riguardo questo bunker, e che questo suono si sente quando si usa il cellulare in un Dark World venendo descritto come “Garbage Noise”.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DZKFnsLsukM?si=GMHbhYVkzOcA7HUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. La compagnia di Toby che detiene il trademark di UT e DT si chiama [“Royal Sciences LLC”](https://opencorporates.com/companies/us_nh/733190), e qui dico l’ovvio per i distratti ma il titolo di Gaster in UT era “Royal scientist”. Questo, il modo in cui parla di DT come “esperimento”, i suoi messaggi durante il Goner Maker e quando fai un game over (solo nel ch1), il fatto che provando ad usare il nome “Gaster” in entrambi i giochi li faccia resettare, i suoi messaggi sul sito, i suoi tweet alla release dei ch 1 e 2; tutto questo fa teorizzare che Gaster sia una sorta di “Dungeon Master” per i 2 giochi, o almeno DT.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_j1avzXu3DY?si=klpq5jjkbBYDGJaa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+. “Beware of the man who speaks in hands” è un messaggio criptico che ci comunica il gondoliere del fast travel di UT. Il font di Gaster usa delle mani, quindi si presume parli di lui.
+
+<img width="1163" height="840" alt="image" src="https://github.com/user-attachments/assets/9151db65-8cf1-4ff4-8491-9e2a0673835f" />
+
+. I cannoni che sans usa nella sua battaglia nella genocide, sono chiamati nei file “gaster_blaster”. Questo e il fatto che lui e suo fratello siano gli unici altri personaggi che utilizzano font specifici e strani, indica qualche tipo di collegamento. (C’è anche il fatto che il una stanza segreta della casa di sans in UT ci sia un marchingegno misterioso coperto da un telo e delle blueprint incomprensibili, più una foto con persone non familiari con la scritta “Don't forget”)
+
+<img width="768" height="781" alt="image" src="https://github.com/user-attachments/assets/fad8e5d2-89db-4662-b5ab-5a6e3d382614" />
+
+. Questa potrebbe essere una coincidenza, ma non sarebbe la prima volta che queste due opere giochino con gli anagrammi: “Gaster” è un anagramma di “Stager”, cioè una persona che prepara uno spettacolo, un evento o simili. Darebbe credito alla teoria che Gaster sia il “Dungeon master”.
+
+. I (probabilmente) suoi tweet prima delle release dei capitoli. 24 ore prima della release del ch1, l’account twitter di Undertale [è stato “hackerato”](https://doge-w-a-bloge.tumblr.com/post/183923569345/deltarune-release-tweets-presented-in), con un’immagine di profilo nera e un nome oscurato, passate quelle ore ci invita in Deltarune, che all’epoca era ancora un programma misterioso chiamato “Survey_Program”. Successivamente avvenne una cosa simile per il ch2. Come prevedibile, è avvenuto lo stesso per i ch3-4.
+
+
+
 
 
 
