@@ -196,10 +196,47 @@ Perché ne stiamo parlando? Perché nel corso degli anni Toby ha suggerito una s
 </p>
 </details>
 
- 
+<details>
+  <summary>Soluzione</summary>
+  <p> Clicca ripetutamente sulla sedia fino a che non succede qualcosa. Se non lo hai fatto, fai specialmente caso al nome della scheda di questa pagina.
+</p>
+</details>
 
+Poi c’è quest’altro, Nota: quando appare una finestra (nel senso letterale, non in quello informatico), cliccaci sopra e poi tieni da parte quella pagina tornando indietro alla pagina dei gatti: [https://deltarune.com/rarecats/](https://deltarune.com/rarecats/)
 
+<details>
+  <summary>Quello che devi fare è abbastanza semplice:</summary>
+  <p> clicca su un numero abbastanza grande di gatti, ci vogliono circa 3 minuti, ma ne vale la pena.
+</p>
+</details>
 
+Che strana entità. Non sappiamo nient’altro su di essa eccetto che per queste spaventose apparizioni, quindi teniamola a mente. Ora torniamo a quella pagina della finestra della nota. Dovresti vedere uno strano corridoio di finestre.
+Cosa succede quando clicchi sopra una di esse? 
+<details>
+  <summary>Fai caso al:</summary>
+  <p>  nome dei link.
+</p>
+</details>
+
+<details>
+  <summary>Indizio 1:</summary>
+  <p> Ogni finestra ha un nome del link diverso e disordinato
+</p>
+</details>
+
+<details>
+  <summary>Indizio 2:</summary>
+  <p> Forse la finestra corretta ha una differenza…
+</p>
+</details>
+
+<details>
+  <summary>Soluzione</summary>
+  <p> La finestra corretta ha “l’uovo” nella parte superiore capovolto, si trova a circa nel terzo quarto della barra scorrevole orizzontale.
+</p>
+</details>
+
+Per ora questa roba non ha significato, ma sono un po’ troppo interessanti da non tenere a mente, non trovi?
 
 
 
