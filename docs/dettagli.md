@@ -116,8 +116,55 @@ Ricordiamo che nel ch2 c’è un’interessante scena riguardo questo bunker, e 
 
 . Questa potrebbe essere una coincidenza, ma non sarebbe la prima volta che queste due opere giochino con gli anagrammi: “Gaster” è un anagramma di “Stager”, cioè una persona che prepara uno spettacolo, un evento o simili. Darebbe credito alla teoria che Gaster sia il “Dungeon master”.
 
-. I (probabilmente) suoi tweet prima delle release dei capitoli. 24 ore prima della release del ch1, l’account twitter di Undertale [è stato “hackerato”](https://doge-w-a-bloge.tumblr.com/post/183923569345/deltarune-release-tweets-presented-in), con un’immagine di profilo nera e un nome oscurato, passate quelle ore ci invita in Deltarune, che all’epoca era ancora un programma misterioso chiamato “Survey_Program”. Successivamente avvenne una cosa simile per il ch2. Come prevedibile, è avvenuto lo stesso per i ch3-4.
+. I (probabilmente) suoi tweet prima delle release dei capitoli. 24 ore prima della release del ch1, l’account twitter di Undertale [è stato “hackerato”](https://doge-w-a-bloge.tumblr.com/post/183923569345/deltarune-release-tweets-presented-in), con un’immagine di profilo nera e un nome oscurato, passate quelle ore ci invita in Deltarune, che all’epoca era ancora un programma misterioso chiamato “Survey_Program”. Successivamente avvenne una cosa simile per il [ch2](https://www.reddit.com/r/Deltarune/comments/w78e97/gaster_tweets_prechapter_2_release/). Come prevedibile, è avvenuto lo stesso per i [ch3-4](https://imgur.com/a/EfXzP3c).
 
+
+Alla fine della fiera, Gaster è un’entità quasi esterna ai giochi. Tutti questi indizi, sono appunto solo indizi. È ovvio che se nei futuri capitoli dovesse diventare rilevante in maniera diretta e avere un ruolo importante, la sua esistenza dovrebbe stare in piedi con il gioco e basta senza che sia necessario sapere tutto questo, ma è comunque interessante essere informati su tutti questi dettagli.
+
+## Non troppo influente, non troppo ininfluente ##
+
+A questo punto parliamo di qualcosa che si teorizza sia legato a lui, le uova. Ricordi come nel Ch1 e nel Ch2 ci siamo due misteriose uova ottenibili facendo la strana azione di andare avanti e indietro fra 2 stanze in cui si sente resettare la musica dell’area? Il ch2 presenta un ulteriore indizio con un disegno dell’albero in cui si nasconde l’Uomo e la scritta “There’s a room in between”.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDSzHBLGloI?si=Qo9CCx71EqFvz8bX&amp;start=7214" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DyF7mR2glpI?si=3XDhtvneMWh1_xNy&amp;start=1835" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+La descrizione delle uova recita “Not too important, not too unimportant”, non succede nulla se non un particolare (e unico) suono quando si prova ad usarle, nel light world si possono “depositare” in alcuni luoghi e viene tenuto conto di quanto tu ne abbia ottenute in maniera simile ai ShadowCrystal (interessante come rimangano uova sia nel dark world che nel light world).
+
+Mi raccomando, cerca di trovarle nei prossimi capitoli. Dopotutto, non sono influenti, ma neanche troppo ininfluenti… In ogni caso chiediamoci, l’uomo dietro l’albero che ti fa questo strano dono si tratta di Gaster? Beh… probabilmente no. Abbiamo due indizi a riguardo, uno di questi rivelato con i trofei rilasciati con i Ch3-4 per la versione PlayStation (niente spoiler ovviamente).
+
+Il Goner Maker ha nel suo codice di gioco delle variabili chiamate “Egg” che servono ad indicare degli errori. Se il codice fallisce a realizzare una variabile corretta, “Egg” è una delle possibili variabili di errore. 
+
+<img width="1048" height="935" alt="image" src="https://github.com/user-attachments/assets/57629eff-be6d-4cbc-8bf1-2633d861ebd0" />
+
+Il secondo indizio molto più importante, è che se completi un capitolo SENZA ottenere l’uovo, ottieni un trofeo che dice “Complete Chapter X without ISSUE”; al contrario se lo ottieni questo trofeo non compare.
+
+<img width="1627" height="571" alt="image" src="https://github.com/user-attachments/assets/6025caf8-b849-4178-b467-3d56090f7d18" />
+
+
+
+Se diamo credito alla teoria che Gaster sia una sorta di Dungeon Master, sembra considerare le uova come un problema, e se ci pensi ha senso perché il modo per ottenerle è praticamente forzare un glitch. Personalmente credo che non sia da escludere si possa trattare comunque di Gaster, magari è un frammento della sua personalità o essenza, perché dopotutto si è “frantumato nel tempo e nello spazio”, magari è una parte di questo scienziato che ha deciso di rigettare.
+Ehi ma a proposito di Issue, Susie è un suo anagramma, e lei sembra impedirci di giocare il gioco come inteso togliendoci alcune scelte, hmmm…
+
+## Reminder finali di altre cose opzionali ma potenzialmente importanti ##
+
+. I dialoghi di Onion-San, ch1 e ch2. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/be-6nrkR3N0?si=gARA6jH17a0rq8DH&amp;start=7896" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSNJuVZ-YYY?si=3A-UTju0l34zsmpb&amp;start=3921" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Il secondo è particolarmente criptico, forse è collegato a questo?
+ <img width="867" height="636" alt="image" src="https://github.com/user-attachments/assets/db1a3d70-08ed-4dcc-b014-07a294ef649b" />
+
+. I libri del secondo piano della biblioteca. Un npc molto bizzarro che è la forma “normale” di uno dei follower di Gaster ci invita a leggerli nel ch1, ma impedendoci di farlo fino al ch2 dove comunque ci permette di leggerne solo due. 
+<img width="302" height="580" alt="image" src="https://github.com/user-attachments/assets/34d5b16f-9c76-4160-b1e7-4918c80a9f2f" />
+
+Il nome dello sprite di quel NPC è “spr_normalnpc”, quindi è stato denominato appunto Normal NPC. Niente di sospetto, è tutto normale.
+
+<img width="677" height="892" alt="image" src="https://github.com/user-attachments/assets/1970532f-f62a-4870-953d-852078e638cb" />
+
+Ho mostrato quello sull’umanità nella sezione di Kris, quindi ecco il secondo libro sulle ANIME.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D93hoeX0Qlo?si=rOZqGN0AW97N7HcM&amp;start=4866" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
