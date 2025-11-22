@@ -166,6 +166,17 @@ Il nome dello sprite di quel NPC è “spr_normalnpc”, quindi è stato denomin
 Ho mostrato quello sull’umanità nella sezione di Kris, quindi ecco il secondo libro sulle ANIME.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D93hoeX0Qlo?si=rOZqGN0AW97N7HcM&amp;start=4866" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+.  star                                                   walker. Se non recuperi gli incontri con questo personaggio leggendario e vitale, si può buttare tutta la run.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sRvtKHqpsiU?si=9lgnazf3LcwvfzM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. [Noelle è possibilmente l’Angelo della profezia](https://imgur.com/a/TqPKnPw)
+
+. I dialoghi di Alvin, il prete della città, nel secondo capitolo.
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/iAMjd6AxJBQ?si=7Q_3nmK0RtIWtYU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ . Due paroline su Sans: è il solito comico che fa battute meta. Si è “fatto amica” Toriel, nel  ch1 ci invita a giocare con “suo fratello” il giorno dopo, ma nel ch2 non è possibile, invitandoci ad aspettare “un po’ di più, un giorno, o forse 2 anni…”, una chiara battuta sull’attesa dei capitoli. Forse il capitolo 3 è la volta buona per Papyrus…?
+
+ 
 
 
 
