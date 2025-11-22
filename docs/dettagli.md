@@ -176,6 +176,26 @@ Ho mostrato quello sull’umanità nella sezione di Kris, quindi ecco il secondo
 
  . Due paroline su Sans: è il solito comico che fa battute meta. Si è “fatto amica” Toriel, nel  ch1 ci invita a giocare con “suo fratello” il giorno dopo, ma nel ch2 non è possibile, invitandoci ad aspettare “un po’ di più, un giorno, o forse 2 anni…”, una chiara battuta sull’attesa dei capitoli. Forse il capitolo 3 è la volta buona per Papyrus…?
 
+ ## Un AMICO dentro me al gioco e gli Sweepstakes ##
+
+ È ora di parlare di chicche perlopiù meta. C’è una terza entità misteriosa oltre che a Gaster e all’uomo delle uova (In realtà ce ne sarebbe una quarta, Everyman, ma dato che sembra più un easter egg lo menzioneremo più in là nel documento di chicche dei ch3-4). È nel capitolo 2 e appare per pochissimi istanti: nelle profondità della magione di Queen, vediamo questo strano sorriso inquietante con occhi rosa e gialli (come gli occhiali di Spamton?!). Tutto quello che sappiamo su di essa è che nei file si chiama “IMAGE_FRIEND” e si trova nella categoria dei “DEVICE”. 
+
+ <img width="1192" height="666" alt="image" src="https://github.com/user-attachments/assets/dd479f05-b96b-4893-bc67-eaec8dad3873" />
+
+ I device sono categorizzati come alcune cose che connettono meccanicamente il giocatore a Deltarune, come il menù dei salvataggi. Se sei curioso, ecco uno screen dell’aspetto originale del menù di caricamento menzionato alla fine di quel post. (credo sia cambiato leggermente a livello visivo con le successive release, ma non ho trovato altri screen)
+
+<img width="938" height="342" alt="image" src="https://github.com/user-attachments/assets/e9dd25ee-e6d7-4bc8-8786-e3dfac2559fb" />
+
+Perché ne stiamo parlando? Perché nel corso degli anni Toby ha suggerito una sua possibile maggiore rilevanza in futuro. Durante gli Spamton Sweepstakes (una campagna di beneficenza a tema Deltarune) Toby ha incluso e nascosto diversi link che portano a curiosità o teaser per i ch3-4. Non vedrai la maggior parte di questi teaser perché non devi mica aspettare anni per vedere a cosa porteranno o cosa significano, ma ci sono comunque alcune curiosità e implicazioni interessanti che sarebbe meglio tu veda.
+
+[deltarune.com/secret](https://deltarune.com/secret/)
+
+<details>
+  <summary>Indizio 1</summary>
+  <p>Sulla pagina in cui trovi la sedia, c’è qualcosa di ripetitivo da fare
+</p>
+</details>
+
  
 
 
