@@ -238,5 +238,22 @@ Cosa succede quando clicchi sopra una di esse?
 
 Per ora questa roba non ha significato, ma sono un po’ troppo interessanti da non tenere a mente, non trovi?
 
+## I blog di Noelle ##
 
+Inclusi negli sweepstakes, c’erano diversi link che portavano a dei blog o note scritti da Noelle. Ce ne sono diversi, alcuni dove racconta di un episodio dove Kris la spaventa con un cartone della pizza con la faccia di Ice-e (a cui Dess aveva bruciato gli occhi perché la sorellina ne era paranoica), Noelle che riceve uno strano uovo blu come virus (chiaramente un pipis) o dei racconti su un videogioco su cui passava il tempo, CatPetterz.
+Ma per non andare troppo per le lunghe, vorrei concentrarmi su due in particolare, perché li trovo molto interessanti ed emozionanti. Includerò un link ad un’immagine con una mia traduzione per facilitarti la vita.
+
+Blog di Noelle che parla della sua [infanzia con Kris](https://deltarune.com/kris_dreemurr_kris/), qui la traduzione
+
+<img width="947" height="557" alt="image" src="https://github.com/user-attachments/assets/145b0f11-92f6-4724-bf52-743d1352b7d1" />
+
+Se sei stanco, puoi saltare questo, ma è comunque parecchio interessante: blog di Noelle che parla di uno strano episodio di [bullismo verso Kris da parte di Susie](https://deltarune.com/the_n3w3st_g1rl_g1rl/), [link alla traduzione](https://imgur.com/a/2hlvlme)
+
+Ci sarebbe altro da menzionare (In particolare uno che potrebbe essere considerato “spoiler”, quindi lo riserviamo per un’altra volta) e spero che lo faremo in futuro, ma per il momento questo può bastare. Concludiamo con tre altri link, due che confermano lo stato di Dess come “persa”
+
+[https://deltarune.com/december/](https://deltarune.com/december/), un 404 finto con la UI di Internet Explorer
+[https://deltarune.com/dess/](https://deltarune.com/dess/) (il remix di “Lost Girl” che suona quando clicchi la chitarra ha come nome nei file “find_her.ogg”)
+E infine un messaggio di Spamton pieno di ripicca.
+
+<img width="1660" height="981" alt="image" src="https://github.com/user-attachments/assets/a568d423-bdee-4248-934c-128c03e66ff0" />
 
