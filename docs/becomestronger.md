@@ -31,7 +31,7 @@ Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e i
   </summary>
 </details>
 
-Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route
+Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route e una del capitolo 3:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9TSSLNcDpng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
