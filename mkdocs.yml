@@ -29,7 +29,6 @@ extra_javascript:
 
 nav:
   - 'Home': index.md
-  - 'La Profezia': profezia.md
   - 'Plot Principale': plot.md
   - 'Superboss': superboss.md
   - "Diventare Piu' Forti": becomestronger.md
