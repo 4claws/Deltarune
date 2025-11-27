@@ -33,7 +33,7 @@ Da qui non si torna più indietro. Gli eventi cambiano in maniera permanente e i
 
 Un segreto parecchio interessante riguardo una certa ost esclusiva di questa route e una del capitolo 3:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9TSSLNcDpng" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpuYq67x9Nw?si=T7VBx504FECiDrjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Spamton prende il controllo della magione di Queen, la magione stessa diventa perlopiù inaccessibile o comunque molto meno esplorabile del normale, Roulxs è completamente pietrificato e blocca l'accesso allo shop del palazzo. Si salta quasi subito alla conclusione del capitolo senza le solite normali esplorazioni e gag. Nella scena dove Susie visita in privato Noelle, stavolta noi giocatori non vediamo il loro incontro, senza che neanche ci sia offerta la scelta, cosa che scuote parecchio Ralsei
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yryfLpycwy4?start=2119&amp;end=2158" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
