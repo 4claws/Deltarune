@@ -1,5 +1,5 @@
 
-# I DETTAGLI #
+
 
  Il diavolo è nei dettagli, no? Ricordi ad esempio quelle sezioni strane dove devi ottenere delle “uova” andando avanti e indietro in specifiche stanze? O Ralsei che approfitta della nostra assenza per parlare in privato a Kris? Non ha importanza come rispondi, adesso ci concentreremo su quei dettagli, spero che la live non stia andando troppo per le lunghe, ma ci tengo ad evidenziare tutto quello che potrebbe essere importante. E partirei parlando da certi personaggi, specificamente da:
 
