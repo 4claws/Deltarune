@@ -1,4 +1,4 @@
-# Super Boss
+
 
 Entrambi i capitoli presentano due incontri opzionali molto difficili. Partiamo dal primo, Jevil: È possibile incontrarlo prendendo l’ascensore del Castello di Carte verso il piano marcato come “???”. Jevil, da dietro le sbarre parla di come i suoi inseguitori abbiano costruito una prigione intorno al mondo e ora lui sia l’unico ad essere libero, ma in questa libertà si sente solo e vuole aprire la gabbia per fare un “gioco” con il party. Anche rifiutando, ci dirà che stiamo in realtà già giocando. 
 
