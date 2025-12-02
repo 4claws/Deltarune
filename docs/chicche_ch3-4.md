@@ -1,10 +1,12 @@
 
+modifica temporanea per shitberk per accedere al google doc facilmente da lavoro https://docs.google.com/spreadsheets/d/1Y8txVtDD_-m-xjFOcLSozzHlZlUdLsMa1chKRgAYxsU/edit?usp=sharing eliminare una finito
 
 #Chicche e Secreti#
 
 ##CAPITOLO 3##
 
 . **SECRET NAMES** 
+
 
   tra reference a mother, scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZh6yj0zY3w?si=TGBRHF6XZDpTuc8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
