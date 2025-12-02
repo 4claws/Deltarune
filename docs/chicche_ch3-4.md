@@ -7,14 +7,14 @@ modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
 
 . **IL DESIGN ORIGINALE DI TENNA**
 
-Ti era già stato menzionato, ma lo ripetiamo con il link di Toby e i suoi vecchi disegn: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il "culo" delle formiche in inglese si chiam Gaster
+Ti era già stato menzionato, ma lo ripetiamo con il link del post Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il "culo" delle formiche in inglese si chiama Gaster
 
 https://nitter.net/tobyfox/status/1947855560122241361
 
 . **NOMI SEGRETI** 
 
 
-    Tra reference a mother, scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni; hai già visto "ASS", ecco un video se vuoi vedere altri possibili nomi:
+    Tra reference a Earthbound/Mother e scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni; hai già visto "ASS", ecco un video se vuoi vedere altri possibili esiti:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZh6yj0zY3w?si=TGBRHF6XZDpTuc8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **SPAMTON LADRO DI LEITMOTIV**
@@ -38,7 +38,7 @@ Nel corso del capitolo 3 è possibile sentire ricorrentemente un certo tema che 
 |  |  |
 |---------|-------|
 | <img  alt="image" src="https://github.com/user-attachments/assets/b536fd86-dc17-4c77-9789-046b6c182c86" />
-  | la ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo |
+  | La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo. |
 
 . **MANTLE**
 
@@ -51,7 +51,7 @@ Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia
 
 . **ERAM**
 
-Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome dell'entità che possiede il mantello è "ERAM"; molto probabilmente si tratta delle ultime quattro lettere di "nightmare" al contrario. Alcuni membri della community pensano che il nome sia questo, perché il titolo della OST di battaglia è, appunto, "ERAM". Ma sappiamo tutti che il vero nome si tratta invece di "John Mantle"
+Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome dell'entità che possiede il mantello è "ERAM"; molto probabilmente si tratta delle ultime quattro lettere di "nightmare" al contrario. Alcuni membri della community pensano che il nome sia questo, perché il titolo della OST di battaglia è, appunto, "ERAM". Ma sappiamo tutti che il vero nome si tratta invece di "John Mantle".
 
 . **IL SENTIERO GHIACCIATO**
 
@@ -60,21 +60,23 @@ Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome del
 
 . **SWORD ROUTE**
 
-  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco. Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide:
+  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco. Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide, che mostrano un caro vecchio amico:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=Z3WY2k-Py-h1P0t7?start=321&end=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 . **T-RANK ROOM - Z-RANK ROOM**
 
-Completando le board con tanti punti e/o completando gli obiettivi extra si riceve il "T-rank" (Tenna/TV rank..) che dà accesso ad una room unica, che ha un diverso aspetto se ci entri dopo la Board 1 o dopo la 2. Se fai invece schifo ottieni lo Z-rank, che non ti permette di accedere a nessuna stanza, se non una segreta apposita per quel rango che permette comunque l'accesso al gioco di Ramb attraverso l'utilizzo del misterioso tombino che di solito è inutile. Qui un video per le T-Rank di entrambe le board:
+Completando le board con tanti punti e/o completando gli obiettivi extra si riceve il "T-rank"che dà accesso ad una stanza unica, che ha un diverso aspetto se ci entri dopo la Board 1 o dopo la 2. Se fai invece schifo ottieni lo Z-rank, che non ti permette di accedere a nessuna stanza, se non una segreta apposita per quel rango che permette comunque l'accesso al gioco di Ramb attraverso l'utilizzo del misterioso tombino che di solito è inutile. Avendo già ottenuto lo Z-Rank, ecco qui un video per le T-Rank di entrambe le board:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nxztwC-YK9w?si=ycGVDiHE8NHv5EZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL SEGRETO DELLE RENNE**
 
-All'interno della Sword Route sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde lo sprite delle renne si chiama  "toriel" nel codice.
+All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde lo sprite delle renne si chiama  "toriel" nel codice.
 (https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/)
+
+Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quello sopracitato sia una dimostrazione abbastanza evidente che si tratti di ~~un membro della famiglia Holiday~~ Papyrus che indossa le corna, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
 
 . **ATTACCARE KRIS E SUSIE CON MINI-KRIS** 
 
@@ -84,7 +86,7 @@ Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse 
 
 . **LE VARIE REAZIONI DI KRIS**
 
-[DEVO ANCORA PREPARARE IL VIDEO, VEDRò SE RIUSCIRò A FARLO)
+[DEVO ANCORA PREPARARE IL VIDEO, VEDRò SE RIUSCIRò A FARLO, ma non è troppo importante siccome Sab ha comunque recepito il messaggio)
 
 . **IL RETRO DELLO SHOP DI RAMB**
 
@@ -114,14 +116,14 @@ Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, eran
 
 . **BERDLY PERDE IL BRACCIO**
 
-Nel capitolo 2, se si sconfigge Queen con la violenza (O anche se si attacca Berdly in entrambe le due battaglie contro di lui e poi si usano gli ACT contro Queen), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale, con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
+Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, se in entrambe le precedenti battaglie contro Berdly nel capitolo lo si sconfigga con la violenza), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio, che nel Light World si traduce nella sua inabilità di muoverlo. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale, con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
 
 [Scena del ch2](https://youtu.be/tm84YLxwwSk?t=47s)
 [Scena del ch4](https://youtu.be/Fx0kkcZ1X3c)
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
-Quando hai ascoltato il monologo di Berdly al telefono, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, ha dell'incredibile quello che dice: 
+Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, ha dell'incredibile quello che dice: 
 
 https://youtu.be/nISrILfm1hs?t=201
 
