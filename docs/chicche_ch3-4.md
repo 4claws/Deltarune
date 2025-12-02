@@ -8,29 +8,23 @@ modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
 . **SECRET NAMES** 
 
 
-  tra reference a mother, scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni
+    Tra reference a mother, scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni; hai già visto "ASS", ecco un video se vuoi vedere altri possibili nomi:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZh6yj0zY3w?si=TGBRHF6XZDpTuc8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **SPAMTON LADRO DI LEITMOTIV**
+
+Nel corso del capitolo 3 è possibile sentire un certo tema già presente nel 2
+[CARICHERò IL VIDEO, è QUASI PRONTO]
 
 . **IL TAGLIAERBA**
 
-  missato nella prima run c'è un'isola segreta che fa fare punti
+  Nella seconda board, vi è un'isola segreta che ti permette di fare punti extra
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vg-4pqy9ZNw?si=v-wvbTPvmkkWRYGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-. **LA QUINTA CHIAVE**
-
-  Solo a partire dalla seconda run, sarà possibile ottenere una quinta chiave in una stanza piena di bombe, precedentemente inaccessibile perchè ostruita da un albero. La stanza in questione si trova ad ovest di dove si trova la mailroom (corrispondente al luogo in cui, nella Sword route, è possibile scendere delle scale e leggere il messaggio nascosto "See you soon" e intravedere Eram per la prima volta) 
-
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kermTrn0znI?si=ywuUbDF-ozmEGhzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **LA GRANDE CORSA**
 
   È possibile vincere contro Susie nel giochino della Green Room (è più semplice di quanto ci si possa aspettare).
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vjOM4N2PYQw?si=Ks5ehDu3W4NXgStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-. **1225**
-
-Se inseriamo esattamente 1225  punti nella gacha ball succede questo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fipV6YES6BU?si=q2UfllWtIvMuYKuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **QUASI NON A CASO**
 
@@ -49,6 +43,10 @@ Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia
 |-----------|------------|
 | <img  alt="image" src="https://github.com/user-attachments/assets/12d3f44e-fca8-42ff-b398-8259e5f48823" />  | <img  alt="image" src="https://github.com/user-attachments/assets/3035df63-3fcf-498c-96c9-9c8343748216" />|
 
+. **ERAM**
+
+Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome dell'entità che possiede il mantello è "ERAM"; molto probabilmente si tratta delle ultime quattro lettere di "nightmare" al contrario. Alcuni membri della community pensano che il nome sia questo, perché il titolo della OST di battaglia è, appunto, "ERAM". Ma sappiamo tutti che il vero nome si tratta invece di "John Mantle"
+
 . **IL SENTIERO GHIACCIATO**
 
   Durante la board 2, è possibile provare a dirigersi verso i ghiacciai dell'Ice Palace. Se Tenna è presente, questo impedirà al party di proseguire, "censurerà" la scena e bloccherà l'accesso. Se ci si va in sua assenza sarà invece possibile raggiungere quel luogo e il party commenterà la cosa.
@@ -56,23 +54,16 @@ Il titolo del gioco appare brevemente e in modo poco definito prima che scompaia
 
 . **SWORD ROUTE**
 
-  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco. Timestamps siccome il video è lungo, attivare i caption del video per avere dettagli in più: (04:30; 05:08, da qui prosegui fino a che non entra i nelle 2 stanze ai lati della piramide; 10:10; 11:30, ci sono diverse scale che portano alla stessa stanza della northern light;)
+  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco. Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=Z3WY2k-Py-h1P0t7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=Z3WY2k-Py-h1P0t7?start=321&end=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-. **SUSIE E RALSEI NEL CORRIDOIO DELLE TV**
-  
-Qui c'è un dialogo specifico per la weird route, solo se dici a Ralsei che andrai al festival con Noelle.
-  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8gIMStHSf00?si=zO-z3DKMOmluDnUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **T-RANK ROOM - Z-RANK ROOM**
 
-Completando le board con tanti punti e/o completando gli obiettivi extra si riceve il "T-rank" (Tenna/TV rank..) che dà accesso ad una room unica, che ha un diverso aspetto se ci entri dopo la Board 1 o dopo la 2. Se fai invece schifo ottieni lo Z-rank, che non ti permette di accedere a nessuna stanza, se non una segreta apposita per quel rango che permette comunque l'accesso al gioco di Ramb attraverso l'utilizzo del misterioso tombino che di solito è inutile.
+Completando le board con tanti punti e/o completando gli obiettivi extra si riceve il "T-rank" (Tenna/TV rank..) che dà accesso ad una room unica, che ha un diverso aspetto se ci entri dopo la Board 1 o dopo la 2. Se fai invece schifo ottieni lo Z-rank, che non ti permette di accedere a nessuna stanza, se non una segreta apposita per quel rango che permette comunque l'accesso al gioco di Ramb attraverso l'utilizzo del misterioso tombino che di solito è inutile. Qui un video per le T-Rank di entrambe le board:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nxztwC-YK9w?si=ycGVDiHE8NHv5EZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ifINNsGgFyA?si=CMwuHyuvs3O9pXgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL SEGRETO DELLE RENNE**
 
@@ -85,15 +76,18 @@ Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0o5fPiCmo4w?si=vfWAcmMFpQnz7DQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **LE VARIE REAZIONI DI KRIS**
+
+[DEVO ANCORA PREPARARE IL VIDEO, VEDRò SE RIUSCIRò A FARLO)
 
 . **IL RETRO DELLO SHOP DI RAMB**
 
-alla fine del capitolo, è possibile accedere al retro  del negozio e vedere Susie e Ralsei giocare.
+Alla fine del capitolo, è possibile accedere al retro  del negozio e vedere Susie e Ralsei giocare.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L8zJZQrv8e8?si=NGp_IeUbs1ohSxUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL PASSATO DI RAMB**
 
-Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo, e un antipatico Pippins ci racconterà il suo passato.
+Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo impedendoti di completare Mantle, e un antipatico Pippins ci racconterà il suo passato.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9HF1VTpzPfc?si=q-a8FpLjpvR7NDEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL KNIGHT**
@@ -107,42 +101,73 @@ Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, eran
 
 [reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
-[newsletter](https://toby.fangamer.com/newsletters/summer23/)
+[newsletter](https://toby.fangamer.com/newsletters/summer23/#:~:text=As%20for%20Chapter%203%2C%20we%27re%20finally%20creating%20the%20final%20overworld%20area.%20You%20could%20think%20of%20it%20like%20the%20%22Queen%27s%20Castle%22%20or%20%22Card%20Castle%22%2C%20but%20for%20this%20chapter.%20With%20this%20complete%2C%20the%20chapter%20will%20finally%20be%20playable%20all%20the%20way%20through...!%20(Fun%20Fact%3A%20I%20composed%20the%20song%20for%20this%20area%20in%202016...)
 
 
 ##CAPITOLO 4##
 
 . **BERDLY PERDE IL BRACCIO**
 
-Nel capitolo 2, se si sconfigge Queen con la violenza (O anche se si attacca Berdly in entrambe le due battaglie contro di lui e poi si usano gli ACT contro Queen), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale.
+Nel capitolo 2, se si sconfigge Queen con la violenza (O anche se si attacca Berdly in entrambe le due battaglie contro di lui e poi si usano gli ACT contro Queen), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale, con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
+
+[Scena del ch2](https://youtu.be/tm84YLxwwSk?t=47s)
+[Scena del ch4](https://youtu.be/Fx0kkcZ1X3c)
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
-Quando prendi il telefono di Noelle per ascoltare la chiamata di Berdly, hai due scelte, ecco quella che MIke non ha preso
+Quando hai ascoltato il monologo di Berdly al telefono, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, ha dell'incredibile quello che dice: 
+
+https://youtu.be/nISrILfm1hs?t=201
 
 . **LA "WRONG NUMBER SONG"**
 
 A proposito della chiamata con Berdly, l'opzione di "cantare la canzone del numero sbagliato" è un riferimento ad un possibile evento randomico in Undertale dettato dal FUN Value che è capitato proprio a Mike nella genocide insieme a Cydo (e tra l'altro è meno raro di quanto Sabaku fosse stato portato a credere all'epoca, è letteralmente il più comune di tutti i FUN event con una percentuale del 38%). Se questo non è destino...
 
+https://youtu.be/hqIYIEoWBVk?list=PLKS7SOH9fvAkzV9aRhfIf38hIunjpnLc2&t=7924
+
 . **LA CAMERA DA LETTO DI CAROL E RUDY**
 
 Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, invesigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
+https://www.youtube.com/watch?v=CGvVT2mQK6Y
 
 . **YOUR NOT TAKING TOO LONG**
 
-La battaglia contro Jackenstein e le sue apparizioni non sono su un timer, ma si attivano una volta che raggiungi certi punti della mappa.
+Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia la sua terrificante apparizione? La risposta è... infinito. Eh già, in realtà non sono su un timer, ma si attivano una volta che raggiungi certi punti specifici della mappa.
+
+[NOTA DA ELIMINARE, PERSONALMENTE NON PENO CI SIA DI BISOGNO DI METTERE UN VIDEO PER QUESTO, AL MASSIMO UN'IMMAGINE DELLA ZUCCA ROSSA]
 
 . **ORGANO AZZURRO- TUTTI I "PEZZI"**
  Nell'organo della story è possibile suonare alcuni pezzi "familiari"
+ https://youtu.be/aEm9WX-jNUA
+
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
 Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti (che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale) e affrontare degli attacchi extra particolarmente difficili.
+[Dialoghi e attacchi segreti](https://youtu.be/tHGOMcujK4E?t=3m12s)
+[Dialoghi della genocide di UT](https://undertale.wiki/w/Gerson#Genocide_Route_2:~:text=%5BHero%5D,strike%20you%20down.)
 
 . **LE DONAZIONI DELLA FONTANA**
 
 Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
+https://youtu.be/VSuLUMZ3D7E
+
+. **FRIEND INSIDE CHAPTER 4**
+
+Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione estremamente facile da mancare
+https://youtu.be/ZBQowWynD28?t=127
+
+. **DIALOGHI ALTERNATIVI A FINE CAPITOLO**
+
+Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo
+
+https://youtu.be/Z6bQHKYsZas?t=97
 
 
-. 
+##SUPER TRIVIA E TEORIE##
 
+. **THE TAIL OF HELL**
+
+Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta  riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà". "Lost where the forest would grow, the children followed the pointed tail".
+
+Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco siano composti da "cerchi", è si teorizza che FRIEND si sia "schiuso" da un uovo creato e causato proprio da Noelle che in questi blog ha sperimentato con glitch e altro
