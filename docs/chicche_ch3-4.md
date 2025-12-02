@@ -5,6 +5,12 @@ modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
 
 ##CAPITOLO 3##
 
+. **IL DESIGN ORIGINALE DI TENNA**
+
+Ti era già stato menzionato, ma lo ripetiamo con il link di Toby e i suoi vecchi disegn: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il "culo" delle formiche in inglese si chiam Gaster
+
+https://nitter.net/tobyfox/status/1947855560122241361
+
 . **NOMI SEGRETI** 
 
 
@@ -175,6 +181,8 @@ Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Sp
 https://deltarune.com/catpetterz/
 https://deltarune.com/egg/
 https://deltarune.com/bluecircle/
+
+fanart di tail of hell e friend https://static.wikia.nocookie.net/villainsfanon/images/4/4b/FRIEND_ALWAYS_WATCHING.webp/revision/latest?cb=20250920192537
 
 . **CANZONI VECCHIE DI UN DECENNIO**
 
