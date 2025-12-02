@@ -4,7 +4,9 @@
 - [Superboss](superboss.md)
 - [Diventare Più Forti](becomestronger.md)
 - [I Dettagli](dettagli.md)
+- [Chicche](chicche_ch3-4.md)
 - [Crediti](credits.md)
+
 
 
 
