@@ -143,7 +143,7 @@ Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia l
 
 . **ORGANO AZZURRO- TUTTI I "PEZZI"**
  Nell'organo della story è possibile suonare alcuni pezzi "familiari"
- https://youtu.be/aEm9WX-jNUA
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEm9WX-jNUA?si=kBiS4FwDnjeyjuZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 . **DIALOGHI "SEGRETI" DI GERSON**
@@ -155,18 +155,18 @@ Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia
 . **LE DONAZIONI DELLA FONTANA**
 
 Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
-https://youtu.be/VSuLUMZ3D7E
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=9L0nEAvkteJpJkeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **FRIEND INSIDE CHAPTER 4**
 
 Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione estremamente facile da mancare
-https://youtu.be/ZBQowWynD28?t=127
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZBQowWynD28?si=2mZdOSnvg7xvUEqf&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGHI ALTERNATIVI A FINE CAPITOLO**
 
 Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo
 
-https://youtu.be/Z6bQHKYsZas?t=97
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z6bQHKYsZas?si=ypQGWtEqPD4Bzcto&amp;start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ##SUPER TRIVIA E TEORIE##
@@ -177,25 +177,28 @@ Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta  riguar
 
 Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco siano composti da "cerchi", è si teorizza che FRIEND si sia "schiuso" da un uovo creato e causato proprio da Noelle che in questi blog ha sperimentato con glitch e altro. Link ai blog in questione, non sono necessari da leggere, ma li lasciamo per completezza. Sia chiaro che come già detto precedentemente, questi link e dettagli non sono ufficialmente canonici ed è abbastanza certi che non siano necessari per una piena comprensione dei futuri capitoli, ma questi indizi sono comunque stati piazzati per un motivo e non sono a caso: 
 
-https://deltarune.com/catpetterz/
-https://deltarune.com/egg/
-https://deltarune.com/bluecircle/
+[https://deltarune.com/catpetterz/](https://deltarune.com/catpetterz/)
+[https://deltarune.com/egg/](https://deltarune.com/egg/)
+[https://deltarune.com/bluecircle/](https://deltarune.com/bluecircle/)
 
-fanart di tail of hell e friend https://static.wikia.nocookie.net/villainsfanon/images/4/4b/FRIEND_ALWAYS_WATCHING.webp/revision/latest?cb=20250920192537
+fanart di tail of hell e friend 
+
+<img width="575" height="577" alt="image" src="https://github.com/user-attachments/assets/5f42d4c8-004a-43dc-95f5-4e42f8f6107f" />
+ 
+ AUTORE:----------------- 
 
 . **CANZONI VECCHIE DI UN DECENNIO**
 
 Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, il tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
 
-https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater
+[tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater)
 
 [Seccom Masada. Familiare?](https://static.wikia.nocookie.net/yumenikki/images/a/a3/Seccom_Masada_Profile.png/revision/latest?cb=20160729161056)
 
 . **POSSIBILI TITOLI DI CANZONI FUTURE**
 
-Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole possano essere i titoli proprio di canzoni che ancora non conosciamo; e in realtà una di esse, AMPHITHEATER è proprio presente in quello stesso post tumblr vecchio di 13 anni menzionato precedentemente, è possibile che siamo in grado di ascoltare proprio adesso una canzone futura non ancora rilasciata in maniera ufficiale, o almeno una sua vecchia versione. Un post reddit più dettagliato:
-
-https://www.reddit.com/r/Deltarune/comments/1mglezs/an_old_tumblr_post_already_contains_a_future/
+Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole possano essere i titoli proprio di canzoni che ancora non conosciamo; e in realtà una di esse, AMPHITHEATER è proprio presente in quello stesso post tumblr vecchio di 13 anni menzionato precedentemente, è possibile che siamo in grado di ascoltare proprio adesso una canzone futura non ancora rilasciata in maniera ufficiale, o almeno una sua vecchia versione. 
+[Qui](https://www.reddit.com/r/Deltarune/comments/1mglezs/an_old_tumblr_post_already_contains_a_future/) un post reddit più dettagliato.
 
 . **NOELLE HA VISSUTO IL LABIRINTO A CROCE DI MANTLE**
 
@@ -203,4 +206,4 @@ In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4, Noelle
 
 Lo ripetiamo ancora una volta, questi blog non sono necessariamente canonici, ma l'idea che MANTLE sia una versione modificata di Dragon Blazers a cui Noelle ha giocato, è parecchio interessante:
 
-https://deltarune.com/icepalace_glaceir/
+[https://deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
