@@ -15,7 +15,8 @@ Ti era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i s
 . **SPAMTON LADRO DI LEITMOTIV**
 
 Nel corso del capitolo 3 è possibile sentire ricorrentemente un certo tema che era già presente fin dal 2
-sistemare il sequente link yt (rimuovendo questo testo) (https://youtu.be/ZaBHuyjC3ig)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZaBHuyjC3ig?si=89ji55xmviTQ03GS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL TAGLIAERBA**
 
@@ -29,11 +30,12 @@ sistemare il sequente link yt (rimuovendo questo testo) (https://youtu.be/ZaBHuy
 
 . **QUASI NON A CASO**
 
+  La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo:
 
 |  |  |
 |---------|-------|
 | <img  alt="image" src="https://github.com/user-attachments/assets/b536fd86-dc17-4c77-9789-046b6c182c86" />
-  | La ball machine può regalare delle "fortune", alcune di queste vogliono essere degli indizi per l'uovo di questo capitolo. |
+ 
 
 . **MANTLE**
 
@@ -57,8 +59,7 @@ Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome del
 
   Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco (cui eventi sono chiamati "Sword route" nei file). Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide, che mostrano un caro vecchio amico:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=Z3WY2k-Py-h1P0t7?start=321&end=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=w-khFSIxpZf6o_nq&amp;start=316" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **T-RANK ROOM - Z-RANK ROOM**
 
@@ -96,12 +97,14 @@ Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo im
 
 . **CONGRATULAZIONI PER AVER BATTUTO IL CAVALIERE!!!!**
 
-Col cavolo. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura momenti dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
+Col cavolo, il tuo traguardo non conta nulla. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura momenti dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
+
+Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 
 
-. **IL KNIGHT**
+. **NO HIT?**
 
-Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio speciale a fine battaglia, facendo riferimento al doppiogioco di Kris.
+Tra l'altro se lo si sconfigge senza essere colpiti, apparirà un messaggio speciale a fine battaglia, facendo riferimento al doppiogioco di Kris.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOu-Zaw-uhc?si=2cKiS-RCREWGAM-Y&amp;start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **CANZONI PRONTE DA ANNI**
@@ -157,7 +160,7 @@ In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, 
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
-Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti (che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale) e affrontare degli attacchi extra particolarmente difficili.
+Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. Avessi giocato la weird route in maniera integrale, ti avremmo fatto fare questa challenge, ma in ogni caso ecco qui:
 
 Dialoghi e attacchi segreti
 
@@ -188,7 +191,7 @@ Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un da
 
 . **DIALOGHI ALTERNATIVI A FINE CAPITOLO**
 
-Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo. Alcuni esempi di trofei (da evitare): equipaggiare un'armatura/arma, non superare un tot di danni, abbracciare Ralsei etc... Questo è il dialogo che ottieni.
+Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo. Alcuni esempi di trofei (da evitare): equipaggiare un'armatura/arma, non superare un tot di danni, abbracciare Ralsei etc... Questo è il dialogo che ottieni:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z6bQHKYsZas?si=ypQGWtEqPD4Bzcto&amp;start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,9 +200,9 @@ Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà 
 
 . **THE TAIL OF HELL**
 
-Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta  riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà". "Lost where the forest would grow, the children followed the pointed tail".
+Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà". "Lost where the forest would grow, the children followed the pointed tail".
 
-Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco su cui ha passato tanto tempo, "Cat petterz" siano composti da "cerchi", è si teorizza che FRIEND si sia "schiuso" da un uovo creato e causato proprio da Noelle che in questi blog ha sperimentato con glitch e altro. Link ai blog in questione, non sono necessari da leggere, ma li lasciamo per completezza:
+Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco su cui ha passato tanto tempo a sperimentare e cercare glitch, "Cat petterz" siano composti da "cerchi"; si teorizza che FRIEND si sia "schiuso" da un uovo nato da un glitch causato proprio da Noelle. Link ai blog in questione, non sono necessari da leggere in live, ma li lasciamo per completezza:
 
 [https://deltarune.com/catpetterz/](https://deltarune.com/catpetterz/)
 [https://deltarune.com/egg/](https://deltarune.com/egg/)
