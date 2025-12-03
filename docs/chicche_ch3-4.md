@@ -7,14 +7,12 @@ modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
 
 . **IL DESIGN ORIGINALE DI TENNA**
 
-Ti era già stato menzionato, ma lo ripetiamo con il link del post Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il "culo" delle formiche in inglese si chiama Gaster
+Ti era già stato menzionato, ma lo ripetiamo con il link del post Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
 
-https://nitter.net/tobyfox/status/1947855560122241361
 
 . **NOMI SEGRETI** 
 
-
-    Tra reference a Earthbound/Mother e scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni; hai già visto "ASS", ecco un video se vuoi vedere altri possibili esiti:
+ Tra reference a Earthbound/Mother e scioccare Tenna con parolacce per la gioa di Susie, ci sono vari possibili nomi che causeranno reazioni; hai già visto "ASS", ecco un video se vuoi vedere altri possibili esiti:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZh6yj0zY3w?si=TGBRHF6XZDpTuc8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **SPAMTON LADRO DI LEITMOTIV**
@@ -73,8 +71,7 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 
 . **IL SEGRETO DELLE RENNE**
 
-All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde lo sprite delle renne si chiama  "toriel" nel codice.
-(https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/)
+All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde [lo sprite delle renne si chiama  "toriel" nel codice](https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/).
 
 Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quello sopracitato sia una dimostrazione abbastanza evidente che si tratti di ~~un membro della famiglia Holiday~~ Papyrus che indossa le corna, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
 
@@ -125,18 +122,18 @@ Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, s
 
 Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, ha dell'incredibile quello che dice: 
 
-https://youtu.be/nISrILfm1hs?t=201
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=kJ0twRtys6ZtKPEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **LA "WRONG NUMBER SONG"**
 
 A proposito della chiamata con Berdly, l'opzione di "cantare la canzone del numero sbagliato" è un riferimento ad un possibile evento randomico in Undertale dettato dal FUN Value che è capitato proprio a Mike nella genocide insieme a Cydo (e tra l'altro è meno raro di quanto Sabaku fosse stato portato a credere all'epoca, è letteralmente il più comune di tutti i FUN event con una percentuale del 38%). Se questo non è destino...
 
-https://youtu.be/hqIYIEoWBVk?list=PLKS7SOH9fvAkzV9aRhfIf38hIunjpnLc2&t=7924
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hqIYIEoWBVk?si=rvazD7YeOkh3ZaVq&amp;start=7924" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **LA CAMERA DA LETTO DI CAROL E RUDY**
 
 Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, invesigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
-https://www.youtube.com/watch?v=CGvVT2mQK6Y
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGvVT2mQK6Y?si=nTGTl_ybcnc5Qqek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **YOUR NOT TAKING TOO LONG**
 
