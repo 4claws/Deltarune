@@ -1,5 +1,7 @@
 
-modifica temporanea per shitberk per accedere al google doc facilmente da lavoro https://docs.google.com/spreadsheets/d/1Y8txVtDD_-m-xjFOcLSozzHlZlUdLsMa1chKRgAYxsU/edit?usp=sharing eliminare una finito
+modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
+
+[doc](https://docs.google.com/spreadsheets/d/1Y8txVtDD_-m-xjFOcLSozzHlZlUdLsMa1chKRgAYxsU/edit?usp=sharing) eliminare una finito
 
 #Chicche e Secreti#
 
