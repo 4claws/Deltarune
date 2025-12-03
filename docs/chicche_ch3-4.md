@@ -4,7 +4,7 @@
 
 . **IL DESIGN ORIGINALE DI TENNA**
 
-<del>Ti<del> era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
+<del>Ti</del> era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
 
 
 . **NOMI SEGRETI** 
