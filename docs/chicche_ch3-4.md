@@ -1,15 +1,10 @@
-
-modifica temporanea per shitberk per accedere al google doc facilmente da lavoro
-
-[doc](https://docs.google.com/spreadsheets/d/1Y8txVtDD_-m-xjFOcLSozzHlZlUdLsMa1chKRgAYxsU/edit?usp=sharing) eliminare una finito
-
 #Chicche e Secreti#
 
 ##CAPITOLO 3##
 
 . **IL DESIGN ORIGINALE DI TENNA**
 
-Ti era già stato menzionato, ma lo ripetiamo con il link del post Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
+Ti era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
 
 
 . **NOMI SEGRETI** 
@@ -20,7 +15,7 @@ Ti era già stato menzionato, ma lo ripetiamo con il link del post Toby e i suoi
 . **SPAMTON LADRO DI LEITMOTIV**
 
 Nel corso del capitolo 3 è possibile sentire ricorrentemente un certo tema che era già presente fin dal 2
-[CARICHERò IL VIDEO, è QUASI PRONTO]
+sistemare il sequente link yt (rimuovendo questo testo) (https://youtu.be/ZaBHuyjC3ig)
 
 . **IL TAGLIAERBA**
 
@@ -60,7 +55,7 @@ Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome del
 
 . **SWORD ROUTE**
 
-  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco. Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide, che mostrano un caro vecchio amico:
+  Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco (cui eventi sono chiamati "Sword route" nei file). Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide, che mostrano un caro vecchio amico:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=Z3WY2k-Py-h1P0t7?start=321&end=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -75,11 +70,13 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 
 All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde [lo sprite delle renne si chiama  "toriel" nel codice](https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/).
 
-Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quello sopracitato sia una dimostrazione abbastanza evidente che si tratti di ~~un membro della famiglia Holiday~~ Papyrus che indossa le corna, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
+Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quanto sopracitato sia una dimostrazione abbastanza evidente che si tratti di ~~un membro della famiglia Holiday~~ Papyrus che indossa corna finte, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
+
+Altra nota, ma è curioso che questa creatura nera segua gli stessi movimenti di Kris che procede poi ad ucciderla in autonomia appena si avvicina...
 
 . **ATTACCARE KRIS E SUSIE CON MINI-KRIS** 
 
-Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse facendo Kris, è possibile controllare il suo avatar e farlo entrare in scena. Se non ci si avvicina troppo ai 2, la scena continua come normale (E dettaglio importante, una volta che Susie scollega il controller, il Mini-Kris scompare), ma è possibile anche attaccare Kris e Susie e avere una scena alternativa segreta.
+Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse facendo Kris, è possibile controllare il mini avatar e farlo entrare in scena. Se non ci si avvicina troppo ai 2, la scena continua come normale (E dettaglio importante, una volta che Susie scollega il controller, il Mini-Kris scompare), ma è possibile anche attaccare Kris e Susie e avere una scena alternativa segreta.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0o5fPiCmo4w?si=vfWAcmMFpQnz7DQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,6 +94,11 @@ Alla fine del capitolo, è possibile accedere al retro  del negozio e vedere Sus
 Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo impedendoti di completare Mantle, e un antipatico Pippins ci racconterà il suo passato.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9HF1VTpzPfc?si=q-a8FpLjpvR7NDEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **CONGRATULAZIONI PER AVER BATTUTO IL CAVALIERE!!!!**
+
+Col cavolo. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura momenti dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
+
+
 . **IL KNIGHT**
 
 Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio speciale a fine battaglia, facendo riferimento al doppiogioco di Kris.
@@ -104,25 +106,29 @@ Se si sconfigge il cavaliere senza essere colpiti, apparirà un messaggio specia
 
 . **CANZONI PRONTE DA ANNI**
 
-Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partie dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
+Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partire dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
 
-[reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
+[Post reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
-[newsletter](https://tinyurl.com/2u32erch)
+[Newsletter](https://tinyurl.com/2u32erch)
 
 
 ##CAPITOLO 4##
 
 . **BERDLY PERDE IL BRACCIO**
 
-Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, se in entrambe le precedenti battaglie contro Berdly nel capitolo lo si sconfigga con la violenza), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio, che nel Light World si traduce nella sua inabilità di muoverlo. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale, con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
+Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, se in entrambe le precedenti battaglie contro Berdly nel capitolo lo si sconfigga con il fight), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio, che nel Light World si traduce nella sua inabilità di muoverlo. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale (più in salute che nella weird route), con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
 
-[Scena del ch2](https://youtu.be/tm84YLxwwSk?t=47s)
-[Scena del ch4](https://youtu.be/Fx0kkcZ1X3c)
+Scena del ch2 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tm84YLxwwSk?si=A3j-voCXzrcimHt1&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Scena del ch4 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fx0kkcZ1X3c?si=OMEf1xpZK-El8lqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
-Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, ha dell'incredibile quello che dice: 
+Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, quello che dice ha dell'incredibile:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=kJ0twRtys6ZtKPEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -139,20 +145,27 @@ Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' 
 
 . **YOUR NOT TAKING TOO LONG**
 
-Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia la sua terrificante apparizione? La risposta è... infinito. Eh già, in realtà non sono su un timer, ma si attivano una volta che raggiungi certi punti specifici della mappa.
-
-[NOTA DA ELIMINARE, PERSONALMENTE NON PENO CI SIA DI BISOGNO DI METTERE UN VIDEO PER QUESTO, AL MASSIMO UN'IMMAGINE DELLA ZUCCA ROSSA]
+Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia la sua terrificante apparizione? La risposta è... infinito. Eh già, in realtà non sono su un timer, ma si attivano una volta che ottieni la chiave e raggiungi certi punti specifici della mappa.
 
 . **ORGANO AZZURRO- TUTTI I "PEZZI"**
- Nell'organo della story è possibile suonare alcuni pezzi "familiari"
+All'organo che Kris suona in quella scena memorabile, è possibile suonare alcuni pezzi "familiari"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEm9WX-jNUA?si=kBiS4FwDnjeyjuZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **IL CAVALIERE SMASCHERATO**
+In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, immaginando un momento dove si toglie l'elmo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ncGNdt92hIM?si=9Ane3ieERJhGssXs&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
 Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti (che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale) e affrontare degli attacchi extra particolarmente difficili.
-[Dialoghi e attacchi segreti](https://youtu.be/tHGOMcujK4E?t=3m12s)
-[Dialoghi della genocide di UT](https://undertale.wiki/w/Gerson#Genocide_Route_2:~:text=%5BHero%5D,strike%20you%20down.)
+
+Dialoghi e attacchi segreti
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tHGOMcujK4E?si=vxCGfWdPWXonw7wq&amp;start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Dialoghi in Undertale - Genocide
+
+![Dialogo gerson](/assets/img/gerson_genocide.png)
 
 . **LE DONAZIONI DELLA FONTANA**
 
@@ -161,12 +174,21 @@ Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuari
 
 . **FRIEND INSIDE CHAPTER 4**
 
-Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione estremamente facile da mancare
+Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione estremamente facile da mancare:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZBQowWynD28?si=2mZdOSnvg7xvUEqf&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **GOOD, KEEP SMILING**
+Ecco qui la reazione di Ralsei a questa crudelissima risposta:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fio7UmbpQfQ?si=imLNhm8z_5HtJ92i&amp;start=472" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un darkner non dovrebbe sentire queste emozioni", ma Kris si tappa fisicamente la bocca per evitare di pronunciare quelle parole. Forse nel momento "Good, keep smiling." è troppo stanco da tutti gli eventi per reagire? 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/20vmTiNm8fQ?si=ZU7SsNkqxZaU4pPR&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGHI ALTERNATIVI A FINE CAPITOLO**
 
-Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo
+Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà ad avere un discorso alternativo a fine capitolo. Questo è qualcosa di particolarmente difficile da fare, perché un po' come quelli di Undertale, sono trofei "scemi" per dare il contentino a Sony che obbliga a mettere i trofei per giochi non-demo. Alcuni esempi di trofei (da evitare): equipaggiare un'armatura/arma, non superare un tot di danni, abbracciare Ralsei etc... Questo è il dialogo che ottieni.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z6bQHKYsZas?si=ypQGWtEqPD4Bzcto&amp;start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -177,23 +199,29 @@ Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà 
 
 Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta  riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà". "Lost where the forest would grow, the children followed the pointed tail".
 
-Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco siano composti da "cerchi", è si teorizza che FRIEND si sia "schiuso" da un uovo creato e causato proprio da Noelle che in questi blog ha sperimentato con glitch e altro. Link ai blog in questione, non sono necessari da leggere, ma li lasciamo per completezza. Sia chiaro che come già detto precedentemente, questi link e dettagli non sono ufficialmente canonici ed è abbastanza certi che non siano necessari per una piena comprensione dei futuri capitoli, ma questi indizi sono comunque stati piazzati per un motivo e non sono a caso: 
+Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco su cui ha passato tanto tempo, "Cat petterz" siano composti da "cerchi", è si teorizza che FRIEND si sia "schiuso" da un uovo creato e causato proprio da Noelle che in questi blog ha sperimentato con glitch e altro. Link ai blog in questione, non sono necessari da leggere, ma li lasciamo per completezza:
 
 [https://deltarune.com/catpetterz/](https://deltarune.com/catpetterz/)
 [https://deltarune.com/egg/](https://deltarune.com/egg/)
 [https://deltarune.com/bluecircle/](https://deltarune.com/bluecircle/)
 
-fanart di tail of hell e friend 
+Sia chiaro che come già detto precedentemente, questi link e dettagli non sono ufficialmente canonici ed è abbastanza certo che non siano necessari per una piena comprensione dei futuri capitoli, ma questi indizi sono comunque stati piazzati per un motivo e non sono a caso.
 
+Fanart della tail of hell e friend 
+
+https://nitter.net/C80KIES/status/1963409420328784380 SOSTITUIRE IMMAGINE SOTTO CON QUELLA NEL LINK A FIANCO DI QUESTO TESTO
 <img width="575" height="577" alt="image" src="https://github.com/user-attachments/assets/5f42d4c8-004a-43dc-95f5-4e42f8f6107f" />
  
- AUTORE:----------------- 
+ AUTORE: @C8KIES
+
+ [Un possibile test di animazione in beta per la coda](https://www.reddit.com/r/Deltarune/comments/1omvcqz/chapter_3_unused_room_room_perspective_testing/)
+ 
 
 . **CANZONI VECCHIE DI UN DECENNIO**
 
-Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, il tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
+Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, 2 versioni del tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
 
-[tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater)
+[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater)
 
 [Seccom Masada. Familiare?](https://static.wikia.nocookie.net/yumenikki/images/a/a3/Seccom_Masada_Profile.png/revision/latest?cb=20160729161056)
 
@@ -204,8 +232,15 @@ Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe p
 
 . **NOELLE HA VISSUTO IL LABIRINTO A CROCE DI MANTLE**
 
-In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4, Noelle racconta della sua esperienza con un familiare labirinto a croce che necessita di un certo personaggio per essere superato. Il titolo di questo blog presenta anche il misspelling di "Glacier" come "Glaceir". Quest'ultimo è proprio il titolo del tema di quest'area, e questo typo è probabilmente un riferimento al videogioco Brandish 3 che presenta il medesimo mispelling.
+In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4 nei quali parla dei glitch e misteri che trova (e cerca) nei videogiochi, la ragazza racconta della sua esperienza con un familiare labirinto a croce che necessita di un certo personaggio per essere superato. Il titolo di questo blog presenta anche il misspelling di "Glacier" come "Glaceir". Quest'ultimo è proprio il titolo del tema di quest'area, e questo typo è probabilmente un riferimento al videogioco Brandish 3 che presenta il medesimo mispelling.
 
-Lo ripetiamo ancora una volta, questi blog non sono necessariamente canonici, ma l'idea che MANTLE sia una versione modificata di Dragon Blazers a cui Noelle ha giocato, è parecchio interessante:
+Lo ripetiamo ancora una volta, questi blog non sono canonici e al 99% non saranno MAI necessari per capire eventi futuri, ma l'idea che MANTLE sia una versione modificata di Dragon Blazers a cui Noelle ha giocato, è parecchio interessante:
 
 [https://deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
+
+. **GLI ALTRI MESSAGGI NASCOSTI NEL CODICE**
+
+Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entrambi i capitoli che mostravano il dialogo di una persona dispersa chissadove e che occassionalmente sentiva un suono simile a dello "scratching". Questi messaggi sono apparsi anche nel codice dei capitoli 3 e 4 e trovati dalla community:
+
+[Code del capitolo 3](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-ekalrxzg415f1.png?width=640&crop=smart&auto=webp&s=04e957cd7f08132096ca808c837e7ce25049cb8d)
+[Code del capitolo 4](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-liid9szg415f1.png?width=640&crop=smart&auto=webp&s=13fba1207ac5ca2b969f7ebdd3711e4efa4110c3)
