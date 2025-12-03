@@ -106,7 +106,7 @@ Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, eran
 
 [reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
-[newsletter](https://toby.fangamer.com/newsletters/summer23/#:~:text=As%20for%20Chapter%203%2C%20we%27re%20finally%20creating%20the%20final%20overworld%20area.%20You%20could%20think%20of%20it%20like%20the%20%22Queen%27s%20Castle%22%20or%20%22Card%20Castle%22%2C%20but%20for%20this%20chapter.%20With%20this%20complete%2C%20the%20chapter%20will%20finally%20be%20playable%20all%20the%20way%20through...!%20(Fun%20Fact%3A%20I%20composed%20the%20song%20for%20this%20area%20in%202016...)
+[newsletter](https://tinyurl.com/2u32erch)
 
 
 ##CAPITOLO 4##
