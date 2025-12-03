@@ -4,7 +4,7 @@
 
 . **IL DESIGN ORIGINALE DI TENNA**
 
-<del>Ti</del> era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
+Ti era già stato menzionato, ma lo ripetiamo con il link del post di Toby e i suoi vecchi disegni: Originariamente Tenna aveva un design da formica, che è stato successivamente cambiato. Dettaglio divertente che ovviamente non ha significato di lore (credo), ma il ["culo" delle formiche in inglese si chiama Gaster](https://nitter.net/tobyfox/status/1947855560122241361)
 
 
 . **NOMI SEGRETI** 
@@ -71,7 +71,7 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 
 All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde [lo sprite delle renne si chiama  "toriel" nel codice](https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/).
 
-Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quanto sopracitato sia una dimostrazione abbastanza evidente che si tratti di ~~ un membro della famiglia Holiday  ~~ Papyrus che indossa corna finte, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
+Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quanto sopracitato sia una dimostrazione abbastanza evidente che si tratti di <del>un membro della famiglia Holiday</del> Papyrus che indossa corna finte, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
 
 Altra nota, ma è curioso che questa creatura nera segua gli stessi movimenti di Kris che procede poi ad ucciderla in autonomia appena si avvicina...
 
