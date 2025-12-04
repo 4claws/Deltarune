@@ -214,7 +214,8 @@ Fanart della tail of hell e friend
 
 https://nitter.net/C80KIES/status/1963409420328784380 SOSTITUIRE IMMAGINE SOTTO CON QUELLA NEL LINK A FIANCO DI QUESTO TESTO
   
-
+|  |  |
+|---------|-------|
   AUTORE: @C8KIES | <img width="658" height="382" alt="image" src="https://github.com/user-attachments/assets/1d07bc77-e8b4-49a3-a5c4-d087b1c9624d" />|
 
 
