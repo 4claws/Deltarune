@@ -1,4 +1,4 @@
-#Chicche e Secreti#
+
 
 ##CAPITOLO 3##
 
@@ -213,7 +213,8 @@ Sia chiaro che come già detto precedentemente, questi link e dettagli non sono 
 Fanart della tail of hell e friend 
 
 https://nitter.net/C80KIES/status/1963409420328784380 SOSTITUIRE IMMAGINE SOTTO CON QUELLA NEL LINK A FIANCO DI QUESTO TESTO
-<img width="575" height="577" alt="image" src="https://github.com/user-attachments/assets/5f42d4c8-004a-43dc-95f5-4e42f8f6107f" />
+  || LINK ||<img width="658" height="382" alt="image" src="https://github.com/user-attachments/assets/1d07bc77-e8b4-49a3-a5c4-d087b1c9624d" />||
+
  
  AUTORE: @C8KIES
 
