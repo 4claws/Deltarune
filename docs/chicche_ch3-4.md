@@ -212,7 +212,6 @@ Sia chiaro che come già detto precedentemente, questi link e dettagli non sono 
 
 Fanart della tail of hell e friend 
 
-https://nitter.net/C80KIES/status/1963409420328784380 SOSTITUIRE IMMAGINE SOTTO CON QUELLA NEL LINK A FIANCO DI QUESTO TESTO
   
 |  |  |
 |---------|-------|
