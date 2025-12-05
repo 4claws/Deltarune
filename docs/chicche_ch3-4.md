@@ -97,7 +97,7 @@ Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo im
 
 . **CONGRATULAZIONI PER AVER BATTUTO IL CAVALIERE!!!!**
 
-Col cavolo, il tuo traguardo non conta nulla. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura momenti dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
+Col cavolo, il tuo traguardo non conta nulla. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura situazioni dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
 
 Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 
@@ -107,6 +107,14 @@ Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 Tra l'altro se lo si sconfigge senza essere colpiti, apparirà un messaggio speciale a fine battaglia, facendo riferimento al doppiogioco di Kris.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOu-Zaw-uhc?si=2cKiS-RCREWGAM-Y&amp;start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **LEALE FINO A UN CERTO PUNTO**
+
+Sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente e in base al tuo setup è quello che ne fa di meno). Ma devi sapere che sotto certe condizioni, Kris può fare molto più male al suo alleato; per ogni party member a cui si azzerano gli HP, Kris farà il DOPPIO dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrAw_cIh7LI?si=6CmkDyGCXO_i4SVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Francamente, ciò ci dice PARECCHIO su quali siano le sue vere emozioni e sentimenti, per quanto questo personaggio cerchi di nasconderli da noi giocatori...
+
 . **CANZONI PRONTE DA ANNI**
 
 Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partire dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
@@ -114,6 +122,18 @@ Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, eran
 [Post reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
 [Newsletter](https://tinyurl.com/2u32erch)
+
+Quella del Knight è particolarmente curiosa, perché infatti il leitmotiv della canzone erano presenti fin da canzoni del Capitolo 1 (oltre che una vecchissima canzone di Toby chiamata "Knightmare Knight" che ha un leitmotiv molto simile, e probabilmennte è basato proprio su quella)
+
+"The chase", rilasciata nel 2018 insieme al capitolo 1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hWWVWfQW1H4?si=pDH12jojCOfXG0D7&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"The door", stessa cosa
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KWi1-9eLO_o?si=11JPasCX7Cv0Lp6Q&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"Knightmare Knight", canzone creata nel 2014 per il webcomic "Cucumber Quest" che ha un leitmotiv abbastanza simile. Prima del chh3, parecchi prodotti fanmade hanno usato proprio questa come possibile tema del Cavaliere:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t43ZIrsfof0?si=B8EH0iJfHJrCXlhD&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ##CAPITOLO 4##
@@ -242,9 +262,34 @@ Lo ripetiamo ancora una volta, questi blog non sono canonici e al 99% non sarann
 
 [https://deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
 
+. **L'ANGELO E LA PROFEZIA**
+
+Mi permetto una nota e ipotesi più personale: la profezia in Deltarune secondo me diventerà molto simile a quella di Undertale. In questo, Gerson ci racconta della profezia (huh, in entrambi i giochi ci parla di profezie nebbiose e interpretabili...), di come "l'Angelo arriverà a liberare i mostri dall'Underground". L'interpretazione è abbastanza ovvia e normale, e infatti si avvera nella True Pacifist dove l'Angelo si rivela Asriel e libera i mostri distruggendo la Barriera.
+
+Ma nello stesso dialogo, Gerson ci racconta come la gente ha iniziato ad avere una interpretazione più macabra, interpretando la "liberazione" come "morte"; questo infatti si avvera nella Genocide ove invece siamo noi l'Angelo, ma della distruzione.
+
+E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, Noelle lo diventa nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allego uno screenshot nascosto di una vecchia newsletter che fa un'altra allusione a lei come Angelo:
+
+![noelle snow](/assets/img/Noelle_snow.png)
+
 . **GLI ALTRI MESSAGGI NASCOSTI NEL CODICE**
 
 Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entrambi i capitoli che mostravano il dialogo di una persona dispersa chissadove e che occassionalmente sentiva un suono simile a dello "scratching". Questi messaggi sono apparsi anche nel codice dei capitoli 3 e 4 e trovati dalla community:
 
 [Code del capitolo 3](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-ekalrxzg415f1.png?width=640&crop=smart&auto=webp&s=04e957cd7f08132096ca808c837e7ce25049cb8d)
 [Code del capitolo 4](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-liid9szg415f1.png?width=640&crop=smart&auto=webp&s=13fba1207ac5ca2b969f7ebdd3711e4efa4110c3)
+
+. **DECIMO ANNIVERSARIO DI UNDERTALE**
+
+Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario (il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria".
+
+In quest stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
+
+Guerra vs Mostri e Umani
+
+![WAR1](assets/img/war1.png)
+![WAR2](assets/img/WAR2.png)
+
+E infine, [you're gonna have a bad time.](https://ut10-battle.undertale.com/)
+
+
