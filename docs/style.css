@@ -55,7 +55,7 @@
     text-align: center;
     line-height: 8.5rem !important;
     text-transform: capitalize !important;
-} p, li, a {
+} p, li, a ,.p {
     font-family: "esteso", sans-serif !important;
     line-height: 2.5rem;
     font-size: 0.8rem !important;
