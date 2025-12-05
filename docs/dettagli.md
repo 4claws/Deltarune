@@ -191,7 +191,7 @@ Perché ne stiamo parlando? Perché nel corso degli anni Toby ha suggerito una s
 [deltarune.com/secret](https://deltarune.com/secret/)
 
 <details>
-  <summary>Indizio 1 {.p}</summary> 
+  <summary>Indizio 1</summary> 
   <p>Sulla pagina in cui trovi la sedia, c’è qualcosa di ripetitivo da fare
 </p>
 </details>
