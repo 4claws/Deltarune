@@ -1,4 +1,10 @@
+##PREMESSA##
 
+Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre, ma sarà comunque a tua discrezione scegliere su quali concentrarti. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifico. In ogni caso sono parecchio più intriganti che nel 3:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FbR-eSwNqiI?si=HHa0yjEQYIoJiu6H&amp;start=1744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Ora, parliamo di chicche e segreti a partire dal...
 
 ##CAPITOLO 3##
 
@@ -81,10 +87,6 @@ Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0o5fPiCmo4w?si=vfWAcmMFpQnz7DQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-. **LE VARIE REAZIONI DI KRIS**
-
-[DEVO ANCORA PREPARARE IL VIDEO, VEDRò SE RIUSCIRò A FARLO, ma non è troppo importante siccome Sab ha comunque recepito il messaggio)
-
 . **IL RETRO DELLO SHOP DI RAMB**
 
 Alla fine del capitolo, è possibile accedere al retro  del negozio e vedere Susie e Ralsei giocare.
@@ -97,14 +99,21 @@ Se salti anche un solo step del minigioco, Ramb si pietrificherà in anticipo im
 
 . **CONGRATULAZIONI PER AVER BATTUTO IL CAVALIERE!!!!**
 
-Col cavolo, il tuo traguardo non conta nulla. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee con addirittura momenti dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
+Col cavolo, il tuo traguardo non conta nulla. Il cavaliere è stato nerfato nella patch 1.03; i suoi attacchi dei tunnel di spade avevano delle hitbox gigantesche. Il tunnel in sé era estremamente stretto, e la parte finale con le linee rosse avevano hitbox molto più grandi delle linee stesse con addirittura situazioni dove era impossibile non subire danni. Da uno che l'ha battuto hitless, quell'attacco era veramente disonesto, e personalmente lo trovo al pari (se non peggio) del vecchio triplo slash del boss finale di Shadow of the Erdtree.
 
 Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 
+ **LEALE FINO A UN CERTO PUNTO**
+
+Sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente e in base al tuo setup è quello che ne fa di meno). Ma devi sapere che sotto certe condizioni, Kris può fare molto più male al suo alleato; per ogni party member a cui si azzerano gli HP, Kris farà il doppio dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrAw_cIh7LI?si=6CmkDyGCXO_i4SVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Francamente, ciò ci dice PARECCHIO su quali siano le sue vere emozioni e sentimenti, per quanto questo personaggio cerchi di nasconderli da noi giocatori...
 
 . **NO HIT?**
 
-Tra l'altro se lo si sconfigge senza essere colpiti, apparirà un messaggio speciale a fine battaglia, facendo riferimento al doppiogioco di Kris.
+Allo stesso tempo, se lo si sconfigge senza essere colpiti, apparirà un messaggio speciale a fine battaglia che fa riferimento al suo doppiogioco.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOu-Zaw-uhc?si=2cKiS-RCREWGAM-Y&amp;start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **CANZONI PRONTE DA ANNI**
@@ -115,12 +124,23 @@ Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, eran
 
 [Newsletter](https://tinyurl.com/2u32erch)
 
+Quella del Knight è particolarmente curiosa, perché infatti il leitmotiv della canzone erano presenti fin da canzoni del Capitolo 1 (oltre che una vecchissima canzone di Toby chiamata "Knightmare Knight" che ha un leitmotiv molto simile, e probabilmennte è basato proprio su quella)
+
+"The chase", rilasciata nel 2018 insieme al capitolo 1
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hWWVWfQW1H4?si=pDH12jojCOfXG0D7&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"The door", stessa cosa
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KWi1-9eLO_o?si=11JPasCX7Cv0Lp6Q&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+"Knightmare Knight", canzone creata nel 2014 per il webcomic "Cucumber Quest" e che ha un leitmotiv abbastanza simile. Prima del chh3, parecchi prodotti fanmade hanno usato proprio questa come possibile tema del Cavaliere:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t43ZIrsfof0?si=B8EH0iJfHJrCXlhD&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##CAPITOLO 4##
 
 . **BERDLY PERDE IL BRACCIO**
 
-Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, se in entrambe le precedenti battaglie contro Berdly nel capitolo lo si sconfigga con il fight), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio, che nel Light World si traduce nella sua inabilità di muoverlo. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale (più in salute che nella weird route), con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
+Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, se in entrambe le precedenti battaglie contro Berdly nel capitolo lo si sconfigge con il fight), Berdly si rimuoverà la presa dalla faccia causando un'esplosione che gli brucerà il braccio, che nel Light World si traduce nella sua inabilità di muoverlo. Quindi nel capitolo 4 la libreria sarà inaccessibile e troveremo il nostro pennuto preferito in ospedale (più in salute che nella weird route), con un dialogo particolarmente iconico che è esattamente quello che ci aspetteremmo da Berdly.
 
 Scena del ch2 
 
@@ -131,7 +151,7 @@ Scena del ch4
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
-Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; ti consigliamo vivamente questo, perché come praticamente tutte le frasi di Berdly, quello che dice ha dell'incredibile:
+Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; come praticamente tutte le frasi di Berdly, quello che dice ha dell'incredibile:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=kJ0twRtys6ZtKPEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -150,7 +170,7 @@ Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' 
 
 Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia la sua terrificante apparizione? La risposta è... infinito. Eh già, in realtà non sono su un timer, ma si attivano una volta che ottieni la chiave e raggiungi certi punti specifici della mappa.
 
-. **ORGANO AZZURRO- TUTTI I "PEZZI"**
+. **TUTTI I PEZZI DELL'ORGANO AZZURRO**
 All'organo che Kris suona in quella scena memorabile, è possibile suonare alcuni pezzi "familiari"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEm9WX-jNUA?si=kBiS4FwDnjeyjuZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -160,7 +180,7 @@ In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, 
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
-Se affrontiamo Gerson difendendoci e basta (Siccome il progresso della battaglia è dettato dalle azioni che intraprendi, e il difendere non conta nulla) è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. Avessi giocato la weird route in maniera integrale, ti avremmo fatto fare questa challenge, ma in ogni caso ecco qui:
+Nella battaglia contro Hammer Of Justice, il progresso è dettato dalle azioni che intraprendi, ogni volta che appaiono "le stelline" quando attacchi o ti curi con OkHeal, è un segno che la fight sta progredendo. Siccome difendersi non dà punti, è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. A partire da questi attacchi, comincia a darti automaticamente punti per portare ad una conclusione della battaglia:
 
 Dialoghi e attacchi segreti
 
@@ -175,9 +195,14 @@ Dialoghi in Undertale - Genocide
 Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=9L0nEAvkteJpJkeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **CHICCA MUSICALE**
+
+Avevi notato nel Second Sanctuary di Susie, come anche la musica fosse "rotta". Andiamo più nel dettaglio e spieghiamo il perché c'è questa sensazione (cedendo la parola ad Alex perché non capisco niente di teoria musicale): Toby fa una cosa molto rara e particolare, cambia ripetutamente il "tempo" (ovvero come viene misurata e suddivisa temporalmente una composizione) creando una ost che da la sensazione di qualcosa di non ben definito e che musicalmente rappresenta perfettamente ciò che è il mondo oscuro di Susie. Ecco un video per rendere più chiaro cosa succede, in particolare nel Third Sanctuary:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hGLrgQ_UuHg?si=Nb5VmTpo4n3cwwkf&amp;start=166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 . **FRIEND INSIDE CHAPTER 4**
 
-Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione estremamente facile da mancare:
+Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola apparizione segreta estremamente facile da mancare:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZBQowWynD28?si=2mZdOSnvg7xvUEqf&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **GOOD, KEEP SMILING**
@@ -210,7 +235,7 @@ Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Sp
 
 Sia chiaro che come già detto precedentemente, questi link e dettagli non sono ufficialmente canonici ed è abbastanza certo che non siano necessari per una piena comprensione dei futuri capitoli, ma questi indizi sono comunque stati piazzati per un motivo e non sono a caso.
 
-Fanart della tail of hell e friend 
+Fanart della tail of hell e friend, un possibile concept della forma completa del felino:
 
   
 |  |  |
@@ -225,7 +250,7 @@ AUTORE: {.p} [@C8KIES](https://nitter.net/C80KIES/status/1963409420328784380) | 
 
 Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, 2 versioni del tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
 
-[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater)
+[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater) (poco dopo la metà dello strano player di tumblr senza timestamp)
 
 [Seccom Masada. Familiare?](https://static.wikia.nocookie.net/yumenikki/images/a/a3/Seccom_Masada_Profile.png/revision/latest?cb=20160729161056)
 
@@ -242,9 +267,56 @@ Lo ripetiamo ancora una volta, questi blog non sono canonici e al 99% non sarann
 
 [https://deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
 
+. **L'ANGELO E LA PROFEZIA**
+
+Mi permetto una nota e ipotesi più personale: la profezia in Deltarune secondo me diventerà molto simile a quella di Undertale. In questo, Gerson ci racconta della profezia (huh, in entrambi i giochi ci parla di profezie nebbiose e interpretabili...), di come "l'Angelo arriverà a liberare i mostri dall'Underground". L'interpretazione è abbastanza ovvia e normale, e infatti si avvera nella True Pacifist dove l'Angelo si rivela Asriel e libera i mostri distruggendo la Barriera.
+
+Ma nello stesso dialogo, Gerson ci racconta come la gente ha iniziato ad avere una interpretazione più macabra, interpretando la "liberazione" come "morte"; questo infatti si avvera nella Genocide ove invece siamo noi l'Angelo, ma della distruzione (Perché Chara ci ha costretti a fare tutto questo??).
+
+E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, Noelle lo diventa nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allego uno screenshot nascosto di una vecchia newsletter che fa un'altra allusione a lei come Angelo:
+
+![noelle snow](/assets/img/Noelle_snow.png)
+
 . **GLI ALTRI MESSAGGI NASCOSTI NEL CODICE**
 
 Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entrambi i capitoli che mostravano il dialogo di una persona dispersa chissadove e che occassionalmente sentiva un suono simile a dello "scratching". Questi messaggi sono apparsi anche nel codice dei capitoli 3 e 4 e trovati dalla community:
 
 [Code del capitolo 3](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-ekalrxzg415f1.png?width=640&crop=smart&auto=webp&s=04e957cd7f08132096ca808c837e7ce25049cb8d)
 [Code del capitolo 4](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-liid9szg415f1.png?width=640&crop=smart&auto=webp&s=13fba1207ac5ca2b969f7ebdd3711e4efa4110c3)
+
+. **POSSIBILE GROSSO INDIZIO SUL FUTURO DELLA WEIRD ROUTE**
+
+Precedentemente all'uscita dei nuovi capitoli, sono stati scoperti i seguenti link del sito di Deltarune:
+
+(deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
+(deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
+(deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
+
+Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 2 è effettivamente "Applicabile" e nel 3 è praticamente inesistente. Ma facendo lo stesso col capitolo 4...
+
+(deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route), ma anche il primo sostituto all'animazione del Fiore a casa di Noelle. 
+
+La cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
+
+(deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe stare ad indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
+
+Altri dettagli e supposizioni: 
+a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
+b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link (deltarune.com/chapter6) e (deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco, ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco in anticipo rispetto al normale nel capitolo 5.
+c) Cliccare sull'1 non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird roue (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso; cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
+
+. **DECIMO ANNIVERSARIO DI UNDERTALE**
+
+Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario (il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria...)
+
+![sab echo](assets/img/sabaku_echo.jpg)
+
+In quest stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
+
+Guerra vs Mostri e Umani
+
+![WAR1](assets/img/war1.png)
+![WAR2](assets/img/WAR2.png)
+
+E infine, [you're gonna have a bad time.](https://ut10-battle.undertale.com/)
+
