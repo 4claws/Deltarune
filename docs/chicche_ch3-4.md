@@ -1,6 +1,6 @@
 ##PREMESSA##
 
-Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre, ma sarà comunque a tua discrezione scegliere su quali concentrarti. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifico. In ogni caso sono parecchio più intriganti che nel 3:
+Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre, ma sarà comunque a tua discrezione scegliere su quali concentrarti. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3 (video fatto da AbitDistant che parte già dal timestamp rilevante):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FbR-eSwNqiI?si=HHa0yjEQYIoJiu6H&amp;start=1744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -32,7 +32,7 @@ Nel corso del capitolo 3 è possibile sentire ricorrentemente un certo tema che 
 . **LA GRANDE CORSA**
 
   È possibile vincere contro Susie nel giochino della Green Room (è più semplice di quanto ci si possa aspettare).
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vjOM4N2PYQw?si=Ks5ehDu3W4NXgStT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vjOM4N2PYQw?si=ZdWWIipeqLncvGDt&amp;start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **QUASI NON A CASO**
 
@@ -58,14 +58,14 @@ Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome del
 
 . **IL SENTIERO GHIACCIATO**
 
-  Durante la board 2, è possibile provare a dirigersi verso i ghiacciai dell'Ice Palace. Se Tenna è presente, questo impedirà al party di proseguire, "censurerà" la scena e bloccherà l'accesso. Se ci si va in sua assenza sarà invece possibile raggiungere quel luogo e il party commenterà la cosa.
+  Durante la board 2, è possibile provare a dirigersi verso i ghiacciai dell'Ice Palace. Se Tenna è presente, questo impedirà al party di proseguire, "censurerà" la scena e bloccherà l'accesso, come è capitato proprio a te. Ma se ci si va in sua assenza sarà invece possibile raggiungere quel luogo e il party commenterà la cosa.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wptBrUqnyIc?si=3uXbjlqyBa5tq7mi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **SWORD ROUTE**
 
   Ci sono diverse stanze misteriose e vari segreti all'interno di questo gioco (cui eventi sono chiamati "Sword route" nei file). Li hai trovati quasi tutti, inclusi alcuni foreshadow del sopracitato ERAM, ma hai mancato due entrate segrete ai lati della piramide, che mostrano un caro vecchio amico:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=w-khFSIxpZf6o_nq&amp;start=316" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MAfd02R8W-U?si=w-khFSIxpZf6o_nq&amp;start=316;end=368" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **T-RANK ROOM - Z-RANK ROOM**
 
@@ -105,11 +105,13 @@ Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 
  **LEALE FINO A UN CERTO PUNTO**
 
-Sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente e in base al tuo setup è quello che ne fa di meno). Ma devi sapere che sotto certe condizioni, Kris può fare molto più male al suo alleato; per ogni party member a cui si azzerano gli HP, Kris farà il doppio dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
+Già sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente e in base al tuo setup è quello che ne fa di meno). Ma devi sapere che sotto certe condizioni, Kris può fare molto più male al suo alleato; per ogni party member a cui si azzerano gli HP, Kris farà il doppio dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrAw_cIh7LI?si=6CmkDyGCXO_i4SVn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrAw_cIh7LI?si=FX_3QszLSoCZTHL2&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Francamente, ciò ci dice PARECCHIO su quali siano le sue vere emozioni e sentimenti, per quanto questo personaggio cerchi di nasconderli da noi giocatori...
+
+Altro trivia sui danni, più la battaglia va avanti, più danno i party member faranno male al Knight (difatti nel video sopra linkato, Kris parte facendo circa 60 danni ma più avanti arriva a farne 116), un po' come se il riuscire a sopravvivere contro questo nemico gli riempisse di Speranza che reinforza i loro attacchi.
 
 . **NO HIT?**
 
@@ -118,13 +120,13 @@ Allo stesso tempo, se lo si sconfigge senza essere colpiti, apparirà un messagg
 
 . **CANZONI PRONTE DA ANNI**
 
-Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da tantissimi anni già a partire dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
+Alcune canzoni, secondo varie fonti come i metadata dei file o Toby stesso, erano già pronte e composte da anni già a partire dal 2018 nel caso del tema di battaglia del cavaliere, oppure "TV WORLD" che era già pronta nel 2016, da quanto detto da Toby nella newsletter dell'estate 2023.
 
 [Post reddit](https://www.reddit.com/r/Deltarune/comments/1lirl5i/fun_fact_the_knights_battle_theme_was_rendered_in/)
 
 [Newsletter](https://tinyurl.com/2u32erch)
 
-Quella del Knight è particolarmente curiosa, perché infatti il leitmotiv della canzone erano presenti fin da canzoni del Capitolo 1 (oltre che una vecchissima canzone di Toby chiamata "Knightmare Knight" che ha un leitmotiv molto simile, e probabilmennte è basato proprio su quella)
+Quella del Knight è particolarmente curiosa, perché infatti il leitmotiv della canzone era presente in OST del Capitolo 1
 
 "The chase", rilasciata nel 2018 insieme al capitolo 1
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hWWVWfQW1H4?si=pDH12jojCOfXG0D7&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +134,7 @@ Quella del Knight è particolarmente curiosa, perché infatti il leitmotiv della
 "The door", stessa cosa
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KWi1-9eLO_o?si=11JPasCX7Cv0Lp6Q&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"Knightmare Knight", canzone creata nel 2014 per il webcomic "Cucumber Quest" e che ha un leitmotiv abbastanza simile. Prima del chh3, parecchi prodotti fanmade hanno usato proprio questa come possibile tema del Cavaliere:
+Inoltre c'è "Nightmare Knight", canzone creata nel 2014 per il webcomic "Cucumber Quest" e che ha un leitmotiv abbastanza simile e che potrebbe essere stato usato come base. Prima del ch3, parecchi prodotti fanmade hanno usato proprio questa come possibile tema del Cavaliere:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t43ZIrsfof0?si=B8EH0iJfHJrCXlhD&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -144,10 +146,10 @@ Nel capitolo 2, se si sconfigge Queen con la violenza (ma anche pacificamente, s
 
 Scena del ch2 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tm84YLxwwSk?si=A3j-voCXzrcimHt1&amp;start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tm84YLxwwSk?si=6ZdqD84ZRtBQphxx&amp;start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Scena del ch4 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fx0kkcZ1X3c?si=OMEf1xpZK-El8lqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=DkGPELu82vIheyGP&amp;start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
@@ -164,23 +166,25 @@ A proposito della chiamata con Berdly, l'opzione di "cantare la canzone del nume
 . **LA CAMERA DA LETTO DI CAROL E RUDY**
 
 Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, invesigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGvVT2mQK6Y?si=nTGTl_ybcnc5Qqek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGvVT2mQK6Y?si=pHK-FApZXu48P_IB&amp;start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **YOUR NOT TAKING TOO LONG**
 
 Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia la sua terrificante apparizione? La risposta è... infinito. Eh già, in realtà non sono su un timer, ma si attivano una volta che ottieni la chiave e raggiungi certi punti specifici della mappa.
 
 . **TUTTI I PEZZI DELL'ORGANO AZZURRO**
+
 All'organo che Kris suona in quella scena memorabile, è possibile suonare alcuni pezzi "familiari"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEm9WX-jNUA?si=kBiS4FwDnjeyjuZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL CAVALIERE SMASCHERATO**
+
 In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, immaginando un momento dove si toglie l'elmo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncGNdt92hIM?si=9Ane3ieERJhGssXs&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
-Nella battaglia contro Hammer Of Justice, il progresso è dettato dalle azioni che intraprendi, ogni volta che appaiono "le stelline" quando attacchi o ti curi con OkHeal, è un segno che la fight sta progredendo. Siccome difendersi non dà punti, è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. A partire da questi attacchi, comincia a darti automaticamente punti per portare ad una conclusione della battaglia:
+Nella battaglia contro Hammer Of Justice, il progresso è dettato dalle azioni che intraprendi; ogni volta che appaiono "le stelline" quando attacchi o ti curi con OkHeal, è un segno che la fight sta progredendo. Siccome difendersi non dà punti, è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. A partire da questi attacchi, comincia a darti automaticamente punti per portare ad una conclusione della battaglia:
 
 Dialoghi e attacchi segreti
 
@@ -195,9 +199,11 @@ Dialoghi in Undertale - Genocide
 Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=9L0nEAvkteJpJkeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+In oltre, per ogni Uovo trovato, sarà aggiunto un Dark dollar alla donazione totale
+
 . **CHICCA MUSICALE**
 
-Avevi notato nel Second Sanctuary di Susie, come anche la musica fosse "rotta". Andiamo più nel dettaglio e spieghiamo il perché c'è questa sensazione (cedendo la parola ad Alex perché non capisco niente di teoria musicale): Toby fa una cosa molto rara e particolare, cambia ripetutamente il "tempo" (ovvero come viene misurata e suddivisa temporalmente una composizione) creando una ost che da la sensazione di qualcosa di non ben definito e che musicalmente rappresenta perfettamente ciò che è il mondo oscuro di Susie. Ecco un video per rendere più chiaro cosa succede, in particolare nel Third Sanctuary:
+Avevi notato nel Second Sanctuary di Susie, come anche la musica fosse "rotta". Andiamo più nel dettaglio e spieghiamo il perché c'è questa sensazione (cedendo la parola ad Alex perché non capisco niente di teoria musicale): Toby fa una cosa molto rara e particolare, cambia ripetutamente il "tempo" (ovvero come viene misurata e suddivisa temporalmente una composizione) creando una ost che dà la sensazione di qualcosa di non ben definito e che musicalmente rappresenta perfettamente ciò che è il mondo oscuro di Susie. Ecco un video per rendere più chiaro cosa succede, in particolare nel Third Sanctuary:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hGLrgQ_UuHg?si=Nb5VmTpo4n3cwwkf&amp;start=166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **FRIEND INSIDE CHAPTER 4**
@@ -206,7 +212,8 @@ Nel capitolo 4, il nostro caro AMICO con occhi rosa e dorati, fa una singola app
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZBQowWynD28?si=2mZdOSnvg7xvUEqf&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **GOOD, KEEP SMILING**
-Ecco qui la reazione di Ralsei a questa crudelissima risposta:
+
+A proposito di sorrisi, ecco qui la reazione di Ralsei a questa crudelissima risposta:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fio7UmbpQfQ?si=imLNhm8z_5HtJ92i&amp;start=472" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -225,12 +232,14 @@ Su PlayStation, completare i capitoli senza ottenere neanche un trofeo porterà 
 
 . **THE TAIL OF HELL**
 
-Parliamo della "Coda dell'inferno" e diamo subito una possibile risposta riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà". "Lost where the forest would grow, the children followed the pointed tail".
+Parliamo della "Coda dell'inferno" e diamo subito una POSSIBILE risposta riguardo a cosa si possa trattare: la community ha concluso che si possa trattare della coda del nostro rinomato felino FRIEND, che con essa ha attirato "i bambini nel luogo dove la foresta crescerrebbe/crescerà": "Lost where the forest would grow, the children followed the pointed tail".
 
-Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco su cui ha passato tanto tempo a sperimentare e cercare glitch, "Cat petterz" siano composti da "cerchi"; si teorizza che FRIEND si sia "schiuso" da un uovo nato da un glitch causato proprio da Noelle. Link ai blog in questione, non sono necessari da leggere in live, ma li lasciamo per completezza:
+Si è raggiunti a questa conclusione, perché in uno dei blog di Noelle degli Spamton Sweepstakes, la ragazza parla di come tutti i gatti del gioco su cui ha passato tanto tempo a sperimentare e cercare glitch, "Cat petterz" siano composti da "cerchi", similmente a come la coda è rappresentata nel pannello della Profezia; si teorizza che FRIEND si sia "schiuso" da un uovo nato da un glitch causato proprio da Noelle. Link ai blog in questione, non sono necessari da leggere in live, ma li lasciamo per completezza:
 
 [https://deltarune.com/catpetterz/](https://deltarune.com/catpetterz/)
+
 [https://deltarune.com/egg/](https://deltarune.com/egg/)
+
 [https://deltarune.com/bluecircle/](https://deltarune.com/bluecircle/)
 
 Sia chiaro che come già detto precedentemente, questi link e dettagli non sono ufficialmente canonici ed è abbastanza certo che non siano necessari per una piena comprensione dei futuri capitoli, ma questi indizi sono comunque stati piazzati per un motivo e non sono a caso.
@@ -244,24 +253,28 @@ AUTORE: {.p} [@C8KIES](https://nitter.net/C80KIES/status/1963409420328784380) | 
 
 
  [Un possibile test di animazione in beta per la coda](https://www.reddit.com/r/Deltarune/comments/1omvcqz/chapter_3_unused_room_room_perspective_testing/)
+
  
 
 . **CANZONI VECCHIE DI UN DECENNIO**
 
 Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, 2 versioni del tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
 
-[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater) (poco dopo la metà dello strano player di tumblr senza timestamp)
+[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater) (Le canzoni in questione sono poco dopo la metà dello strano player di tumblr senza timestamp)
 
 [Seccom Masada. Familiare?](https://static.wikia.nocookie.net/yumenikki/images/a/a3/Seccom_Masada_Profile.png/revision/latest?cb=20160729161056)
 
 . **POSSIBILI TITOLI DI CANZONI FUTURE**
 
-Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole possano essere i titoli proprio di canzoni che ancora non conosciamo; e in realtà una di esse, AMPHITHEATER è proprio presente in quello stesso post tumblr vecchio di 13 anni menzionato precedentemente, è possibile che siamo in grado di ascoltare proprio adesso una canzone futura non ancora rilasciata in maniera ufficiale, o almeno una sua vecchia versione. 
+Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole possano essere i titoli proprio di canzoni che ancora non conosciamo; 
+
+ma in realtà una di esse, AMPHITHEATER è proprio presente in quello stesso post tumblr vecchio di 13 anni menzionato precedentemente. È possibile che siamo in grado di ascoltare proprio adesso una canzone futura non ancora rilasciata in maniera ufficiale, o almeno una sua vecchia versione. 
+
 [Qui](https://www.reddit.com/r/Deltarune/comments/1mglezs/an_old_tumblr_post_already_contains_a_future/) un post reddit più dettagliato.
 
 . **NOELLE HA VISSUTO IL LABIRINTO A CROCE DI MANTLE**
 
-In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4 nei quali parla dei glitch e misteri che trova (e cerca) nei videogiochi, la ragazza racconta della sua esperienza con un familiare labirinto a croce che necessita di un certo personaggio per essere superato. Il titolo di questo blog presenta anche il misspelling di "Glacier" come "Glaceir". Quest'ultimo è proprio il titolo del tema di quest'area, e questo typo è probabilmente un riferimento al videogioco Brandish 3 che presenta il medesimo mispelling.
+In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4 nei quali parla dei glitch e misteri che cerca (e trova) nei videogiochi, la ragazza racconta della sua esperienza con un familiare labirinto a croce che necessita di un certo personaggio per essere superato. Il titolo di questo blog presenta anche il misspelling di "Glacier" come "Glaceir". Quest'ultimo è proprio il titolo del tema di quest'area nel capitolo, e questo typo è probabilmente un riferimento al videogioco Brandish 3 che presenta il medesimo mispelling.
 
 Lo ripetiamo ancora una volta, questi blog non sono canonici e al 99% non saranno MAI necessari per capire eventi futuri, ma l'idea che MANTLE sia una versione modificata di Dragon Blazers a cui Noelle ha giocato, è parecchio interessante:
 
@@ -288,21 +301,26 @@ Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entra
 
 Precedentemente all'uscita dei nuovi capitoli, sono stati scoperti i seguenti link del sito di Deltarune:
 
-(deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
-(deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
-(deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
+[deltarune.com/chapter1](deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
+
+[deltarune.com/chapter2](deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
+
+[deltarune.com/chapter3](deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
 
 Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 2 è effettivamente "Applicabile" e nel 3 è praticamente inesistente. Ma facendo lo stesso col capitolo 4...
 
-(deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route), ma anche il primo sostituto all'animazione del Fiore a casa di Noelle. 
+[deltarune.com/chapter4](deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route), ma anche il primo sostituto all'animazione del Fiore a casa di Noelle. 
 
 La cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
 
-(deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe stare ad indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
+[deltarune.com/chapter5](deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe stare ad indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
 
 Altri dettagli e supposizioni: 
+
 a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
+
 b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link (deltarune.com/chapter6) e (deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco, ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco in anticipo rispetto al normale nel capitolo 5.
+
 c) Cliccare sull'1 non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird roue (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso; cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
@@ -311,7 +329,7 @@ Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioc
 
 ![sab echo](assets/img/sabaku_echo.jpg)
 
-In quest stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
+In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
 
 Guerra vs Mostri e Umani
 
