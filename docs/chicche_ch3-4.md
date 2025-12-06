@@ -327,14 +327,14 @@ c) Cliccare sull'1 non è possibile; cliccare sul numero 2 ci porta ad una pagin
 
 Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario (il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria...)
 
-![sab echo](assets/img/sabaku_echo.jpg)
+![sab echo](assets/img/sabaku_echo.jpg) {width=50%}
 
 In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
 
 Guerra vs Mostri e Umani
 
-![WAR1](assets/img/war1.png)
-![WAR2](assets/img/WAR2.png)
+![WAR1](assets/img/war1.png) {width=50%}
+![WAR2](assets/img/WAR2.png) {width=50%}
 
 E infine, [you're gonna have a bad time.](https://ut10-battle.undertale.com/)
 
