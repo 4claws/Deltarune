@@ -329,12 +329,12 @@ Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioc
 
 ![sab echo](assets/img/sabaku_echo.jpg){width=35%}
 
-In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani, è una roba speciale su cui è meglio che non parlo e la vedi da solo...
+In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani...
 
 Guerra vs Mostri e Umani
 
 ![WAR1](assets/img/war1.png){width=50%}
 ![WAR2](assets/img/WAR2.png){width=50%}
 
-E infine, [you're gonna have a bad time.](https://ut10-battle.undertale.com/)
+E infine, una cosa che parla da sé: [you're gonna have a happy time...?](https://ut10-battle.undertale.com/)
 
