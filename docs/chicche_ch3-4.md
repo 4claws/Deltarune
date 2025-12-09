@@ -326,15 +326,15 @@ a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è pos
 
 b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter7](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido)), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
-c) - Cliccare sull'1 invisibile non è possibile; 
+c) \- Cliccare sull'1 invisibile non è possibile; 
 
-- cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat);
+\- cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat);
 
-- cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via;
+\- cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via;
 
-- cliccare sul 4 porta ad un'altra pagina nera nella quale lentamente apparirà di nuovo quel maledetto pixel rosso (ma guarda te se Toby ci deve far speculare e perdere la testa letteralmente su un pixel);
+\- cliccare sul 4 porta ad un'altra pagina nera nella quale lentamente apparirà di nuovo quel maledetto pixel rosso (ma guarda te se Toby ci deve far speculare e perdere la testa letteralmente su un pixel);
 
-- cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
+\- cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
 
