@@ -280,7 +280,7 @@ In uno dei "Blog di Noelle" rilasciati precedentemente ai capitoli 3 e 4 nei qua
 
 Lo ripetiamo ancora una volta, questi blog non sono canonici e al 99% non saranno MAI necessari per capire eventi futuri, ma l'idea che MANTLE sia una versione modificata di Dragon Blazers a cui Noelle ha giocato, è parecchio interessante:
 
-[https://deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
+[deltarune.com/icepalace_glaceir/](https://deltarune.com/icepalace_glaceir/)
 
 . **L'ANGELO E LA PROFEZIA**
 
@@ -303,27 +303,27 @@ Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entra
 
 Precedentemente all'uscita dei nuovi capitoli, sono stati scoperti i seguenti link del sito di Deltarune:
 
-[https://deltarune.com/chapter1](https://deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
+[deltarune.com/chapter1](https://deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
 
-[https://deltarune.com/chapter2](https://deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
+[deltarune.com/chapter2](https://deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
 
-[https://deltarune.com/chapter3](https://deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
+[deltarune.com/chapter3](https://deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
 
 Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 2 è effettivamente "Applicabile" e nel 3 è praticamente inesistente. Ma facendo lo stesso col capitolo 4...
 
-[https://deltarune.com/chapter4](https://deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route) e anche nel finale, ma persino il primo sostituto "d'emergenza" all'animazione del Fiore a casa di Noelle. 
+[deltarune.com/chapter4](https://deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route) e anche nel finale, ma persino il primo sostituto "d'emergenza" all'animazione del Fiore a casa di Noelle. 
 
 La cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
 
-[https://deltarune.com/chapter5](https://deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
+[deltarune.com/chapter5](https://deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
 
 Altri dettagli e supposizioni su questa pagina: 
 
 a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
 
-b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [https://deltarune.com/chapter6](https://deltarune.com/chapter6) e [https://deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [https://deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido) ), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
+b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido) ), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
-c) Cliccare sull'1 invisibile non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso; cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
+c) Cliccare sull'1 invisibile non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso (ma guarda te se Toby ci deve far speculare su un letterale pixel); cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
 
@@ -339,5 +339,5 @@ Guerra vs Mostri e Umani
 ![WAR1](assets/img/war1.png){width=50%}
 ![WAR2](assets/img/WAR2.png){width=50%}
 
-E infine, una cosa che parla da sé: [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
+E infine, una cosa che parla da sé e che potrebbe richiederti un po' di tempo (speriamo non quanto i gatti della prima live): [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
 
