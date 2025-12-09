@@ -1,6 +1,6 @@
 ##PREMESSA##
 
-Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre, ma sarà comunque a tua discrezione scegliere su quali concentrarti. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3 (video fatto da AbitDistant che parte già dal timestamp rilevante):
+Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre e sarà comunque a tua discrezione scegliere su quali concentrarti. Tutti i link dovrebbero aprirsi nei timestamp o nelle sezioni della pagina in questione. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3 (video fatto da AbitDistant che parte già dal timestamp rilevante):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FbR-eSwNqiI?si=HHa0yjEQYIoJiu6H&amp;start=1744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -343,5 +343,5 @@ Guerra vs Mostri e Umani
 ![WAR1](assets/img/war1.png){width=50%}
 ![WAR2](assets/img/WAR2.png){width=50%}
 
-E infine, una cosa che parla da sé e che potrebbe richiederti un po' di tempo (speriamo non quanto i gatti della prima live, ma stavolta almeno è più divertente): [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
+E infine, una cosa che parla da sé e che potrebbe richiederti un po' di tempo (speriamo non quanto i gatti della prima live, ma stavolta almeno è più divertente): [you're gonna have a not particularly bad time](https://ut10-battle.undertale.com/)
 
