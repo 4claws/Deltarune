@@ -324,7 +324,7 @@ Altri dettagli e supposizioni su questa pagina:
 
 a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background, facile da ignorare.
 
-b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido)), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
+b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter7](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido)), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
 c) - Cliccare sull'1 invisibile non è possibile; 
 
