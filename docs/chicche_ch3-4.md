@@ -59,7 +59,7 @@ Sempre parlando di altri indizi che rivelano dei dettagli, il probabile nome del
 . **IL SENTIERO GHIACCIATO**
 
   Durante la board 2, è possibile provare a dirigersi verso i ghiacciai dell'Ice Palace. Se Tenna è presente, questo impedirà al party di proseguire, "censurerà" la scena e bloccherà l'accesso, come è capitato proprio a te. Ma se ci si va in sua assenza sarà invece possibile raggiungere quel luogo e il party commenterà la cosa.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wptBrUqnyIc?si=3uXbjlqyBa5tq7mi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wptBrUqnyIc?si=AUVrl4fMdYyFjbVB&amp;start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **SWORD ROUTE**
 
@@ -75,7 +75,7 @@ Completando le board con tanti punti e/o completando gli obiettivi extra si rice
 
 . **IL SEGRETO DELLE RENNE**
 
-All'interno dI Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite alternativo che gli rappresentano come renne, una normale e l'altra come oscura. La variabile che nasconde [lo sprite delle renne si chiama  "toriel" nel codice](https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/).
+All'interno di Mantle sono presenti il personaggio del White Cloak e la creatura oscura che segue i tuoi movimenti. Entrambi hanno uno sprite placeholder che gli rappresentano come renne, una normale e l'altra come "oscura". La variabile che nasconde [lo sprite delle renne si chiama  "toriel" nel codice](https://www.reddit.com/r/Deltarune/comments/1l64pkr/thoughts_on_this/).
 
 Nota personale, ma credo che se qualcuno possa avere dubbi sull'identità del cavaliere, penso che quanto sopracitato sia una dimostrazione abbastanza evidente che si tratti di <del>un membro della famiglia Holiday</del> Papyrus che indossa corna finte, SCOMMETETE SEMPRE SU PAPYRUS CAVALIERE!!!
 
@@ -83,7 +83,7 @@ Altra nota, ma è curioso che questa creatura nera segua gli stessi movimenti di
 
 . **ATTACCARE KRIS E SUSIE CON MINI-KRIS** 
 
-Dopo aver ottenuto il mantello e dopo che Susie arriva a controllare che stesse facendo Kris, è possibile controllare il mini avatar e farlo entrare in scena. Se non ci si avvicina troppo ai 2, la scena continua come normale (E dettaglio importante, una volta che Susie scollega il controller, il Mini-Kris scompare), ma è possibile anche attaccare Kris e Susie e avere una scena alternativa segreta.
+Dopo aver ottenuto il mantello e dopo che Susie arriva a vedere che stesse facendo Kris, è possibile controllare il mini avatar e farlo entrare in scena. Se non ci si avvicina troppo ai 2, la scena continua come normale (E dettaglio importante, una volta che Susie scollega il controller, il Mini-Kris scompare), ma è possibile anche attaccare Kris e Susie e avere una scena alternativa segreta.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0o5fPiCmo4w?si=vfWAcmMFpQnz7DQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -149,7 +149,7 @@ Scena del ch2
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tm84YLxwwSk?si=6ZdqD84ZRtBQphxx&amp;start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Scena del ch4 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mKaVC5fyvMc?si=1B9C42_QCmSB183l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=API7GRrZh87l8_lx&amp;start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
@@ -165,7 +165,7 @@ A proposito della chiamata con Berdly, l'opzione di "cantare la canzone del nume
 
 . **LA CAMERA DA LETTO DI CAROL E RUDY**
 
-Lo sprite della stanza è parzialmente oscurato, anche usando tools esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, invesigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
+Lo sprite della stanza è parzialmente oscurato, anche usando tool esterni. E' comunque possibile notare un paio di cose interessanti: una seconda katana, oltre a quella che c'è in cucina, e una strana board con linee e foglietti che sembrerebbe indicare un qualche tipo di ricerca ossessiva o teoria del complotto da parte di Carol (da confrontare con la lavagna del complotto dei tre "Mike"). Va inoltre osservato come sembrerebbe che anche Asgore abbia una board molto simile, investigando il retro del suo negozio, e che parlando della board di Mike, venga detto che a Kris "non piaccia vedere cose come questa"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CGvVT2mQK6Y?si=pHK-FApZXu48P_IB&amp;start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **YOUR NOT TAKING TOO LONG**
@@ -182,15 +182,17 @@ All'organo che Kris suona in quella scena memorabile, è possibile suonare alcun
 In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, immaginando un momento dove si toglie l'elmo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncGNdt92hIM?si=9Ane3ieERJhGssXs&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+E tra l'altro, in queste scene nello specifico, quando Kris chiude gli occhi puoi notare Ralsei che corre via all'ultimo, per assicurarsi che non ci sia la Profezia Finale nel percorso.
+
 . **DIALOGHI "SEGRETI" DI GERSON**
 
-Nella battaglia contro Hammer Of Justice, il progresso è dettato dalle azioni che intraprendi; ogni volta che appaiono "le stelline" quando attacchi o ti curi con OkHeal, è un segno che la fight sta progredendo. Siccome difendersi non dà punti, è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. A partire da questi attacchi, comincia a darti automaticamente punti per portare ad una conclusione della battaglia:
+Nella battaglia contro Hammer Of Justice, il progresso è dettato dalle azioni che intraprendi; ogni volta che appaiono "le stelline" quando attacchi o ti curi con OkHeal, è un segno che la fight sta progredendo. Siccome difendersi non dà punti, è possibile "estendere" la battaglia ed ottenere dei dialoghi segreti che citano 1 ad 1 alcuni suoi dialoghi nella genocide di Undertale, e affrontare degli attacchi extra particolarmente difficili. A partire da questi attacchi, comincia a darti automaticamente punti per portare ad una conclusione la battaglia:
 
 Dialoghi e attacchi segreti
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tHGOMcujK4E?si=vxCGfWdPWXonw7wq&amp;start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Dialoghi in Undertale - Genocide
+Dialoghi in Undertale - Genocide [quelli evidenziati]
 
 ![Dialogo gerson](/assets/img/gerson_genocide.png)
 
@@ -199,7 +201,7 @@ Dialoghi in Undertale - Genocide
 Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=9L0nEAvkteJpJkeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In oltre, per ogni Uovo trovato, sarà aggiunto un Dark dollar alla donazione totale
+Inoltre, per ogni Uovo trovato, sarà aggiunto un Dark dollar alla donazione totale
 
 . **CHICCA MUSICALE**
 
@@ -217,7 +219,7 @@ A proposito di sorrisi, ecco qui la reazione di Ralsei a questa crudelissima ris
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fio7UmbpQfQ?si=imLNhm8z_5HtJ92i&amp;start=472" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un darkner non dovrebbe sentire queste emozioni", ma Kris si tappa fisicamente la bocca per evitare di pronunciare quelle parole. Forse nel momento "Good, keep smiling." è troppo stanco da tutti gli eventi per reagire? 
+Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un darkner non dovrebbe sentire queste emozioni", ma Kris si tappa fisicamente la bocca per evitare di pronunciare quelle parole. Perché anche nel momento "Good, keep smiling." non lo protegge da quelle parole? Forse è troppo stanco da tutti gli eventi per reagire? 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/20vmTiNm8fQ?si=ZU7SsNkqxZaU4pPR&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -262,7 +264,7 @@ Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella
 
 [Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater) (Le canzoni in questione sono poco dopo la metà dello strano player di tumblr senza timestamp)
 
-[Seccom Masada. Familiare?](https://static.wikia.nocookie.net/yumenikki/images/a/a3/Seccom_Masada_Profile.png/revision/latest?cb=20160729161056)
+[Seccom Masada. Familiare?](https://tinyurl.com/4k8fj57e)
 
 . **POSSIBILI TITOLI DI CANZONI FUTURE**
 
@@ -286,7 +288,7 @@ Mi permetto una nota e ipotesi più personale: la profezia in Deltarune secondo 
 
 Ma nello stesso dialogo, Gerson ci racconta come la gente ha iniziato ad avere una interpretazione più macabra, interpretando la "liberazione" come "morte"; questo infatti si avvera nella Genocide ove invece siamo noi l'Angelo, ma della distruzione (Perché Chara ci ha costretti a fare tutto questo??).
 
-E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, Noelle lo diventa nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allego uno screenshot nascosto di una vecchia newsletter che fa un'altra allusione a lei come Angelo:
+E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, noi porteremo felicità e speranza e con il nostro potere di scacciare via l'oscurità aiutiamo gli eroi. Mentre Noelle diventa l'angelo della distruzione nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allo stesso tempo però, in questa situazione Noelle sarebbe uno strumento sotto il nostro controllo... Beh, è solo una speculazione. Allego uno screenshot nascosto di una vecchia newsletter che fa un'altra allusione a lei come Angelo:
 
 ![noelle snow](/assets/img/Noelle_snow.png)
 
@@ -301,40 +303,41 @@ Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entra
 
 Precedentemente all'uscita dei nuovi capitoli, sono stati scoperti i seguenti link del sito di Deltarune:
 
-[deltarune.com/chapter1](deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
+[https://deltarune.com/chapter1](https://deltarune.com/chapter1) porta ad una pagina con la scritta "Not applicable."
 
-[deltarune.com/chapter2](deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
+[https://deltarune.com/chapter2](https://deltarune.com/chapter2) porta ad una pagina con la scritta "Applicable."
 
-[deltarune.com/chapter3](deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
+[https://deltarune.com/chapter3](https://deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
 
 Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 2 è effettivamente "Applicabile" e nel 3 è praticamente inesistente. Ma facendo lo stesso col capitolo 4...
 
-[deltarune.com/chapter4](deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route), ma anche il primo sostituto all'animazione del Fiore a casa di Noelle. 
+[https://deltarune.com/chapter4](https://deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route) e anche nel finale, ma persino il primo sostituto "d'emergenza" all'animazione del Fiore a casa di Noelle. 
 
 La cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
 
-[deltarune.com/chapter5](deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe stare ad indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
+[https://deltarune.com/chapter5](https://deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
 
-Altri dettagli e supposizioni: 
+Altri dettagli e supposizioni su questa pagina: 
 
 a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
 
-b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link (deltarune.com/chapter6) e (deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco, ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco in anticipo rispetto al normale nel capitolo 5.
+b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [https://deltarune.com/chapter6](https://deltarune.com/chapter6) e [https://deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [https://deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido) ), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
-c) Cliccare sull'1 non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird roue (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso; cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
+c) Cliccare sull'1 invisibile non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso; cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
 
-Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario (il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria...)
+Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario; il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria... le memorie appaiono sia durante gli intervalli della live, ma anche nella fight finale contro Asriel, dove tutti "insieme" salviamo Asriel e il mondo, quel tipo di cosa molto romantica che sono convinto apprezzerai.
 
 ![sab echo](assets/img/sabaku_echo.jpg){width=35%}
 
-In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani...
+
+In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove, uno sprite di Noelle bambina nascosto dietro l'albero di Natale facendo finta non sia lì, il corridoio di Gaster dove al posto della porta grigia vi è una porta normale (di nuovo, fanno finta di nulla) etc. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani...
 
 Guerra vs Mostri e Umani
 
 ![WAR1](assets/img/war1.png){width=50%}
 ![WAR2](assets/img/WAR2.png){width=50%}
 
-E infine, una cosa che parla da sé: [you're gonna have a happy time...?](https://ut10-battle.undertale.com/)
+E infine, una cosa che parla da sé: [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
 
