@@ -1,6 +1,8 @@
 ##PREMESSA##
 
-Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre e sarà comunque a tua discrezione scegliere su quali concentrarti. Tutti i link dovrebbero aprirsi nei timestamp o nelle sezioni della pagina in questione. Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3 (video fatto da AbitDistant che parte già dal timestamp rilevante):
+Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre e sarà comunque a tua discrezione scegliere su quali concentrarti. Tutti i link dovrebbero aprirsi nei timestamp o nelle sezioni della pagina in questione. 
+
+Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FbR-eSwNqiI?si=HHa0yjEQYIoJiu6H&amp;start=1744" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -105,15 +107,15 @@ Mi dispiace ma non hai battuto il vero Knight, non sei un vero gamer.
 
  **LEALE FINO A UN CERTO PUNTO**
 
-Già sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente e in base al tuo setup è quello che ne fa di meno). Ma devi sapere che sotto certe condizioni, Kris può fare molto più male al suo alleato; per ogni party member a cui si azzerano gli HP, Kris farà il doppio dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
+Già sai come Kris sia il membro del party che fa meno danno al Cavaliere facendogli persino meno male di quanto ne faccia Ralsei (che solitamente è quello che ne fa di meno, salvo setup specifici). Ma devi sapere che sotto specifiche condizioni, Kris può fare molto più danni di tutti gli altri attacchi al di fuori del Rude Buster di Susie; per ogni party member che va KO, Kris farà il doppio dei danni, per un totale di danni TRIPLI se tutti e 2 i suoi amici sono a terra:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LrAw_cIh7LI?si=FX_3QszLSoCZTHL2&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Francamente, ciò ci dice PARECCHIO su quali siano le sue vere emozioni e sentimenti, per quanto questo personaggio cerchi di nasconderli da noi giocatori...
 
-Altro trivia sui danni, più la battaglia va avanti, più danno i party member faranno male al Knight (difatti nel video sopra linkato, Kris parte facendo circa 60 danni ma più avanti arriva a farne 116), un po' come se il riuscire a sopravvivere contro questo nemico gli riempisse di Speranza che reinforza i loro attacchi.
+Altro trivia sui danni, più la battaglia va avanti, più danno i party member faranno male al Knight (difatti nel video sopra linkato, Kris parte facendo circa 60 danni ma più avanti arriva a farne 116), un po' come se il riuscire a sopravvivere contro questo nemico gli riempisse di Speranza il party reinforzando i loro attacchi.
 
-. **NO HIT?**
+. **NO-HIT**
 
 Allo stesso tempo, se lo si sconfigge senza essere colpiti, apparirà un messaggio speciale a fine battaglia che fa riferimento al suo doppiogioco.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KOu-Zaw-uhc?si=2cKiS-RCREWGAM-Y&amp;start=257" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -149,13 +151,12 @@ Scena del ch2
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tm84YLxwwSk?si=6ZdqD84ZRtBQphxx&amp;start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Scena del ch4 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=API7GRrZh87l8_lx&amp;start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mKaVC5fyvMc?si=1B9C42_QCmSB183l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 . **DIALOGO ALTERNATIVO DI BERDLY**
 
 Quando hai ascoltato il monologo di Berdly al telefono a casa di Noelle, hai risposto "Go with Berdly". Ecco la risposta alternativa "Sing the wrong number song"; come praticamente tutte le frasi di Berdly, quello che dice ha dell'incredibile:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=kJ0twRtys6ZtKPEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nISrILfm1hs?si=API7GRrZh87l8_lx&amp;start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **LA "WRONG NUMBER SONG"**
 
@@ -174,7 +175,7 @@ Qual è il tempo limite che hai prima che la zucca rossa di Jackenstein faccia l
 
 . **TUTTI I PEZZI DELL'ORGANO AZZURRO**
 
-All'organo che Kris suona in quella scena memorabile, è possibile suonare alcuni pezzi "familiari"
+All'organo che Kris suona in quella scena memorabile, è possibile suonare alcuni pezzi "familiari" e i nostri amici reagieranno ad essi; attento che uno nello specifico potrebbe farti avere un bad time:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aEm9WX-jNUA?si=kBiS4FwDnjeyjuZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **IL CAVALIERE SMASCHERATO**
@@ -182,7 +183,7 @@ All'organo che Kris suona in quella scena memorabile, è possibile suonare alcun
 In un momento del capitolo 4, è possibile forzare Kris a pensare al cavaliere, immaginando un momento dove si toglie l'elmo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncGNdt92hIM?si=9Ane3ieERJhGssXs&amp;start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-E tra l'altro, in queste scene nello specifico, quando Kris chiude gli occhi puoi notare Ralsei che corre via all'ultimo, per assicurarsi che non ci sia la Profezia Finale nel percorso.
+Guarda te fino a che punto arriva questo furbacchione per non darci certe informazioni; questo dimostra con ogni probabilità che Kris sa persino chi è il cavaliere (cosa non necessariamente scontata anche se lavorano insieme). E tra l'altro, in queste scene nello specifico, quando Kris chiude gli occhi puoi notare Ralsei che corre via all'ultimo, per assicurarsi che non ci sia la Profezia Finale nel percorso.
 
 . **DIALOGHI "SEGRETI" DI GERSON**
 
@@ -198,10 +199,10 @@ Dialoghi in Undertale - Genocide [quelli evidenziati]
 
 . **LE DONAZIONI DELLA FONTANA**
 
-Ci sono varie soglie per i premi delle donazioni alla fontana nel Primo Santuario, quella più alta fa riferimento ad un certo avido ragno di Undertale...
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=9L0nEAvkteJpJkeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Ci sono varie soglie per diversi premi delle donazioni alla fontana nel Primo Santuario, quella più alta e il suo premio fanno riferimento ad un certo avido ragno di Undertale...
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VSuLUMZ3D7E?si=fk4dE2s7Rv_YKHkF&amp;start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Inoltre, per ogni Uovo trovato, sarà aggiunto un Dark dollar alla donazione totale
+Inoltre, per ogni Uovo trovato, sarà aggiunto un Dark dollar alla donazione totale.
 
 . **CHICCA MUSICALE**
 
@@ -219,7 +220,7 @@ A proposito di sorrisi, ecco qui la reazione di Ralsei a questa crudelissima ris
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fio7UmbpQfQ?si=imLNhm8z_5HtJ92i&amp;start=472" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un darkner non dovrebbe sentire queste emozioni", ma Kris si tappa fisicamente la bocca per evitare di pronunciare quelle parole. Perché anche nel momento "Good, keep smiling." non lo protegge da quelle parole? Forse è troppo stanco da tutti gli eventi per reagire? 
+Trovo curioso come precedentemente nel capitolo, sia possibile dirgli che "Un darkner non dovrebbe sentire queste emozioni", ma Kris si tappa fisicamente la bocca per evitare di pronunciare quelle parole. Perché anche nel momento "Good, keep smiling." non lo protegge dalle nostre scelte crudeli? Forse è troppo stanco da tutti gli eventi per reagire? 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/20vmTiNm8fQ?si=ZU7SsNkqxZaU4pPR&amp;start=72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -262,13 +263,13 @@ AUTORE: {.p} [@C8KIES](https://nitter.net/C80KIES/status/1963409420328784380) | 
 
 Nel lontano Aprile 2012, Toby posta, a detta sua "Made up yume nikkis" che nella sua lingua forse si traduce in "canzoni fanmade per Yume Nikki", un vecchio videogioco che è stata una sua grossa ispirazione.  In questo post è possibile sentire 2 tracce molto familiari, 2 versioni del tema delle stanze delle uova (Si presume del Forgotten Man stesso), intitolate "The waltz of Seccom Masada", un personaggio monocromatico e misterioso di Yume Nikki. La versione 8-bit è perfino stata riutilizzata 1 ad 1 senza alcuna modifica per la stanza dell'uovo del Ch3
 
-[Post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater) (Le canzoni in questione sono poco dopo la metà dello strano player di tumblr senza timestamp)
+Le canzoni in questione sono poco dopo la metà dello strano player senza alcun tipo di timestamp, ecco qui il [post tumblr](https://www.tumblr.com/fwugradiation/20325508850/made-up-yume-nikkis-dark-tunnel-amphitheater)
 
-[Seccom Masada. Familiare?](https://tinyurl.com/4k8fj57e)
+[Questo è Seccom Masada. Familiare?](https://tinyurl.com/4k8fj57e)
 
 . **POSSIBILI TITOLI DI CANZONI FUTURE**
 
-Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole possano essere i titoli proprio di canzoni che ancora non conosciamo; 
+Il nemico Bibliox del ch4, quello che ti fa fare lo spelling corretto di certe parole come suo ACT, ha come particolare di avere 5 parole nella sua pool di termini selezionabili che sono i titoli di alcune delle ost di gioco. Questo ha portato a pensare che le altre parole nella pool possano essere i titoli proprio di canzoni che ancora non conosciamo; 
 
 ma in realtà una di esse, AMPHITHEATER è proprio presente in quello stesso post tumblr vecchio di 13 anni menzionato precedentemente. È possibile che siamo in grado di ascoltare proprio adesso una canzone futura non ancora rilasciata in maniera ufficiale, o almeno una sua vecchia versione. 
 
@@ -288,13 +289,15 @@ Mi permetto una nota e ipotesi più personale: la profezia in Deltarune secondo 
 
 Ma nello stesso dialogo, Gerson ci racconta come la gente ha iniziato ad avere una interpretazione più macabra, interpretando la "liberazione" come "morte"; questo infatti si avvera nella Genocide ove invece siamo noi l'Angelo, ma della distruzione (Perché Chara ci ha costretti a fare tutto questo??).
 
-E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, noi porteremo felicità e speranza e con il nostro potere di scacciare via l'oscurità aiutiamo gli eroi. Mentre Noelle diventa l'angelo della distruzione nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allo stesso tempo però, in questa situazione Noelle sarebbe uno strumento sotto il nostro controllo... Beh, è solo una speculazione. Allego uno screenshot nascosto di una vecchia newsletter che fa un'altra allusione a lei come Angelo:
+E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route normale, noi porteremo felicità e speranza e con il nostro potere di scacciare via l'oscurità aiutiamo gli eroi. Mentre Noelle diventa l'angelo della distruzione nella weird route, la quale è tutta una preparazione per la sua "ascesa". Allo stesso tempo però, in questa situazione Noelle sarebbe uno strumento sotto il nostro controllo, ma non saprei come Noelle possa diventare l'Angelo nella route normale, considerando che in essa sembri essere più secondaria... Beh, è solo una speculazione. 
 
-![noelle snow](/assets/img/Noelle_snow.png)
+Allego uno screenshot nascosto di una vecchia newsletter che fa un'ennesima allusione a lei come Angelo:
+
+![noelle snow](/assets/img/Noelle_snow.png){width=75%}
 
 . **GLI ALTRI MESSAGGI NASCOSTI NEL CODICE**
 
-Nel recap, ti avevamo mostrato dei messaggi segreti presenti nel codice di entrambi i capitoli che mostravano il dialogo di una persona dispersa chissadove e che occassionalmente sentiva un suono simile a dello "scratching". Questi messaggi sono apparsi anche nel codice dei capitoli 3 e 4 e trovati dalla community:
+Nel recap, ti avevamo fatto vedere dei messaggi segreti presenti nel codice di entrambi i capitoli che mostravano il dialogo di una persona dispersa chissadove e che occassionalmente sentiva un suono simile a dello "scratching". Questi messaggi sono apparsi anche nel codice dei capitoli 3 e 4 e trovati dalla community:
 
 [Code del capitolo 3](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-ekalrxzg415f1.png?width=640&crop=smart&auto=webp&s=04e957cd7f08132096ca808c837e7ce25049cb8d)
 [Code del capitolo 4](https://preview.redd.it/additional-unused-text-strings-found-in-the-games-code-v0-liid9szg415f1.png?width=640&crop=smart&auto=webp&s=13fba1207ac5ca2b969f7ebdd3711e4efa4110c3)
@@ -309,24 +312,28 @@ Precedentemente all'uscita dei nuovi capitoli, sono stati scoperti i seguenti li
 
 [deltarune.com/chapter3](https://deltarune.com/chapter3) porta ad una pagina con la scritta "Not applicable."
 
-Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 2 è effettivamente "Applicabile" e nel 3 è praticamente inesistente. Ma facendo lo stesso col capitolo 4...
+Questo molto probabilmente si riferisce appunto alla Weird Route, la quale nel Capitolo 1 è praticamente inesistente, nel 2 è effettivamente "Applicabile" e nel 3 non è possibile interagirvi. Ma facendo lo stesso col capitolo 4...
 
-[deltarune.com/chapter4](https://deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route) e anche nel finale, ma persino il primo sostituto "d'emergenza" all'animazione del Fiore a casa di Noelle. 
+[deltarune.com/chapter4](https://deltarune.com/chapter4) appare solo uno schermo nero nel quale lentamente si forma un singolo pixel rosso fluttuante. Questo è lo stesso pixel che appare non solo in una scena segreta del 4 (che dovresti aver visto nel primo video di differenze della weird route) e anche nel finale, ma persino il primo sostituto "d'emergenza" all'animazione del Fiore a casa di Noelle. 
 
-La cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
+Già all'epoca faceva speculare sulla rilevanza della route nel 3 e nel 4, ma cosa ancora più interessante però, è fare questa cosa del link col capitolo 5.
 
-[deltarune.com/chapter5](https://deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo più importante nel 5 che nel 4.
+[deltarune.com/chapter5](https://deltarune.com/chapter5) In questa pagina, vi sono solo i numeri 2 gigante, il 4 piccolino e il 5 leggermente più grande. Questo potrebbe indicare come la weird route del capitolo 2 sia il capitolo con le più grosse differenze, e come essa avrà un ruolo leggermente più grande nel 5 che nel 4.
 
 Altri dettagli e supposizioni su questa pagina: 
 
-a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
+a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background, facile da ignorare.
 
 b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido)), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
 c) - Cliccare sull'1 invisibile non è possibile; 
+
 - cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat);
-- cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via (qui il suono chiamato "ma.mp3", possibilmente un'ulteriore conferma che il nome sia effettivamente "mare");
+
+- cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via;
+
 - cliccare sul 4 porta ad un'altra pagina nera nella quale lentamente apparirà di nuovo quel maledetto pixel rosso (ma guarda te se Toby ci deve far speculare e perdere la testa letteralmente su un pixel);
+
 - cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
