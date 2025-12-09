@@ -293,7 +293,7 @@ E se questa cosa si invertisse nella weird route? Noi siamo l'Angelo nella route
 
 Allego uno screenshot nascosto di una vecchia newsletter che fa un'ennesima allusione a lei come Angelo:
 
-![noelle snow](/assets/img/Noelle_snow.png){width=25%}
+![noelle snow](/assets/img/Noelle_snow.png){width=40%}
 
 . **GLI ALTRI MESSAGGI NASCOSTI NEL CODICE**
 
