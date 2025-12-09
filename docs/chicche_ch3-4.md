@@ -321,15 +321,19 @@ Altri dettagli e supposizioni su questa pagina:
 
 a) l'1 e il 3 sono in realtà invisibili, selezionando il testo col mouse è possibile rivelarli. Questo potrebbe stare a significare come in realtà la weird route sia comunque "esistente" ma sia solo irrilevante in quei capitoli e solo una cosa di background.
 
-b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido) ), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
+b) Il fatto che non ci sia il numero 6 o il 7 neanche invisibili, e che anche provando a visitare i link [deltarune.com/chapter6](https://deltarune.com/chapter6) e [deltarune.com/chapter6](https://deltarune.com/chapter7) porti alla pagina generica di errore del sito con il cane bianco (qualunque url invalido fa questo, ad esempio [deltarune.com/micheleseistupido](https://deltarune.com/micheleseistupido)), ci fa supporre che la Weird Route potrebbe avere una conclusione del gioco anticipata proprio nel capitolo 5 rispetto alla route normale.
 
-c) Cliccare sull'1 invisibile non è possibile; cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat); cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via; cliccare sul 4 porta ad un'altra pagina nera nella quale apparirà lentamente un certo pixel rosso (ma guarda te se Toby ci deve far speculare su un letterale pixel); cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
+c) - Cliccare sull'1 invisibile non è possibile; 
+- cliccare sul numero 2 ci porta ad una pagina che fa suonare il pre-battle contro Berdly nella weird route (d.ogg, la stessa canzone che è in realtà il basso ostinato di Raise Up Your Bat);
+- cliccare sul 3 porta ad una pagina con un sound effect di ERAM di quando vola via (qui il suono chiamato "ma.mp3", possibilmente un'ulteriore conferma che il nome sia effettivamente "mare");
+- cliccare sul 4 porta ad un'altra pagina nera nella quale lentamente apparirà di nuovo quel maledetto pixel rosso (ma guarda te se Toby ci deve far speculare e perdere la testa letteralmente su un pixel);
+- cliccare sul 5 porta ad una pagina che suona una versione rallentata del tema di Hometown.
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
 
 Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario; il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria... le memorie appaiono sia durante gli intervalli della live, ma anche nella fight finale contro Asriel, dove tutti "insieme" salviamo Asriel e il mondo, quel tipo di cosa molto romantica che sono convinto apprezzerai.
 
-![sab echo](assets/img/sabaku_echo.jpg){width=35%}
+![sab echo](assets/img/sabaku_echo.jpg){width=25%}
 
 
 In questo stream, Toby e amici hanno giocato ad una versione segretamente modificata del gioco che conteneva robe molto strane e nuove, uno sprite di Noelle bambina nascosto dietro l'albero di Natale facendo finta non sia lì, il corridoio di Gaster dove al posto della porta grigia vi è una porta normale (di nuovo, fanno finta di nulla) etc. Se vuoi andartele a spulciare, puoi facilmente trovare tutte le differenze raccolte in vari video, ma le due su cui mi vorrei concentrare sono un nuovo dialogo di Gerson che dà più contesto alla Guerra fra Mostri e Umani...
@@ -339,5 +343,5 @@ Guerra vs Mostri e Umani
 ![WAR1](assets/img/war1.png){width=50%}
 ![WAR2](assets/img/WAR2.png){width=50%}
 
-E infine, una cosa che parla da sé e che potrebbe richiederti un po' di tempo (speriamo non quanto i gatti della prima live): [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
+E infine, una cosa che parla da sé e che potrebbe richiederti un po' di tempo (speriamo non quanto i gatti della prima live, ma stavolta almeno è più divertente): [you're gonna have a... happy time?](https://ut10-battle.undertale.com/)
 
