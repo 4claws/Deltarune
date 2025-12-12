@@ -1,6 +1,6 @@
 ##PREMESSA##
 
-Questa è una pagina composta da una grossa serie di trivia, chicche e segreti che Sabaku ha mancato nella sua run o per le quali semplicemente non è abbastanza terminally online da conoscere. Alcune sono più interessanti/importanti di altre e sarà comunque a tua discrezione scegliere su quali concentrarti. Tutti i link dovrebbero aprirsi nei timestamp o nelle sezioni della pagina in questione. 
+Iniziamo con una piccola premessa per Sabaku: questa pagina non intende essere una raccolta esaustiva di tutte le chicche presenti nel capitolo 3 e 4, ma vi  abbiamo raccolto soltanto quelle che ti sei perso o che sarebbe interessante approfondire. Rimane sempre a tua discrezione scegliere su quale concentrarti.
 
 Detto ciò, iniziamo con le differenze della weird route del ch4 dopo la scena a casa di Noelle; come nel capitolo 3, sono poche e molte sono "opzionali" perché devi fare scelte di dialogo specifiche. In ogni caso sono parecchio più intriganti che nel 3:
 
