@@ -113,7 +113,7 @@ Già sai come Kris sia il membro del party che fa meno danno al Cavaliere facend
 
 Francamente, ciò ci dice PARECCHIO su quali siano le sue vere emozioni e sentimenti, per quanto questo personaggio cerchi di nasconderli da noi giocatori...
 
-Altro trivia sui danni, più la battaglia va avanti, più danno i party member faranno male al Knight (difatti nel video sopra linkato, Kris parte facendo circa 60 danni ma più avanti arriva a farne 116), un po' come se il riuscire a sopravvivere contro questo nemico gli riempisse di Speranza il party reinforzando i loro attacchi.
+Altro trivia sui danni, più la battaglia va avanti, più danno i party member faranno male al Knight (difatti nel video sopra linkato, Kris parte facendo circa 60 danni ma più avanti arriva a farne 116), un po' come se il riuscire a sopravvivere contro questo nemico riempisse di Speranza il party reinforzando i loro attacchi.
 
 . **NO-HIT**
 
@@ -338,7 +338,7 @@ c) \- Cliccare sull'1 invisibile non è possibile;
 
 . **DECIMO ANNIVERSARIO DI UNDERTALE**
 
-Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due stream speciali dell'anniversario; il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria... le memorie appaiono sia durante gli intervalli della live, ma anche nella fight finale contro Asriel, dove tutti "insieme" salviamo Asriel e il mondo, quel tipo di cosa molto romantica che sono convinto apprezzerai.
+Concludiamo con una cosa bella: ricordi come per il decimo anniversario del gioco, Toby aveva invitato i fan a scrivere le proprie memorie in un fiore Eco, insieme alla possibilità di fare un disegnino? Sono riapparsi nelle due live speciali dell'anniversario; il tuo non è apparso, sono stato a cercare il mio e di un amico, ma più di 400.000 persone hanno partecipato, quindi era praticamente una lotteria... le memorie appaiono sia durante gli intervalli della live, ma anche nella fight finale contro Asriel, dove tutti "insieme" salviamo Asriel e il mondo, quel tipo di cosa molto romantica che sono convinto apprezzerai.
 
 ![sab echo](assets/img/sabaku_echo.jpg){width=25%}
 
