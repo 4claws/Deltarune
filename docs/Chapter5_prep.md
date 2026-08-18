@@ -1,7 +1,7 @@
 ##Welcome back fellow Hero!##
 
 Oggi per te non abbiamo un riepilogo enorme che avrebbe richiesto un'intera live come all'inizio del capitolo 3, in una mezz'oretta dovresti essere pronto a giocare!  
-Non c'è un riassunto enorme per gli eventi principali perché non è passato troppo tempo e speriamo ti siano rimasti impressi: lo sviluppo del personaggio di Susie, il cavaliere, i codici dello shelter da trovare, il teaser "The field of Pink and Gold", il titano affrontato con l'aiuto di Gerson, il ritorno a casa, il percorso proibito... però se hai bisogno di qualche ricordo nello specifico, siamo a tua disposizione ovviamente!  
+Non c'è un riassunto per gli eventi principali perché non è passato troppo tempo e speriamo ti siano rimasti impressi: lo sviluppo del personaggio di Susie, il cavaliere, i codici dello shelter da trovare, il teaser "The field of Pink and Gold", il titano affrontato con l'aiuto di Gerson, il ritorno a casa, il percorso proibito... però se hai bisogno di qualche ricordo nello specifico, siamo a tua disposizione ovviamente!  
 Magari potresti fare tu un riepilogo di quello che ricordi e discutere insieme alla chat delle tue aspettative (se non è già avvenuto).
 
 Quello che abbiamo predisposto per te oggi è invece un semplice video dallo youtuber Goldpro di riassunti e speculazioni per le parti secondarie e segrete del gioco (boss dei Shadow Crystal, le Uova etc), le cose che richiederanno più impegno nel corso del tuo playthrough sia a livello di gameplay che a livello di ragionamenti e contemplazioni.  
