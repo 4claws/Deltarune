@@ -4,6 +4,7 @@ Oggi abbiamo per te diverse cose: partiamo dal parlare della Weird Route e dal s
 Se non lo hai scoperto da solo e se non te lo ha detto la chat, se non spammi abbastanza velocemente "proceed" la Weird Route _sembra_ essere abortita. E dico sembra, perché non si sente il solito motivetto che suona nei precedenti capitoli.
 Quindi gli eventi del capitolo 5 avverranno in maniera pressoché identica salvo i momenti subito dopo la scena del lago e qualche dialogo minore, dagli un'occhiata:  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/On9rCiXX9LI?si=xYSz9A4EtO3KOm1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+‎
 
 Cosa causerà ciò nel capitolo 6, nel quale Noelle sembra essere una parte importante? Non dovrà forse avere interazioni piuttosto diverse in base all'essere in Normal Route, Weird Route abortita nel Ch4 (Dove Berdly sarebbe ancora congelato) e abortita nel Ch5?
 
@@ -14,7 +15,7 @@ Il capitolo in generale ha un tono estremamente leggero e divertente nonostante 
 Cosa è successo a Dess? Cosa è successo "On that day" che ha fatto perdere il lavoro ad Asgore (cosa che sapevamo da anni)? Chi è il Knight e cosa vuole per davvero? Chi era e cosa voleva il possessore del mantello nel Ch3? Cosa è Ralsei per davvero?  Cosa rivela la profezia finale di così tragico?  
 
 Personalmente penso che molti dei misteri siano chiaramente collegati fra loro e svelato uno gli altri diventeranno più facili da capire e spiegare quindi non sono molto preoccupato, ma allo stesso tempo non biasimo chi lo sia perché c'è sempre la possibilità che qualcosa non venga gestito appropriatamente.  
-Ci sono anche altri dettagli popco apprezzati come ad esempio la magia di fuoco di Ralsei: a causa del datamining e di alcuni ACT del ch4, sono anni che si discuteva della possibilità che si stesse tenendo nascosta questa magia e il ch5 lo rivela in maniera abbastanza anticlimatica e in maniera poco signiicativa...
+Ci sono anche altri dettagli poco apprezzati come ad esempio la magia di fuoco di Ralsei: a causa del datamining e di alcuni ACT del ch4, sono anni che si discuteva della possibilità che ci stesse tenendo nascosta questa magia e il ch5 lo rivela in maniera abbastanza anticlimatica e in maniera poco signicativa...
 
 Ma sono dettagli e opinioni della community alla fine, bisognerà vedere cosa ha in serbo e che farà Toby e il suo team, che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto pesante con una patch e condizioni specifiche che ti mostreremo fra poco.
 Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo, consiglio questo video (non necessariamente da vedere adesso):   
@@ -28,7 +29,8 @@ Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso 
 
 È dal capitolo 4 che è misteriosamente mancante e nello stesso capitolo Normal_NPC ci dice di non aspettarlo... il quale poi nel festival ci vende per 2G *(moneta di Undertale e non di Deltarune by the way)* usando le sue parole "palline fritte di **polpo**" e Susie noterà che hanno un sapore di "**Cipolla** cruda"... improvvisamente è Hannibal?   
 
-*immagine onion*
+![onionsan](assets/img/onion.png)
+
 
 . **SCELTE ALTERNATIVE AL FESTIVAL**
 
@@ -62,13 +64,17 @@ In ogni caso, non hai notato che sul muro in fondo alla stanza, il suo centro è
 
 . **SUNSET OF THE 7 SUNS**
 
-Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispettivi ai fiori, e come ci viene mostrato da quella volpe in Castle East, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)
+Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispondenti ai fiori stessi, e come ci viene mostrato da quella volpe in Castle East che si mangia il fungo, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)
 
 . **SETH E IL SUO STUDIO DELLE NOSTRE DEBOLEZZE**
 
 Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
 
-Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?
+Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?  
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+
 
 . **SCELTE ALL'ONSEN CON SUSIE**
 
@@ -78,9 +84,8 @@ Ecco a te le scelte alternative all'Onsen con Susie se volessi vederle:
 
 . **LYRICS DI CUTIE MEW MEW MAGIC**
 
-Se ti interessasse leggerle, [ecco a te la pagina della wiki.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)
+Se ti interessasse leggerle, [ecco a te la pagina della wiki.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=8FSu611NVU0-jXW0&amp;start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **A PROPOSITO DI GATTI, MA IL NOSTRO CARO VECCHIO AMICO?**
 
@@ -98,26 +103,30 @@ In una patch successiva alla release dal gioco, qualche settimana dopo di essa, 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7nvzXhGYiVw?si=QNLZpOg925L6JAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di proteine che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello...?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
+Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di "proteine" che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello...?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
 
 . **PARLANDO DELLE UOVA**
 
-Questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma è solo un hint per spiegarti che devi ottenerne altre.
+Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens."  
+Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma è solo un hint per spiegarti che devi ottenerne altre.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?si=E2CDOPtTs4KB9TPx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGO SEGRETO DEL SHADOWCRYSTAL**
 
-In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.
+In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.  
 
-**immagine 1**  
-**Immagine 2**   
+![crystal](assets/img/crystal_v2.png)  
+
+![glass](assets/img/glass_v2.png)
+
 
 . **UN BAGNO TROPPO FREDDO PER FLOWERY**
 
-Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF
+Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF  
 
-**Immagine Bromide**
+![bromidef](assets/img/BromideF.png)
+
 
 . **LA FLOWERY SCARF**
 
@@ -131,6 +140,21 @@ A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintui
 
 . **CHE SUCCEDE SE DICI DI NO A SUSIE ALLA FINE?**
 
-Se sei un mostro e provi a rifiutarti di accompagnare Susie a "casa", Kris ci darà un altro promemoria che in questo gioco le nostre volontà non corrispondano sempre.
+Se sei un mostro e provi a rifiutarti di accompagnare Susie a "casa", Kris ci darà un altro promemoria che in questo gioco le nostre volontà spesso non corrispondano.
 
 **Fai video**
+
+. **LA PIANO COLLECTION**
+  Questo capitolo ha usato per 2 volte (Stanza dell'Uovo e i Crediti) canzoni composte per le versioni ufficiali in pianoforte di alcune canzoni rilasciate mesi prima, se dovessero essere di tuo gusto puoi ascoltarle [qui](https://youtube.com/playlist?list=OLAK5uy_kz0dNb0tFbww-cJAyu1OHCw2_pRZ2P_eI&si=NA6Z-TU81Am47glg).
+
+. **L'ARG DI DELLA WEIRD ROUTE** 
+
+A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere. In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, le risposte particolari che Toby ha dato a certe risposte, dai un'occhiata alla wiki qui: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
+
+. **LA PAGINA WEB**
+
+Ti ricordi quando ti abbiamo mostrato la pagina [https://deltarune.com/chapter5/](https://deltarune.com/chapter5/) che ci faceva foreshadowing della Weird Route? Ridagli un'occhiata, Toby ha aggiornato qualcosa...
+
+. **LA NEWSLETTER**
+
+Infine, chiudiamo questa pagina lasciandoti l'ultima newsletter rilasciata da Toby se desideri leggerla, contiene risposte alle preoccupazioni del pacing, un messaggio pieno d'amore, concept del ch5, le sue solite stronzate e altro (e ricorda che se lo desideri puoi ricevere tu stesso questi aggiornamenti iscrivendoti!). [https://toby.fangamer.com/newsletters/summer26/](https://toby.fangamer.com/newsletters/summer26/)
