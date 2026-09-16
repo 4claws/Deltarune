@@ -1,4 +1,4 @@
-##Bentornato Sabaku!## Oggi jhabsn jhbdkhhb
+##Bentornato Sabaku!##
 
 Oggi abbiamo per te diverse cose: partiamo dal parlare della Weird Route e dal suo possibile abortirla.  
 Se non lo hai scoperto da solo e se non te lo ha detto la chat, se non spammi abbastanza velocemente "proceed" la Weird Route _sembra_ essere abortita. E dico sembra, perché non si sente il solito motivetto che suona nei precedenti capitoli.
@@ -22,9 +22,10 @@ Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo,
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iLg3LFkBxts?si=xOxGBr2Aakdgsnya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 
 Ma ora basta con la malinconia e paura, let's have a last look at the fun things of these chapters:  
-Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso di concentrarci su quelle che potrebbero far partire discussioni, essere interessanti per avvenimenti futuri o quelle che avevi chiesto direttamente tu, come scelte alternative in alcune scene, ma se vuoi ci potrebbero essere **molto altre** su cui ti potresti informare.
+Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso di concentrarci su quelle che potrebbero far partire discussioni, essere interessanti per avvenimenti futuri o quelle che avevi chiesto direttamente tu (tipo scelte alternative a certe scene) e quindi riducendo al minimo quelle comiche, ma se vuoi ci potrebbero essere **molto altre** su cui ti potresti informare, o anche indizi a certe teorie che non menzioneremo.
 
 . **MA CHE È SUCCESSO AD ONION-SAN??**
+
 È dal capitolo 4 che è misteriosamente mancante e nello stesso capitolo Normal_NPC ci dice di non aspettarlo... il quale poi nel festival ci vende per 2G *(moneta di Undertale e non di Deltarune by the way)* usando le sue parole "palline fritte di **polpo**" e Susie noterà che hanno un sapore di "**Cipolla** cruda"... improvvisamente è Hannibal?   
 
 *immagine onion*
@@ -47,6 +48,14 @@ L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1utf9XZIv5E?si=e1RivZmf1vqH8qxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+. **I 3 MIKE E NAGASAGY KIKKY PARK**
+
+Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le scene che possiamo vedere nei 3 Mike. Nella seconda appare addirittura Tenna [(Qui il link se la vuoi vedere)](https://www.reddit.com/r/Deltarune/comments/1pq5ls5/new_cutscene_from_ch_5/), creando questa aspettativa dove quasi credi che rimanga in Città nonostante tu lo dia a Mettaton, ma poi nel capitolo se lo hai regalato effettivamente non appare e Toby fa una battuta meta con Mike che dice "Ehi ma è un tizio importante, mica va via per sempre per davvero... giusto?".
+
+In ogni caso, non hai notato che sul muro in fondo alla stanza, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
+
+**fai video**
+
 . **ZENMASTER**
 
 **nota prova a fare tu un video**
@@ -60,6 +69,12 @@ Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infa
 Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
 
 Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?
+
+. **SCELTE ALL'ONSEN CON SUSIE**
+
+Ecco a te le scelte alternative all'Onsen con Susie se volessi vederle:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p_nMxp3WB3o?si=P1fuLn-BBhw6Fs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **LYRICS DI CUTIE MEW MEW MAGIC**
 
@@ -82,3 +97,40 @@ Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspet
 In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7nvzXhGYiVw?si=QNLZpOg925L6JAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di proteine che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello...?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
+
+. **PARLANDO DELLE UOVA**
+
+Questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma è solo un hint per spiegarti che devi ottenerne altre.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?si=E2CDOPtTs4KB9TPx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **DIALOGO SEGRETO DEL SHADOWCRYSTAL**
+
+In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.
+
+**immagine 1**  
+**Immagine 2**   
+
+. **UN BAGNO TROPPO FREDDO PER FLOWERY**
+
+Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF
+
+**Immagine Bromide**
+
+. **LA FLOWERY SCARF**
+
+Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery su Ralsei, scoprirai che è davvero l'oggetto più OP del gioco con +70 AT, +70 DF e +70 Magia. Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto... eccetto che in realtà è un oggetto piuttosto forte, dando un boost **nascosto** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola davvero una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
+
+. **DIALOGO "SEGRETO" CON FLOWERY"**
+
+A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante:
+
+**fai video**
+
+. **CHE SUCCEDE SE DICI DI NO A SUSIE ALLA FINE?**
+
+Se sei un mostro e provi a rifiutarti di accompagnare Susie a "casa", Kris ci darà un altro promemoria che in questo gioco le nostre volontà non corrispondano sempre.
+
+**Fai video**
