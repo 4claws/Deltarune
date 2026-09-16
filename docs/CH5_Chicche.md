@@ -1,4 +1,4 @@
-##Bentornato Sabaku!##
+##Bentornato Sabaku!## Oggi jhabsn jhbdkhhb
 
 Oggi abbiamo per te diverse cose: partiamo dal parlare della Weird Route e dal suo possibile abortirla.  
 Se non lo hai scoperto da solo e se non te lo ha detto la chat, se non spammi abbastanza velocemente "proceed" la Weird Route _sembra_ essere abortita. E dico sembra, perché non si sente il solito motivetto che suona nei precedenti capitoli.
@@ -49,6 +49,7 @@ L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella 
 
 . **ZENMASTER**
 
+**nota prova a fare tu un video**
 
 . **SUNSET OF THE 7 SUNS**
 
@@ -65,3 +66,19 @@ Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 dann
 Se ti interessasse leggerle, [ecco a te la pagina della wiki.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=8FSu611NVU0-jXW0&amp;start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **A PROPOSITO DI GATTI, MA IL NOSTRO CARO VECCHIO AMICO?**
+
+Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha solo fatto una singola apparizione estremamente nascosta ma che in un certo senso per la prima volta ci dà una sorta di interazione ufficiale, anche se non è stata molto amichevole...
+
+**nota prova tu a fare un video**
+
+Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita. Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi collezionisti ci stiamo portando dietro delle bombe ad orologieria...?
+
+Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando.
+
+. **OR IS IT?**
+
+In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7nvzXhGYiVw?si=QNLZpOg925L6JAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
