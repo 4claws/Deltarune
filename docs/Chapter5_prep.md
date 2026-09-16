@@ -1,7 +1,5 @@
 ##Welcome back fellow Hero!##
 
-test del 16/09
-
 Oggi per te non abbiamo un riepilogo enorme che avrebbe richiesto un'intera live come all'inizio del capitolo 3, in una mezz'oretta dovresti essere pronto a giocare!  
 Non c'è un riassunto per gli eventi principali perché non è passato troppo tempo e speriamo ti siano rimasti impressi: lo sviluppo del personaggio di Susie, il cavaliere, i codici dello shelter da trovare, il teaser "The field of Pink and Gold", il titano affrontato con l'aiuto di Gerson, il ritorno a casa, il percorso proibito... però se hai bisogno di qualche ricordo nello specifico, siamo a tua disposizione ovviamente!  
 Magari potresti fare tu un riepilogo di quello che ricordi e discutere insieme alla chat delle tue aspettative (se non è già avvenuto).
