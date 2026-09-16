@@ -29,8 +29,39 @@ Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso 
 
 *immagine onion*
 
-. **SCELTE ALTERNATIVE AL FESTIVAL E GIRO SULLA RUOTA CON NOELLE SEGRETO**
+. **SCELTE ALTERNATIVE AL FESTIVAL**
 
-Ecco a te dei video per vedere le varie scelte possibili al festival, partendo dalla votazione del Re e della Regina:  
+Ecco a te dei video per vedere le varie scelte possibili al festival. Non sottovalutare queste scene perché alcune danno una *panoramica* abbastanza importante sul rapporto d'infanzia fra Kris e Noelle, partendo dalla votazione del Re e della Regina:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9hYpDNsGvr4?si=iypSs81gJNNoe5Ae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+A seguire, le scelte per i giri sulla ruota panoramica. Normalmente Noelle si rifiuta di andare con Kris, ma se voti per loro 2 come Re e Regina, lei sarà nostalgica per la loro infanzia e quindi accetterà:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eH_P_-E6BY4?si=81vJF8LjmKgRizb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Per quanto riguarda le scelte con questi 3, finiamo con il Test di Forza:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCjkD0c_X0U?si=r7rbeyw0AVy9G451" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella in cui gli riveli la verità è un foreshadowing di quello che avverrà quando Kris e la sua collaborazione col cavaliere verrà rivelata?
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1utf9XZIv5E?si=e1RivZmf1vqH8qxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **ZENMASTER**
+
+
+. **SUNSET OF THE 7 SUNS**
+
+Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispettivi ai fiori, e come ci viene mostrato da quella volpe in Castle East, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)
+
+. **SETH E IL SUO STUDIO DELLE NOSTRE DEBOLEZZE**
+
+Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
+
+Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?
+
+. **LYRICS DI CUTIE MEW MEW MAGIC**
+
+Se ti interessasse leggerle, [ecco a te la pagina della wiki.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=8FSu611NVU0-jXW0&amp;start=38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
