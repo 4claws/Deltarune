@@ -6,6 +6,7 @@
 - [Dettagli (CH1+CH2)](dettagli.md)
 - [Chicche (CH3+CH4)](chicche_ch3-4.md)
 - [Preparazione al Capitolo 5](Chapter5_prep.md)
+- [Chicche (CH5)](CH5_Chicche.md)
 - [Crediti](credits.md)
 
 
