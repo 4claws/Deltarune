@@ -36,7 +36,7 @@ Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso 
 
 . **MA CHE È SUCCESSO AD ONION-SAN??**
 
-È dal capitolo 4 che è misteriosamente mancante e nello stesso capitolo Normal_NPC ci dice di non aspettarlo... il quale poi nel festival ci vende per 2G *(moneta di Undertale e non di Deltarune by the way)* usando le sue parole "palline fritte di **polpo**" e Susie noterà che hanno un sapore di "**Cipolla** cruda"... improvvisamente è Hannibal? Lo ha tolto di mezzo per ragioni relative alle scene del lago di entrambe le Route forse?
+È dal capitolo 4 che è misteriosamente mancante e nello stesso capitolo Normal_NPC ci dice di non aspettarlo... il quale poi nel festival ci vende per 2G *(moneta di Undertale e non di Deltarune by the way)* usando le sue parole "palline fritte di **polpo**" e Susie noterà che hanno un sapore di "**Cipolla** cruda"... improvvisamente è Hannibal? Lo ha tolto di mezzo per ragioni relative alle scene del lago di entrambe le Route forse? Sottolineo in caso non lo ricordi che questa creatura è molto collegata ai Goner di Gaster.
 
 ![onionsan](assets/img/onion.png){width=75%}
 
@@ -117,21 +117,22 @@ Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha so
 Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita (ma non letale).  
 Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi hoarder ci stiamo portando dietro delle bombe ad orologieria...? Ci sono anche i DogDollar che invece diminuiscono di valore... può essere che questi dollari apparentemente troll possano essere utili?
 
-Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando che non apparirà mai davvero.
+Ed ecco tutto ciò che c'è in nel capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando che non sarà mai rilevante...
 
 . **OR IS IT?**
 
-In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
+In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'Uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qS4QhxIONDk?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di "proteine" da nascondere che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
 
-Ricordo che come discusso precedentemente, le "Uova" sembrano proprio essere un problema, un "Issue" da parte della Voce dell'intro e dal codice di gioco stesso (Uno dei dettagli è infatti che non ottieni i trofei "COMPLETE CHAPTER X WITHOUT ISSUE" se hai l'Uovo).
+Ricordo che come discusso precedentemente, le "Uova" sembrano proprio essere un problema, un "Issue" da parte della Voce dell'intro e dal codice di gioco stesso (Uno dei dettagli che lo dimostrano era infatti che ottieni i trofei "COMPLETE CHAPTER X WITHOUT ISSUE" solo se NON hai l'Uovo, e altre cose dentro al codice di gioco stesso).
 
 . **PARLANDO DELLE UOVA**
 
-Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens." Direi abbastanza minaccioso.   
+Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens." Direi abbastanza minaccioso. Mi ricorda ai dettagli che mostravano che sia collegato a qualcosa di traumatico legato a Kris, che forse ha proprio commesso personalmente. Forse le uova sono una manifestazione fisica glitchata dei suoi sensi di colpa? Prova glithcata di qualcosa di orribile per cui si sente in colpa?  
+
 Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma sembra solo un hint per spiegarti che devi ottenerne altre:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -140,16 +141,14 @@ Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intri
 
 In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.  
 
-![crystal](assets/img/crystal_v2.png){width=25%}
-
-![glass](assets/img/glass_v2.png){width=25%}
+![crystal](assets/img/crystal_v2.png){width=25%} ![glass](assets/img/glass_v2.png){width=25%}
 
 
 . **UN BAGNO TROPPO FREDDO PER FLOWERY**
 
 Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF  
 
-![bromidef](assets/img/BromideF.png){width=30%}
+![bromidef](assets/img/BromideF.png){width=27%}
 
 
 . **LA FLOWERY SCARF**
@@ -157,7 +156,7 @@ Se abortisci la Weird Route in un qualunque momento successivo al congelamento d
 Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery su Ralsei, scoprirai che è davvero l'oggetto più OP del gioco con +70 AT, +70 DF e +70 Magia. 
 Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto...
 
-Eccetto che in realtà è un oggetto piuttosto forte, Ralsei la può indossare davvero e dando un boost ***nascosto*** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola seriamente una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
+Eccetto che in realtà è un oggetto piuttosto forte, Ralsei la può indossare davvero e dando un boost ***nascosto*** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola seriamente una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte? O forse è solo una metafora per indicare che Ralsei è in grado di essere più forte perché ha più fiducia in se stesso.
 
 . **DIALOGO "SEGRETO" CON FLOWERY"**
 
@@ -171,9 +170,9 @@ Questo capitolo ha usato per 2 volte (Stanza dell'Uovo e i Crediti) canzoni uffi
 
 . **"L'ARG" DELLA WEIRD ROUTE** 
 
-A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario, una sorta di ARG. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
+A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario, una sorta di ARG. È abbastanza lungo da spiegare per bene, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
 
-In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, alcune delle risposte interessanti che Toby ha dato, dai un'occhiata alla wiki qui, dove sono state compilate le risposte che i vari utenti hanno ricevuto e hanno condiviso: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
+In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato rispondendo con uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, alcune delle risposte interessanti che Toby ha dato, dai un'occhiata alla wiki qui, dove sono state compilate le risposte che i vari utenti hanno ricevuto e hanno condiviso: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
 
 Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi della ch5weird route, eccone alcuni:  
 
