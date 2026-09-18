@@ -88,8 +88,6 @@ Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha
 
 Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=WbS-fpK-CiSgI-NY&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 
