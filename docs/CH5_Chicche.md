@@ -56,7 +56,7 @@ Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le sc
 
 In ogni caso, non hai notato che sul muro in fondo alla stanza solo durante le cutscene, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
 
-***link**
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SeLCOQMLHXI?si=ViKPRwnSwWFRJ6Zj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **ZENMASTER**
 
@@ -149,21 +149,23 @@ Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery s
 
 A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante. Includiamo anche la scelta di non accompagnare Susie a casa:
 
-**link video**
-
-. **CHE SUCCEDE SE DICI DI NO A SUSIE ALLA FINE?**
-
-Se sei un mostro e provi a rifiutarti di accompagnare Susie a "casa", Kris ci darà un altro promemoria che in questo gioco le nostre volontà spesso non corrispondano.
-
-**Fai video**
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-j_lACNG84?si=38T6l_3NHFDQS-QR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **LA PIANO COLLECTION**
   Questo capitolo ha usato per 2 volte (Stanza dell'Uovo e i Crediti) canzoni composte per le versioni ufficiali in pianoforte di alcune canzoni rilasciate mesi prima, se dovessero essere di tuo gusto puoi ascoltarle [qui](https://youtube.com/playlist?list=OLAK5uy_kz0dNb0tFbww-cJAyu1OHCw2_pRZ2P_eI&si=NA6Z-TU81Am47glg).
 
-. **L'ARG DI DELLA WEIRD ROUTE** 
+. **L'ARG DELLA WEIRD ROUTE** 
 
 A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
 In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, le risposte particolari che Toby, dai un'occhiata alla wiki qui: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
+
+Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi della ch5weird route, eccone alcuni:  
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=308&amp;end=356" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=js8nOY8iVl3cBcHU&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 . **LA PAGINA WEB**
 
