@@ -26,8 +26,8 @@ Personalmente penso che molti dei misteri siano chiaramente collegati fra loro e
 
 Ci sono anche altri dettagli poco apprezzati come ad esempio la magia di fuoco di Ralsei: essendo simile ai Dreemur che usano il fuoco, grazie al datamining e di alcuni ACT del Ch4, sono anni che si discuteva della possibilità che ci stesse tenendo nascosta questa magia e il Ch5 lo rivela in maniera abbastanza anticlimatica e in maniera poco signicativa...
 
-Ma sono dettagli e opinioni della community alla fine, bisognerà vedere che farà Toby e il suo team che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto intrigante con una patch e condizioni specifiche che ti mostreremo fra poco.  
-Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo, consiglio questo video (non necessariamente da vedere adesso):   
+Ma sono dettagli e soprattutto OPINIONI della community a cui hanno sacrosanto diritto alla fine, bisognerà vedere che farà Toby e il suo team che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto intrigante con una patch e condizioni specifiche che ti mostreremo fra poco.  
+Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo, consiglio un certo video (non necessariamente da vedere adesso). Non sono d'accordo con tutto, ma su alcune sì e in generale posso capire se qualcuno ha avuto problemi come alcune cose siano state gestite:   
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iLg3LFkBxts?si=xOxGBr2Aakdgsnya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
