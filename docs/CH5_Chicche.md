@@ -86,9 +86,11 @@ Nell'attacco finale di Omega Flowery potrai persino notare come il sole in backg
 
 Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione.](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
 
-Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?  
+Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=WbS-fpK-CiSgI-NY&amp;start=43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 
 . **SCELTE ALL'ONSEN CON SUSIE**
@@ -180,7 +182,7 @@ Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi de
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=303&amp;end=356?vq=hd720p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=xziwbJYFQyEjDNUY&amp;start=13?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=xziwbJYFQyEjDNUY&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
