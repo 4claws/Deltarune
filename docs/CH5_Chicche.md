@@ -6,7 +6,7 @@ Oggi abbiamo per te diverse cose, partiamo dal parlare della Weird Route e dal s
 
 Se non lo hai scoperto da solo e se non te lo ha detto la chat, _sembra_ che non premere abbastanza velocemente "proceed" porti ad abortire la WR. E dico sembra, perché non si sente il solito motivetto che suona nei precedenti capitoli.  
 Quindi gli eventi del capitolo 5 avverranno in maniera pressoché identica salvo i momenti subito dopo la scena del lago e qualche dialogo minore, dagli un'occhiata:  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/On9rCiXX9LI?si=xYSz9A4EtO3KOm1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/On9rCiXX9LI?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 ‎
 
 Cosa causerà ciò nel capitolo 6, nel quale Noelle sembra essere una parte importante? Non dovrà forse avere interazioni piuttosto diverse in base all'essere in Normal Route, Weird Route abortita nel Ch4 (Dove Berdly sarebbe ancora congelato) e abortita nel Ch5?  
@@ -45,19 +45,19 @@ Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso 
 
 Ecco a te dei video per vedere le varie scelte possibili al festival. Non sottovalutare queste scene perché alcune danno una *panoramica* abbastanza importante sul rapporto d'infanzia fra Kris e Noelle, partendo dalla votazione del Re e della Regina:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hYpDNsGvr4?si=iypSs81gJNNoe5Ae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hYpDNsGvr4?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A seguire, le scelte per i giri sulla ruota panoramica. Normalmente Noelle si rifiuta di andare con Kris, ma se voti per loro 2 come Re e Regina, lei sarà nostalgica per la loro infanzia e quindi accetterà:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eH_P_-E6BY4?si=81vJF8LjmKgRizb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eH_P_-E6BY4?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Finiamo con il Test di Forza per quanto riguarda i nostri 3 ragazzi:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCjkD0c_X0U?si=r7rbeyw0AVy9G451" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCjkD0c_X0U?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella in cui gli mostri la verità è un foreshadowing di quello che avverrà quando Kris e la sua collaborazione col cavaliere verrà rivelata?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1utf9XZIv5E?si=e1RivZmf1vqH8qxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1utf9XZIv5E?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **I 3 MIKE E NAGASAGY KIKKY PARK**
 
@@ -65,13 +65,13 @@ Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le sc
 
 In ogni caso, non hai notato un dettaglio sul muro in fondo alla stanza, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SeLCOQMLHXI?si=ViKPRwnSwWFRJ6Zj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SeLCOQMLHXI?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-. **ZENMASTER**
+. **ZENLOOKER**
 
 Hai commesso il crimine IMPERDONABILE di aver quasi beccato un segreto ed averlo perso all'ultimo. Ecco a te:  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k_werpCHfEE?si=EuOavex0-xRnFhIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k_werpCHfEE?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **SUNSET OF THE 7 SUNS**
 
@@ -79,7 +79,7 @@ Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infa
 
 Nell'attacco finale di Omega Flowery potrai persino notare come ti attacca 7 volte, ognuna con un colore del sole diverso:  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3aPJHMHN2Y?si=noSxgE1kmJ5oY-40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3aPJHMHN2Y?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **SETH E LO STUDIO DELLE NOSTRE DEBOLEZZE**
 
@@ -87,14 +87,14 @@ Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha
 
 Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 
 . **SCELTE ALL'ONSEN CON SUSIE**
 
 Ecco a te le scelte alternative all'Onsen con Susie se volessi vederle:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p_nMxp3WB3o?si=P1fuLn-BBhw6Fs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p_nMxp3WB3o?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **FINALE DI TANTE COSE**
 
@@ -111,7 +111,7 @@ Se ti interessasse leggerle, [ecco a te le lyrics del tema di pink.](https://del
 
 Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha solo fatto una singola apparizione estremamente nascosta ma che in un certo senso per la prima volta ci dà una sorta di interazione ufficiale, anche se non è stata molto amichevole...
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t1FPpmWwVrA?si=IzBvPfZ37hUpD5aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t1FPpmWwVrA?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita.  
 Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi hoarder ci stiamo portando dietro delle bombe ad orologieria...? Ci sono anche i DogDollar che invece diminuiscono di valore... può essere che questi item apparentemente troll possano essere utili?
@@ -122,7 +122,7 @@ Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspet
 
 In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qS4QhxIONDk?si=q02SITVVoREXwt4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qS4QhxIONDk?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di "proteine" da nascondere che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
 
@@ -133,7 +133,7 @@ Ricordo che come discusso precedentemente, le "Uova" sembrano proprio essere un 
 Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens." Direi abbastanza minaccioso.   
 Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma sembra solo un hint per spiegarti che devi ottenerne altre:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?si=E2CDOPtTs4KB9TPx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 . **DIALOGO SEGRETO DEL SHADOWCRYSTAL**
 
@@ -160,7 +160,7 @@ Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostr
 
 A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante. Includiamo anche la scelta di non accompagnare Susie a casa in caso non l'abbia vista:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-j_lACNG84?si=38T6l_3NHFDQS-QR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-j_lACNG84?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **LA PIANO COLLECTION**  
 
@@ -178,7 +178,7 @@ Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi de
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=303&amp;end=356?vq=hd720p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=js8nOY8iVl3cBcHU&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=js8nOY8iVl3cBcHU&amp;start=17?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
