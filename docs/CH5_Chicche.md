@@ -140,9 +140,9 @@ Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intri
 
 In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.  
 
-![crystal](assets/img/crystal_v2.png){width=35%}
+![crystal](assets/img/crystal_v2.png){width=25%}
 
-![glass](assets/img/glass_v2.png){width=35%}
+![glass](assets/img/glass_v2.png){width=25%}
 
 
 . **UN BAGNO TROPPO FREDDO PER FLOWERY**
@@ -179,9 +179,9 @@ Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi de
 
 ![foreshadowing](assets/img/foreshadowing.png){width=25%}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=303&amp;end=356?vq=hd720p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=303&amp;end=356?vq=hd720p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=js8nOY8iVl3cBcHU&amp;start=17?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S0P7YYbjYr4?si=xziwbJYFQyEjDNUY&amp;start=13?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
