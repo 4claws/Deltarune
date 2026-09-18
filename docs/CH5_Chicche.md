@@ -140,16 +140,16 @@ Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intri
 
 In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.  
 
-![crystal](assets/img/crystal_v2.png){width=75%}
+![crystal](assets/img/crystal_v2.png){width=25%}
 
-![glass](assets/img/glass_v2.png){width=75%}
+![glass](assets/img/glass_v2.png){width=25%}
 
 
 . **UN BAGNO TROPPO FREDDO PER FLOWERY**
 
 Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF  
 
-![bromidef](assets/img/BromideF.png){width=50%}
+![bromidef](assets/img/BromideF.png){width=15%}
 
 
 . **LA FLOWERY SCARF**
