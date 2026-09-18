@@ -12,12 +12,12 @@ Parlando del diavolo, discutiamo brevemente delle paure per il capitolo 6 e del 
 Il capitolo 4 si era chiuso in una maniera molto cupa con Susie che scopre nella profezia finale un futuro orribile e si promette di evitarlo, nel 5 salvo per una scena opzionale con Ralsei, non viene neanche menzionata e Susie sembra **veramente** non scossa dagli eventi e in generale è molto tranquilla rispetto a come sembrava alla fine del 4.  
 
 Il capitolo in generale ha un tono estremamente leggero e divertente nonostante sembrasse proprio il finale del 4 il punto da cui tutto sarebbe diventato serio, e fa poco per rivelarci di più sui misteri che permeano la storia; molti hanno quindi paura di come potrebbe essere gestito il pacing dei capitoli in arrivo.   
-Cosa è successo a Dess? Cosa è successo "On that day" che ha fatto perdere il lavoro ad Asgore (cosa che sapevamo da anni)? Chi è il Knight e cosa vuole per davvero? Chi era e cosa voleva il possessore del mantello nel Ch3? Cosa è Ralsei per davvero?  Cosa rivela la profezia finale di così tragico?  
+Cosa è successo a Dess? Cosa è successo "On that day" che ha fatto perdere il lavoro ad Asgore (cosa che sapevamo da anni)? Chi è il Knight e cosa vuole per davvero? Chi era e cosa voleva il possessore del mantello nel Ch3? Cosa è Ralsei per davvero?  Cosa rivela la profezia finale di così tragico? Chi è e cosa vuole la voce dell'intro di gioco e che chiama questo mondo "MY DELTARUNE"?
 
 Personalmente penso che molti dei misteri siano chiaramente collegati fra loro e svelato uno gli altri diventeranno più facili da capire e spiegare quindi non sono molto preoccupato, ma allo stesso tempo non biasimo chi lo sia perché c'è sempre la possibilità che qualcosa non venga gestito appropriatamente.  
 Ci sono anche altri dettagli poco apprezzati come ad esempio la magia di fuoco di Ralsei: a causa del datamining e di alcuni ACT del ch4, sono anni che si discuteva della possibilità che ci stesse tenendo nascosta questa magia e il ch5 lo rivela in maniera abbastanza anticlimatica e in maniera poco signicativa...
 
-Ma sono dettagli e opinioni della community alla fine, bisognerà vedere cosa ha in serbo e che farà Toby e il suo team, che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto pesante con una patch e condizioni specifiche che ti mostreremo fra poco.
+Ma sono dettagli e opinioni della community alla fine, bisognerà vedere cosa ha in serbo e che farà Toby e il suo team, che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto intrigante con una patch e condizioni specifiche che ti mostreremo fra poco.
 Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo, consiglio questo video (non necessariamente da vedere adesso):   
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iLg3LFkBxts?si=xOxGBr2Aakdgsnya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -54,17 +54,23 @@ L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella 
 
 Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le scene che possiamo vedere nei 3 Mike. Nella seconda appare addirittura Tenna [(Qui il link se la vuoi vedere)](https://www.reddit.com/r/Deltarune/comments/1pq5ls5/new_cutscene_from_ch_5/), creando questa aspettativa dove quasi credi che rimanga in Città nonostante tu lo dia a Mettaton, ma poi nel capitolo se lo hai regalato effettivamente non appare e Toby fa una battuta meta con Mike che dice "Ehi ma è un tizio importante, mica va via per sempre per davvero... giusto?".
 
-In ogni caso, non hai notato che sul muro in fondo alla stanza, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
+In ogni caso, non hai notato che sul muro in fondo alla stanza solo durante le cutscene, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
 
-**fai video**
+***link**
 
 . **ZENMASTER**
 
-**nota prova a fare tu un video**
+Hai commesso il crimine IMPERDONABILE di aver quasi beccato un segreto ed averlo perso all'ultimo. Ecco a te:  
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k_werpCHfEE?si=EuOavex0-xRnFhIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **SUNSET OF THE 7 SUNS**
 
-Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispondenti ai fiori stessi, e come ci viene mostrato da quella volpe in Castle East che si mangia il fungo, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)
+Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispondenti ai fiori stessi, e come ci viene mostrato da quella volpe in Castle East che si mangia il fungo, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)  
+
+Nell'attacco finale di Omega Flowery potrai persino notare come ti attacca 7 volte, ognuna con un colore del sole diverso:  
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3aPJHMHN2Y?si=noSxgE1kmJ5oY-40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **SETH E IL SUO STUDIO DELLE NOSTRE DEBOLEZZE**
 
@@ -75,40 +81,47 @@ Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 dann
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTCLzDZzFus?si=cD9sXZZJhk06lsvD&amp;start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 
-
 . **SCELTE ALL'ONSEN CON SUSIE**
 
 Ecco a te le scelte alternative all'Onsen con Susie se volessi vederle:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p_nMxp3WB3o?si=P1fuLn-BBhw6Fs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p_nMxp3WB3o?si=P1fuLn-BBhw6Fs0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-. **LYRICS DI CUTIE MEW MEW MAGIC**
+. **FINALE DI TANTE COSE**
 
-Se ti interessasse leggerle, [ecco a te la pagina della wiki.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)  
+Questo capitolo è stato la fine di tante cose... lo Shadow Cyrstal finale, l'Uovo finale, il capitolo leggero e avventuresco finale, ma anche...
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SkLmyyg-h_I?si=BFOrCUihM1wyStM1&amp;start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+. **LYRICS DELLE CANZONI**
+
+Se ti interessasse leggerle, [ecco a te le lyrics del tema di pink.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)  e quelle di [Flowery](https://deltarune.wiki/w/Flower_Man)
 
 
 . **A PROPOSITO DI GATTI, MA IL NOSTRO CARO VECCHIO AMICO?**
 
 Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha solo fatto una singola apparizione estremamente nascosta ma che in un certo senso per la prima volta ci dà una sorta di interazione ufficiale, anche se non è stata molto amichevole...
 
-**nota prova tu a fare un video**
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t1FPpmWwVrA?si=IzBvPfZ37hUpD5aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita. Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi collezionisti ci stiamo portando dietro delle bombe ad orologieria...?
+Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita. Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi hoarder ci stiamo portando dietro delle bombe ad orologieria...? Ci sono anche i DogDollar che invece diminuiscono di valore... può essere che questi item apparentemente troll possano essere utili?
 
-Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando.
+Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando che non apparirà mai davvero.
 
 . **OR IS IT?**
 
 In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7nvzXhGYiVw?si=QNLZpOg925L6JAb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qS4QhxIONDk?si=q02SITVVoREXwt4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
-Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di "proteine" che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello...?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
+Queste Uova, apparentemente connesse a qualcosa di traumatico che Kris ha vissuto, piene di "proteine" da nascondere che tanto piacciono a questo gruppo di gatti comandati da qualcuno (Eram, il possessore del mantello...?)... ma che diavolo significa tutto questo? Aggiungiamolo alla pila di misteri da risolvere negli ultimi capitoli.
+
+Ricordo che come discusso precedentemente, le "Uova" sembrano proprio essere un problema, un "Issue" da parte della Voce dell'intro e dal codice di gioco stesso (Uno dei dettagli è infatti che non ottieni i trofei "COMPLETE CHAPTER X WITHOUT ISSUE" se hai l'Uovo).
 
 . **PARLANDO DELLE UOVA**
 
-Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens."  
-Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma è solo un hint per spiegarti che devi ottenerne altre.
+Un'altra chicchetta dell'Uovo è che se lo possiedi potrai selezionarlo come prova durante il processo della bossfight di Blue e Yellow e il suo testo dice "It's evidence. You'll know what it was evidence for when it happens." Quasi minaccioso.   
+Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intrigante ma sembra solo un hint per spiegarti che devi ottenerne altre.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2yHtmiFdAA4?si=E2CDOPtTs4KB9TPx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -130,13 +143,13 @@ Se abortisci la Weird Route in un qualunque momento successivo al congelamento d
 
 . **LA FLOWERY SCARF**
 
-Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery su Ralsei, scoprirai che è davvero l'oggetto più OP del gioco con +70 AT, +70 DF e +70 Magia. Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto... eccetto che in realtà è un oggetto piuttosto forte, dando un boost **nascosto** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola davvero una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
+Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery su Ralsei, scoprirai che è davvero l'oggetto più OP del gioco con +70 AT, +70 DF e +70 Magia. Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto... eccetto che in realtà è un oggetto piuttosto forte, Ralsei la può indossare davvero e dando un boost **nascosto** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola davvero una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
 
 . **DIALOGO "SEGRETO" CON FLOWERY"**
 
-A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante:
+A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante. Includiamo anche la scelta di non accompagnare Susie a casa:
 
-**fai video**
+**link video**
 
 . **CHE SUCCEDE SE DICI DI NO A SUSIE ALLA FINE?**
 
@@ -149,7 +162,8 @@ Se sei un mostro e provi a rifiutarti di accompagnare Susie a "casa", Kris ci da
 
 . **L'ARG DI DELLA WEIRD ROUTE** 
 
-A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere. In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, le risposte particolari che Toby ha dato a certe risposte, dai un'occhiata alla wiki qui: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
+A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
+In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, le risposte particolari che Toby, dai un'occhiata alla wiki qui: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
 
 . **LA PAGINA WEB**
 
