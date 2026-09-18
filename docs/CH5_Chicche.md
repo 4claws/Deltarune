@@ -121,7 +121,7 @@ Ed ecco tutto ciò che c'è in nel capitolo di questo personaggio. Ci aspettavam
 
 . **OR IS IT?**
 
-In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'Uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
+In una patch successiva alla release dal gioco, qualche settimana dopo di essa, Toby ha aggiunto un dialogo molto particolare e segreto nello shop di Pink. La butto lì, magari a seguito delle opinioni che menzionano come lei sia un superboss con un mood molto (o troppo) diverso e scollegato dagli altri, in un capitolo che in generale forse arriva ad essere troppo leggero e con humour eccessivamente autoreferenziale?. Per ottenerlo hai bisogno di 3 prerequisiti, 2 di essi estremamente interessanti: Battere Pink, **aver ottenuto l'Uovo del capitolo ed essere stato *danneggiato da Friend nell'interazione sopra citata.***
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qS4QhxIONDk?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
