@@ -16,7 +16,7 @@ Cosa causerà ciò nel capitolo 6, nel quale Noelle sembra essere una parte impo
 Parlando del diavolo, discutiamo brevemente delle paure per il capitolo 6 e del perché il 5 sia stato controverso. Quest'ultimo, nel bene e nel male, ha a tutti gli effetti messo "pausa" a buona parte degli eventi della trama principale.  
 Il capitolo 4 si era chiuso in una maniera molto cupa con Susie che scopre nella profezia finale un futuro orribile e si promette di evitarlo che nel 5, salvo per una scena opzionale con Ralsei, non viene neanche menzionata e Susie sembra **veramente** non scossa dagli eventi e in generale è molto tranquilla rispetto a come sembrava alla fine del 4.  
 
-![susie](assets/img/ch4_end.png)
+![susie](assets/img/ch4_end.png){width=25%}
 
 Il capitolo in generale ha un tono estremamente leggero e divertente nonostante sembrasse proprio il finale del 4 il punto da cui tutto sarebbe diventato serio, e fa poco per rivelarci di più sui misteri che permeano la storia; molti hanno quindi paura di come potrebbe essere gestito il pacing dei capitoli in arrivo.   
 
@@ -26,7 +26,7 @@ Personalmente penso che molti dei misteri siano chiaramente collegati fra loro e
 
 Ci sono anche altri dettagli poco apprezzati come ad esempio la magia di fuoco di Ralsei: essendo simile ai Dreemur che usano il fuoco, grazie al datamining e di alcuni ACT del Ch4, sono anni che si discuteva della possibilità che ci stesse tenendo nascosta questa magia e il Ch5 lo rivela in maniera abbastanza anticlimatica e in maniera poco signicativa...
 
-Ma sono dettagli e opinioni della community alla fine, bisognerà vedere che farà Toby e il suo team che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto intrigante con una patch e condizioni specifiche che ti mostreremo fra poco.
+Ma sono dettagli e opinioni della community alla fine, bisognerà vedere che farà Toby e il suo team che ha proprio affrontato le paure del pacing in una newsletter che leggerai come finale, e ha persino aggiunto un dialogo di lore molto intrigante con una patch e condizioni specifiche che ti mostreremo fra poco.  
 Se vuoi vedere quella che secondo me è una bella disanima critica del capitolo, consiglio questo video (non necessariamente da vedere adesso):   
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iLg3LFkBxts?si=xOxGBr2Aakdgsnya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
@@ -38,7 +38,7 @@ Questo capitolo è particolarmente pregno di chicche e dettagli, abbiamo deciso 
 
 È dal capitolo 4 che è misteriosamente mancante e nello stesso capitolo Normal_NPC ci dice di non aspettarlo... il quale poi nel festival ci vende per 2G *(moneta di Undertale e non di Deltarune by the way)* usando le sue parole "palline fritte di **polpo**" e Susie noterà che hanno un sapore di "**Cipolla** cruda"... improvvisamente è Hannibal? Lo ha tolto di mezzo per ragioni relative alle scene del lago di entrambe le Route forse?
 
-![onionsan](assets/img/onion.png)
+![onionsan](assets/img/onion.png){width=75%}
 
 
 . **SCELTE ALTERNATIVE AL FESTIVAL**
@@ -61,7 +61,8 @@ L'ultima scena con delle effettive scelte è quella di PizzaPants. Forse quella 
 
 . **I 3 MIKE E NAGASAGY KIKKY PARK**
 
-Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le scene dei 3 Mike del Ch5. Nella seconda appare addirittura Tenna [(Qui il link se la vuoi vedere)](https://www.reddit.com/r/Deltarune/comments/1pq5ls5/new_cutscene_from_ch_5/), avendo creato questa aspettativa dove quasi credevi che tornasse in Città nonostante tu lo dia a Mettaton, ma poi nel capitolo se lo hai effettivamente regalato non appare e Toby fa una battuta meta con Mike che dice "Ehi ma è un tizio importante, mica va via per sempre per davvero... giusto?".
+Nelle Newsletter precedenti al capitolo, Toby ci aveva anticipato entrambe le scene dei 3 Mike del Ch5. Nella seconda appare addirittura Tenna [(Qui il link se la vuoi vedere)](https://www.reddit.com/r/Deltarune/comments/1pq5ls5/new_cutscene_from_ch_5/).  
+Ha creato questa aspettativa dove quasi credevi che tornasse in Città nonostante tu lo dia a Mettaton, ma poi nel capitolo se lo hai effettivamente regalato non appare e Toby fa una battuta meta con Mike che dice "Ehi ma è un tizio importante, mica va via per sempre per davvero... giusto?".
 
 In ogni caso, non hai notato un dettaglio sul muro in fondo alla stanza, il suo centro è mezzo glitchato come se ci fosse una porta nascosta male... siamo stati mesi a specularci dato che abbiamo avuto le scene con largo anticipo, alla fine la porta era reale o non era niente? A te la verità:
 
@@ -77,13 +78,13 @@ Hai commesso il crimine IMPERDONABILE di aver quasi beccato un segreto ed averlo
 
 Il nome di questa canzone è meno metaforico di quanto si potrebbe pensare. Infatti, se ci fai caso, nel corso dell'esplorazione delle Cliffs e del castello incontreremo proprio 7 soli di colori diversi corrispondenti ai fiori stessi, e come ci viene mostrato da quella in Castle East che si mangia il fungo, non sono altro che Volpi che emettono colori. [Forse sono le 7 lampade sopra ad ogni fiore nella stanza di Asgore?](https://www.reddit.com/r/Deltarune/comments/1uy2avp/asgore_ceiling_lights_are_the_seven_suns_in_the/)  
 
-Nell'attacco finale di Omega Flowery potrai persino notare come ti attacca 7 volte, ognuna con un colore del sole diverso:  
+Nell'attacco finale di Omega Flowery potrai persino notare come il sole in background cambia colore ad ogni attacco, un colore per ogni fiore:  
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v3aPJHMHN2Y?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 . **SETH E LO STUDIO DELLE NOSTRE DEBOLEZZE**
 
-Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
+Come ricorderai Seth ordinerà ad Aqua di usare l'attacco con il quale lei ci ha colpito di più nella sua prima fight. Se non dovessi aver preso danno durante di essa, [il gioco lo terrà in considerazione.](https://www.reddit.com/r/Deltarune/comments/1uj25qo/chapter_5_special_attack_and_dialogue_for_beating/)
 
 Parlando della battaglia, quando Aqua usa l'attacco papera che ti fa solo 1 danno... che succede nell'evenienza dove tu fossi ad 1 HP e ti colpisse...?  
 
@@ -104,17 +105,17 @@ Questo capitolo è stato la fine di tante cose... lo Shadow Cyrstal finale, l'Uo
 
 . **LYRICS DELLE CANZONI**
 
-Se ti interessasse leggerle, [ecco a te le lyrics del tema di pink.](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)  e quelle di [Flowery](https://deltarune.wiki/w/Flower_Man)
+Se ti interessasse leggerle, [ecco a te le lyrics del tema di Flowery.](https://deltarune.wiki/w/Flower_Man) e quelle di [Pink](https://deltarune.wiki/w/Cutie_Mew_Mew_Magic)
 
 
 . **A PROPOSITO DI GATTI, MA IL NOSTRO CARO VECCHIO AMICO?**
 
-Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha solo fatto una singola apparizione estremamente nascosta ma che in un certo senso per la prima volta ci dà una sorta di interazione ufficiale, anche se non è stata molto amichevole...
+Parliamo di questa entità presente fin dal Capitolo 2. In questo capitolo ha solo fatto una singola apparizione estremamente nascosta ma che in un certo senso per la prima volta ci permette di interagire, anche se non è stata molto amichevole...
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t1FPpmWwVrA?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita.  
-Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi hoarder ci stiamo portando dietro delle bombe ad orologieria...? Ci sono anche i DogDollar che invece diminuiscono di valore... può essere che questi item apparentemente troll possano essere utili?
+Secondo la wiki, il danno che infligge in questo incontro dipende dal valore del primo oggetto nel nostro inventario, facendo danno equo al suo valore di vendita (ma non letale).  
+Ehi ma ho letteralmente realizzato mentre scrivevo questo che tutti i primi 3 capitoli ci danno uno glowshard, i quali aumentano di valore ad ogni capitolo... forse noi hoarder ci stiamo portando dietro delle bombe ad orologieria...? Ci sono anche i DogDollar che invece diminuiscono di valore... può essere che questi dollari apparentemente troll possano essere utili?
 
 Questo è tutto ciò che c'è in questo capitolo di questo personaggio. Ci aspettavamo sarebbe apparso per davvero, che fosse il boss segreto, ma nisba... Forse è davvero un easter egg insignificante su cui stiamo overthinkando che non apparirà mai davvero.
 
@@ -139,26 +140,28 @@ Invece questo è il dialogo dell'Uomo se non le hai prese tutte, piuttosto intri
 
 In questo capitolo per qualche motivo il cristallo non ti dà il solito dialogo di vedere il mondo dei lightner attraverso di esso, ma funziona in una stanza specifica con un dialogo particolare... lo includiamo insieme agli altri se li volessi rivisitare e quelli che ottieni usandolo nel Light World, essendocene uno nuovo.  
 
-![crystal](assets/img/crystal_v2.png)  
+![crystal](assets/img/crystal_v2.png){width=75%}
 
-![glass](assets/img/glass_v2.png)
+![glass](assets/img/glass_v2.png){width=75%}
 
 
 . **UN BAGNO TROPPO FREDDO PER FLOWERY**
 
 Se abortisci la Weird Route in un qualunque momento successivo al congelamento di Berdly, la sua versione papera sarà assente dall'illustrazione BromideF  
 
-![bromidef](assets/img/BromideF.png)
+![bromidef](assets/img/BromideF.png){width=50%}
 
 
 . **LA FLOWERY SCARF**
 
 Se modifichi il gioco in modo tale da poter equipaggiare la sciarpa di Flowery su Ralsei, scoprirai che è davvero l'oggetto più OP del gioco con +70 AT, +70 DF e +70 Magia. 
-Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto... eccetto che in realtà è un oggetto piuttosto forte, Ralsei la può indossare davvero e dando un boost ***nascosto*** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola davvero una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
+Ma dopo la sua morte si tramuta in una sciarpa inutile, la "Broken Scarf", mostrando che alla fine Flowery era tutto fumo e niente arrosto...
+
+Eccetto che in realtà è un oggetto piuttosto forte, Ralsei la può indossare davvero e dando un boost ***nascosto*** alle stats di Ralsei pari a +12 AT, +3 DF e +3 Magia, rendendola seriamente una buona opzione come arma definitiva per Ralsei. Forse saremo in grado di ripararla rendendola ancora più forte?
 
 . **DIALOGO "SEGRETO" CON FLOWERY"**
 
-A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo che pochi beccano e molto affascinante. Includiamo anche la scelta di non accompagnare Susie a casa in caso non l'abbia vista:
+A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintuitiva e provi a saltargli parlando con Flowery, questo ti darà un dialogo molto affascinante che pochi beccano. Includiamo anche la scelta di non accompagnare Susie a casa in caso non l'abbia vista:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8-j_lACNG84?vq=hd1080p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
@@ -166,15 +169,15 @@ A fine gioco, quando dici addio ai fiori, se fai una cosa abbastanza controintui
 
 Questo capitolo ha usato per 2 volte (Stanza dell'Uovo e i Crediti) canzoni ufficiali arrangiate in pianoforte rilasciate mesi fa, se dovessero essere di tuo gusto puoi ascoltarle [qui](https://youtube.com/playlist?list=OLAK5uy_kz0dNb0tFbww-cJAyu1OHCw2_pRZ2P_eI&si=NA6Z-TU81Am47glg).
 
-. **L'ARG DELLA WEIRD ROUTE** 
+. **"L'ARG" DELLA WEIRD ROUTE** 
 
-A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
+A partire da Maggio del 2025 Toby ha fatto teaser della Weird Route attraverso uno *strano* questionario, una sorta di ARG. È abbastanza lungo da spiegare, quindi facendola breve lui ha posto per 2 volte la domanda "How long did it take for her to smile?" senza contesto alle quali gli utenti hanno provato a rispondere.   
 
-In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, alcune delle risposte interessanti che Toby ha dato, dai un'occhiata alla wiki qui: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
+In quello più recente poco prima della release del ch5 ha chiesto "Where did it happen?" e a quelli che hanno risposto "The Lake - The Shore - **Under the lake**" ha implicitato avessero indovinato mostrando uno screenshot di Kris al lago durante la Weird Route. Se vuoi più dettagli, alcune delle risposte interessanti che Toby ha dato, dai un'occhiata alla wiki qui, dove sono state compilate le risposte che i vari utenti hanno ricevuto e hanno condiviso: [https://deltarune.wiki/w/Thank_you_survey](https://deltarune.wiki/w/Thank_you_survey)
 
 Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi della ch5weird route, eccone alcuni:  
 
-![foreshadowing](assets/img/foreshadowing.png)
+![foreshadowing](assets/img/foreshadowing.png){width=25%}
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6e9G87lotxA?start=303&amp;end=356?vq=hd720p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -184,7 +187,7 @@ Dato che siamo in tema, ci sono diverse istanze di foreshadowing degli eventi de
 
 . **LA PAGINA WEB**
 
-Ti ricordi quando ti abbiamo mostrato la pagina [https://deltarune.com/chapter5/](https://deltarune.com/chapter5/) che ci faceva foreshadowing della Weird Route? Ridagli un'occhiata, Toby ha aggiornato qualcosa...
+Ti ricordi quando ti abbiamo mostrato la pagina [https://deltarune.com/chapter5/](https://deltarune.com/chapter5/) che ci faceva foreshadowing della Weird Route? Ridagli un'occhiata, Toby ha aggiornato qualcosa (e ricorda che selezionando il testo col tasto sinistro rivela certe cose in queste pagine)...
 
 . **LA NEWSLETTER**
 
